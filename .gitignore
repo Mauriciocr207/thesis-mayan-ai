@@ -1,0 +1,21 @@
+# python environment
+.venv/
+
+# folder to store models
+resources/
+
+/**/*/__pycache__/
+*.pyc
+*.pyo
+
+# folders for academic purposes
+/research
+build/
+/src/*.egg-info
+.env
+assets/
+
+# ignore kaldi
+kaldi/
+
+/**/**/*.wav

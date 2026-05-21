@@ -1,0 +1,5031 @@
+$25 D O L A R B E I N T I S I N K O
+$50 D O L A R S I N K W E N T A
+' GLOT
+'ba'ax GLOT B A_RG X
+<unk> SPN
+a A
+a'al A_RG L
+a'ala'ab A_RG L A_RG B
+a'ala'abe A_RG L A_RG B E
+a'alab A_RG L A B
+a'alaj A_RG L A J
+a'alej A_RG L E J
+a'alik A_RG L I K
+a'alike A_RG L I K E
+aa AA_L
+aaa AA_L A
+aah A A
+aaj AA_L J
+aaje AA_L J E
+aak AA_L K
+aak' AA_L K_G
+aak'e AA_L K_G E
+aak'o AA_L K_G O
+aak'o'ob AA_L K_G O_RG B
+aake AA_L K E
+aako AA_L K O
+aal AA_L L
+aan AA_L N
+aax AA_L X
+aay AA_L Y
+abal A B A L
+abali' A B A L I_G
+abanderarta'al A B A N D E R A R T A_RG L
+abandonarta'ab A B A N D O N A R T A_RG B
+abandonarta'abe A B A N D O N A R T A_RG B E
+abuelita A B U E L I T A
+abuelo A B U E L O
+abueloe A B U E L O E
+abueloile A B U E L O I L E
+abueloilo A B U E L O I L O
+abueloo A B U E L OO_L
+abuelotsil A B U E L O TS I L
+administrakión A D M I N I S T R A K Y O N
+adolfo A D O L F O
+adolfoe A D O L F O E
+advertenkia A D B E R T E NG K Y A
+afuera A F W E R A
+agua A G W A
+ahora A O R A
+aj A J
+aja A J A
+ajal A J A L
+ajan A J A N
+ajso A J S O
+akeptarte A K E P T A R T E
+akeptartike A K E P T A R T I K E
+akompañartiken A K O M P A NY A R T I K E N
+aktualmentee A K T U A L M E N T EE_L
+aktáan A K T AA_H N
+aktáano A K T AA_H N O
+aktúun A K T UU_H N
+al A L
+alak A L A K
+alaktbil A L A K T B I L
+alambre A L A M B R E
+albañil A L B A NY I L
+albino A L B I N O
+alej A L E J
+alfonso A L F O N S O
+algo A L G O
+alijo A L I J O
+alijoe A L I J O E
+alijoil A L I J O I L
+aliviar A L I B Y A R
+alkansar A L K A N S A R
+alkansart A L K A N S A R T
+alkansartaj A L K A N S A R T A J
+alkansarte A L K A N S A R T E
+almanake'ob A L M A N A K E_G O B
+almao A L M A O
+altar A L T A R
+altaro A L T A R O
+alux A L U X
+aluxo A L U X O
+ana A N A
+anailo A N A I L O
+anak A N A K
+anaktech A N A K T E CH
+anchaj A N CH A J
+anik A N I K
+anikech A N I K E CH
+aniken A N I K E N
+aniko'ob A N I K O_RG B
+anikona A N I K O N A
+anil A N I L
+anilo'ob A N I L O_RG B
+anilo'on A N I L O_RG N
+animáas A N I M AA_H S
+anjij A N J I J
+anjile A N J I L E
+antal A N T A L
+antes A N T E S
+aparte A P A R T E
+apellido A P E L L I D O
+apellido'ob A P E L L I D O_RG B
+aprekia A P R E K I A
+apáo A P A O
+arena A R E N A
+arenae A R E N A E
+arpón A R P O N
+arrepentidoen A R R E P E N T I D O E N
+arros A R R O S
+arroso A R R O S O
+asi A S I
+asul A S U L
+así A S I
+asúkar A S U K A R
+atan A T A N
+aten A T E N
+auditoría A U D I T O R I A
+autoridado A U T O R I D A D O
+autoridado'ob A U T O R I D A D O_RG B
+auxilio A U X I L I O
+avansar A B A N S A R
+avansare A B A N S A R E
+avansaro A B A N S A R O
+avila A B I L A
+avilae A B I L A E
+aviono'obo A B Y O N O O B O
+avisarta'abij A B I S A R T A A B I J
+avisarto'one A B I S A R T O O N E
+awate A W A T E
+awatnaj A W A T N A J
+ay A Y
+ayik'alchajij A Y I K_G A L CH A J I J
+ayik'altal A Y I K_G A L T A L
+ayuda A Y U D A
+año A NY O
+añoa A NY O A
+añoil A NY O I L
+años A NY O S
+añose A NY O S E
+aún A U N
+ba'al B A_RG L
+ba'ala B A_RG L A
+ba'alak B A_RG L A K
+ba'alake B A_RG L A K E
+ba'alan B A_RG L A N
+ba'alche B A_RG L CH E
+ba'alche'il B A_RG L CH E_G I L
+ba'alche'ilo'ob B A_RG L CH E_G I L O_RG B
+ba'alche'o B A_RG L CH E_G O
+ba'alche'ob B A_RG L CH E_G O B
+ba'alche'obo B A_RG L CH E_G O B O
+ba'alche'obo' B A_RG L CH E_G O B O_G
+ba'ale B A_RG L E
+ba'ale' B A_RG L E_G
+ba'ali B A_RG L I
+ba'alo B A_RG L O
+ba'alo'ob B A_RG L O_RG B
+ba'alo'obo B A_RG L O_RG B O
+ba'an B A_RG N
+ba'anten B A_RG N T E N
+ba'anteni B A_RG N T E N I
+ba'as B A_RG S
+ba'ate'il B A_RG T E_G I L
+ba'ax B A_RG X
+ba'axak B A_RG X A K
+ba'axake B A_RG X A K E
+ba'axe B A_RG X E
+ba'axe' B A_RG X E_G
+ba'axi B A_RG X I
+ba'axi' B A_RG X I_G
+ba'axij B A_RG X I J
+ba'axo B A_RG X O
+ba'axo'ob B A_RG X O_RG B
+ba'axo'obi B A_RG X O_RG B I
+ba'axten B A_RG X T E N
+baach B AA_L CH
+baak B AA_L K
+baakel B AA_L K E L
+baakeli B AA_L K E L I
+baakelo'ob B AA_L K E L O_RG B
+baanda B AA_L N D A
+baandao B AA_L N D A O
+baile B A I L E
+baileo B A I L E O
+baj B A J
+bajux B A J U X
+bak' B A K_G
+bak'a' B A K_G A_G
+bak'alta'an B A K_G A L T A_RG N
+bak'e' B A K_G E_G
+bak'el B A K_G E L
+bak'elo B A K_G E L O
+bak'o' B A K_G O_G
+bak'paach B A K_G P AA_L CH
+bak'paachil B A K_G P AA_L CH I L
+bakan B A K A N
+bakel B A K E L
+bakáan B A K AA_H N
+bala B A L A
+bala'o B A L A_G O
+balak'che B A L A K_G CH E
+balo'ob B A L O_RG B
+baláantikuba'obi B A L AA_H N T I K U B A_G O B I
+banda B A N D A
+bandaa B A N D AA_L
+banka'obo B A N K A_G O B O
+banketa B A N K E T A
+banko B A N K O
+barato B A R A T O
+baratoil B A R A T O I L
+basuraso'obo B A S U R A S O_RG B O
+bateyao B A T E Y A O
+baul B A U L
+baulo B A U L O
+be'ooraa' B E_G OO_L R AA_L GLOT
+be'oorae' B E_G OO_L R A E_G
+bebeytak B E B E Y T A K
+beekano B EE_L K A N O
+beel B EE_L L
+beele B EE_L L E
+beele'ex B EE_L L E_RG X
+beele'exi' B EE_L L E_RG X I_G
+beeli' B EE_L L I_G
+beelo B EE_L L O
+beelo'ob B EE_L L O_RG B
+beenoe' B EE_L N O E_G
+beet B EE_L T
+beeta'ab B EE_L T A_RG B
+beeta'abiko'ob B EE_L T A_RG B I K O_RG B
+beeta'al B EE_L T A_RG L
+beeta'ale B EE_L T A_RG L E
+beeta'alo' B EE_L T A_RG L O_G
+beeta'an B EE_L T A_RG N
+beeta'ano B EE_L T A_RG N O
+beetaj B EE_L T A J
+beetaje B EE_L T A J E
+beetajo' B EE_L T A J O_G
+beetej B EE_L T E J
+beetij B EE_L T I J
+beetik B EE_L T I K
+beetike B EE_L T I K E
+beetike'ex B EE_L T I K E_RG X
+beetiko B EE_L T I K O
+beetiko' B EE_L T I K O_G
+beetiko'ob B EE_L T I K O_RG B
+beetiko'oba B EE_L T I K O_RG B A
+beetke'ex B EE_L T K E_RG X
+beetmaj B EE_L T M A J
+beeto B EE_L T O
+beeto'ob B EE_L T O_RG B
+beeto'obe B EE_L T O_RG B E
+beeto'obo B EE_L T O_RG B O
+beetsíinkij B EE_L TS II_H N K I J
+bej B E J
+beje B E J E
+bejela'e' B E J E L A_G E_G
+bejla B E J L A
+bejla'a B E J L A_RG
+bejla'ab B E J L A_RG B
+bejla'e B E J L A_G E
+bejla'e' B E J L A_G E_G
+bejle B E J L E
+bejo B E J O
+bejo' B E J O_G
+bek'ech B E K_G E CH
+bek'echech B E K_G E CH E CH
+bekerro B E K E R R O
+bekerroo B E K E R R OO_L
+bele B E L E
+benito B E N I T O
+benitoe B E N I T O E
+beora B E O R A
+beoraa B E O R AA_L
+beorae B E O R A E
+beoras B E O R A S
+beoritasa B E O R I T A S A
+bey B E Y
+beya B E Y A
+beya' B E Y A_G
+beyecho B E Y E CH O
+beyena B E Y E N A
+beyi'istako' B E Y I_RG S T A K O_G
+beyili' B E Y I L I_G
+beyili'o' B E Y I L I_G O_G
+beyo B E Y O
+beyo' B E Y O_G
+beyo'jach B E Y O_G J A CH
+beyo'u B E Y O_G U
+beytak B E Y T A K
+beyxano B E Y X A N O
+bibliao B I B L I A O
+bien B I E N
+bienvenidoech B Y E M B E N I D O E CH
+biicha B II_L CH A
+biil B II_L L
+biile B II_L L E
+bija'an B I J A_RG N
+bik B I K
+bik'in B I K_G I N
+bin B I N
+bina B I N A
+binak B I N A K
+bine B I N E
+bine'ex B I N E_RG X
+bine'exi B I N E_RG X I
+binech B I N E CH
+binej B I N E J
+bineltaj B I N E L T A J
+binen B I N E N
+bini B I N I
+bini' B I N I_G
+binij B I N I J
+binik B I N I K
+binika B I N I K A
+binla'aj B I N L A_RG J
+bino B I N O
+bino'ob B I N O_RG B
+bino'obe B I N O_RG B E
+bino'obi B I N O_RG B I
+bino'obi'o B I N O_RG B I_G O
+bino'obo B I N O_RG B O
+bino'on B I N O_RG N
+binsik B I N S I K
+bis B I S
+bisa'ab B I S A_RG B
+bisa'abij B I S A_RG B I J
+bisa'abo'ob B I S A_RG B O_RG B
+bisa'abo'obo B I S A_RG B O_RG B O
+bisa'ak B I S A_RG K
+bisa'aken B I S A_RG K E N
+bisa'al B I S A_RG L
+bisa'ali B I S A_RG L I
+bisa'alo'ob B I S A_RG L O_RG B
+bisa'ano'obo B I S A_RG N O_RG B O
+bisaj B I S A J
+bisaje'ex B I S A J E_RG X
+bisbil B I S B I L
+bise B I S E
+bisech B I S E CH
+bisej B I S E J
+bisene'ex B I S E N E_RG X
+bisi B I S I
+bisik B I S I K
+bisikech B I S I K E CH
+bisiken B I S I K E N
+bisiki B I S I K I
+bisiko B I S I K O
+bisiko'ob B I S I K O_RG B
+bisiko'obe B I S I K O_RG B E
+bismajo'obo B I S M A J O_RG B O
+biso'ob B I S O_RG B
+biso'oba B I S O_RG B A
+biso'obe B I S O_RG B E
+biso'obo B I S O_RG B O
+bix B I X
+bixak B I X A K
+bixi B I X I
+bixij B I X I J
+bixo'one' B I X O_RG N E_G
+blanko B L A N K O
+bo'obo'os B O_RG B O_RG S
+bo'ole'ex B O_RG L E_RG X
+bo'olta'abe B O_RG L T A_RG B E
+bo'ot B O_RG T
+bo'ota'al B O_RG T A_RG L
+bo'otaj B O_RG T A J
+bo'otik B O_RG T I K
+bo'otike'exe B O_RG T I K E_RG X E
+bo'otiko'ob B O_RG T I K O_RG B
+bo'oy B O_RG Y
+bolantin B O L A N T I N
+bolonch'e'en B O L O N CH_G E_RG N
+bolsa B O L S A
+bolsae B O L S A E
+bolsaila B O L S A I L A
+bolsasil B O L S A S I L
+bona'anile B O N A_RG N I L E
+boonil B OO_L N I L
+boonilo'ob B OO_L N I L O_RG B
+boox B OO_L X
+booxel B OO_L X E L
+box B O X
+brillar B R I L L A R
+bruja B R U J A
+bu'ujula B U_RG J U L A
+bu'ul B U_RG L
+buena B U E N A
+bueno B U E N O
+buka'aj B U K A_RG J
+buka'aja B U K A_RG J A
+buka'aja' B U K A_RG J A_G
+buka'ajo' B U K A_RG J O_G
+bulik B U L I K
+bulto B U L T O
+but'bil B U T_G B I L
+buuts'o' B UU_L TS_G O_G
+byeernes B Y EE_L R N E S
+báabnajo'ob B AA_H B N A J O_RG B
+báal B AA_H L
+báalam B AA_H L A M
+báalantikuba'ob B AA_H L A N T I K U B A_G O B
+báalantikubáaj B AA_H L A N T I K U B AA_H J
+báat B AA_H T
+báaxal B AA_H X A L
+báaxali' B AA_H X A L I_G
+báaxalo'ob B AA_H X A L O_RG B
+báaxta'alo' B AA_H X T A_RG L O_G
+báaxtaj B AA_H X T A J
+béeyak B EE_H Y A K
+béeytal B EE_H Y T A L
+béeytali B EE_H Y T A L I
+bíin B II_H N
+bíinij B II_H N I J
+búukint B UU_H K I N T
+búukintik B UU_H K I N T I K
+búuko'obe B UU_H K O_RG B E
+búul B UU_H L
+búulij B UU_H L I J
+búulul B UU_H L U L
+búululo'ob B UU_H L U L O_RG B
+ch'a CH_G A
+ch'a' CH_G A_G
+ch'a'abe CH_G A_RG B E
+ch'a'abil CH_G A_RG B I L
+ch'a'ach'aka'al CH_G A_RG CH_G A K A_RG L
+ch'a'aj CH_G A_RG J
+ch'a'akal CH_G A_RG K A L
+ch'a'amo'on CH_G A_RG M O_RG N
+ch'a'e CH_G A_G E
+ch'a'ech CH_G A_G E CH
+ch'a'en CH_G A_G E N
+ch'a'i CH_G A_G I
+ch'a'ik CH_G A_G I K
+ch'a'ike CH_G A_G I K E
+ch'a'ike'ex CH_G A_G I K E_RG X
+ch'a'ike'exo CH_G A_G I K E_RG X O
+ch'a'iko'ob CH_G A_G I K O_RG B
+ch'a'ob CH_G A_G O B
+ch'abak CH_G A B A K
+ch'akya CH_G A K Y A
+ch'ala'atel CH_G A L A_RG T E L
+ch'amak CH_G A M A K
+ch'e'ejelo'ob CH_G E_RG J E L O_RG B
+ch'e'en CH_G E_RG N
+ch'e'ena CH_G E_RG N A
+ch'e'ene CH_G E_RG N E
+ch'e'enejtik CH_G E_RG N E J T I K
+ch'e'enejtike CH_G E_RG N E J T I K E
+ch'e'eno CH_G E_RG N O
+ch'e'eno'ob CH_G E_RG N O_RG B
+ch'e'eno'obo CH_G E_RG N O_RG B O
+ch'e'obo CH_G E_G O B O
+ch'eel CH_G EE_L L
+ch'ejekbal CH_G E J E K B A L
+ch'ejik CH_G E J I K
+ch'ejun CH_G E J U N
+ch'enxiki'intik CH_G E N X I K I_RG N T I K
+ch'enxikintike CH_G E N X I K I N T I K E
+ch'i'ibalo'ob CH_G I_RG B A L O_RG B
+ch'i'ik CH_G I_RG K
+ch'i'ikil CH_G I_RG K I L
+ch'iinil CH_G II_L N I L
+ch'ik CH_G I K
+ch'ikaj CH_G I K A J
+ch'ilbil CH_G I L B I L
+ch'inik CH_G I N I K
+ch'o' CH_G O_G
+ch'och'lim CH_G O CH_G L I M
+ch'och'orino CH_G O CH_G O R I N O
+ch'ojch'in CH_G O J CH_G I N
+ch'omak CH_G O M A K
+ch'ooj CH_G OO_L J
+ch'oom CH_G OO_L M
+ch'otik CH_G O T I K
+ch'ujuk CH_G U J U K
+ch'uul CH_G UU_L L
+ch'uulo'ob CH_G UU_L L O_RG B
+ch'uya'an CH_G U Y A_RG N
+ch'uya'ani CH_G U Y A_RG N I
+ch'áaj CH_G AA_H J
+ch'éejeko'on CH_G EE_H J E K O_RG N
+ch'éejele CH_G EE_H J E L E
+ch'éejelo'ob CH_G EE_H J E L O_RG B
+ch'éejo'ob CH_G EE_H J O_RG B
+ch'éenxiki'intik CH_G EE_H N X I K I_RG N T I K
+ch'íich CH_G II_H CH
+ch'íich' CH_G II_H CH_G
+ch'íich'a CH_G II_H CH_G A
+ch'íich'e CH_G II_H CH_G E
+ch'íich'il CH_G II_H CH_G I L
+ch'íich'o CH_G II_H CH_G O
+ch'íich'o'ob CH_G II_H CH_G O_RG B
+ch'íich'o'obo CH_G II_H CH_G O_RG B O
+ch'íich'o'obo' CH_G II_H CH_G O_RG B O_G
+ch'úuk CH_G UU_H K
+ch'úuko'obo CH_G UU_H K O_RG B O
+ch'úuktiko'obe CH_G UU_H K T I K O_RG B E
+ch'úupaalo CH_G UU_H P AA_L L O
+ch'úupal CH_G UU_H P A L
+ch'úupalo CH_G UU_H P A L O
+ch'úuy CH_G UU_H Y
+ch'úuyik CH_G UU_H Y I K
+ch'úuyk'axta'ab CH_G UU_H Y K_G A X T A_RG B
+ch'úuymaj CH_G UU_H Y M A J
+ch'úuyuke CH_G UU_H Y U K E
+ch'úuyul CH_G UU_H Y U L
+cha CH A
+cha'abal CH A_RG B A L
+cha'achik CH A_RG CH I K
+cha'ak'abta'al CH A_RG K_G A B T A_RG L
+cha'akal CH A_RG K A L
+cha'akale CH A_RG K A L E
+cha'an CH A_RG N
+cha'ant CH A_RG N T
+cha'antik CH A_RG N T I K
+cha'e CH A_G E
+cha'ik CH A_G I K
+chaambal CH AA_L M B A L
+chaambalo CH AA_L M B A L O
+chaan CH AA_L N
+chaayi' CH AA_L Y I_G
+chab CH A B
+chabalo'ob CH A B A L O_RG B
+chable CH A B L E
+chak CH A K
+chak'an CH A K_G A N
+chakal CH A K A L
+chakbil CH A K B I L
+chakiko'ob CH A K I K O_RG B
+chakil CH A K I L
+chakilil CH A K I L I L
+chakmo'olo CH A K M O_RG L O
+chaknuul CH A K N UU_L L
+chakts'íits'ib CH A K TS_G II_H TS_G I B
+chalk'al CH A L K_G A L
+chamal CH A M A L
+chambeadoro'ob CH A M B E A D O R O_RG B
+champotón CH A M P O T O N
+chan CH A N
+chavo CH A B O
+che CH E
+che' CH E_G
+che'a CH E_G A
+che'e CH E_RG
+che'echaakil CH E_RG CH AA_L K I L
+che'eje CH E_RG J E
+che'ejo'ob CH E_RG J O_RG B
+che'i CH E_G I
+che'o CH E_G O
+che'ob CH E_G O B
+che'obo' CH E_G O B O_G
+cheem CH EE_L M
+cheemo CH EE_L M O
+cheemo'ob CH EE_L M O_RG B
+cheemo'obo CH EE_L M O_RG B O
+chek'a'an CH E K_G A_RG N
+chen CH E N
+chetumal CH E T U M A L
+chi' CH I_G
+chi'ex CH I_G E X
+chi'i' CH I_RG GLOT
+chi'ibal CH I_RG B A L
+chi'ichi'ibejo CH I_RG CH I_RG B E J O
+chi'ikam CH I_RG K A M
+chich CH I CH
+chichan CH I CH A N
+chichanen CH I CH A N E N
+chichanene CH I CH A N E N E
+chichano' CH I CH A N O_G
+chiich CH II_L CH
+chiiche' CH II_L CH E_G
+chiichi'ile CH II_L CH I_RG L E
+chiiwol CH II_L W O L
+chik'in CH I K_G I N
+chika'an CH I K A_RG N
+chikleo CH I K L E O
+chiko CH I K O
+chikúunt CH I K UU_H N T
+chikúunte CH I K UU_H N T E
+chila'ani CH I L A_RG N I
+chilaankil CH I L AA_L N K I L
+chilaj CH I L A J
+chilajen CH I L A J E N
+chile CH I L E
+chilikbalen CH I L I K B A L E N
+chimes CH I M E S
+chok CH O K
+chok'ik CH O K_G I K
+chokwil CH O K W I L
+chowak CH O W A K
+chowakchaj CH O W A K CH A J
+chowakil CH O W A K I L
+chowakila CH O W A K I L A
+chowaktak CH O W A K T A K
+chu'ukulo CH U_RG K U L O
+chuchul CH U CH U L
+chujkayo CH U J K A Y O
+chujkayo'obo CH U J K A Y O_RG B O
+chuk CH U K
+chuke CH U K E
+chukej CH U K E J
+chukik CH U K I K
+chukil CH U K I L
+chukkay CH U K K A Y
+chukpulpo'obo CH U K P U L P O_RG B O
+chukwa' CH U K W A_G
+chumpajal CH U M P A J A L
+chumpal CH U M P A L
+chupe'ex CH U P E_RG X
+chuuchu' CH UU_L CH U_G
+chuuko CH UU_L K O
+chuuko'ob CH UU_L K O_RG B
+chuun CH UU_L N
+chuune' CH UU_L N E_G
+chuup CH UU_L P
+cháak CH AA_H K
+cháake CH AA_H K E
+chéen CH EE_H N
+chíich'o CH II_H CH_G O
+chíika'an CH II_H K A_RG N
+chíika'anech CH II_H K A_RG N E CH
+chíikpajak CH II_H K P A J A K
+chíinil CH II_H N I L
+chúuch CH UU_H CH
+chúuk CH UU_H K
+chúuka'an CH UU_H K A_RG N
+chúukpajal CH UU_H K P A J A L
+chúukpajale' CH UU_H K P A J A L E_G
+chúukpesik CH UU_H K P E S I K
+chúumuk CH UU_H M U K
+chúumukil CH UU_H M U K I L
+chúumuko CH UU_H M U K O
+chúunchintok'e CH UU_H N CH I N T O K_G E
+chúunk'intal CH UU_H N K_G I N T A L
+d D
+dantoi D A N T O I
+de D E
+debe D E B E
+dekididoen D E K I D I D O E N
+dekidirmubáaj D E K I D I R M U B AA_H J
+del D E L
+delitoil D E L I T O I L
+demasiado D E M A S I A D O
+demonioo D E M O N I OO_L
+derecho D E R E CH O
+desde D E S D E
+desgrakiadamente D E S G R A K Y A D A M E N T E
+deskubrirto D E S K U B R I R T O
+deskubrirto'ob D E S K U B R I R T O_RG B
+desobedekert D E S O B E D E K E R T
+desprekiart D E S P R E K I A R T
+desprekiartike'ex D E S P R E K I A R T I K E_RG X
+despuese D E S P U E S E
+despuesi D E S P U E S I
+despuése D E S P W E S E
+detektor D E T E K T O R
+diabloo D I A B L OO_L
+diaile D I A I L E
+diario D I A R I O
+diarioi D I A R I O I
+diarioo D I A R I OO_L
+diarios D I A R I O S
+diariose D I A R I O S E
+diekinueve D Y E K I N W E B E
+diekiocho D I E K I O CH O
+diekisiete D I E K I S I E T E
+diekiséis D Y E K I S E I S
+dies D I E S
+diferentes D I F E R E N T E S
+dios D I O S
+diosbo'otik D I O S B O_RG T I K
+diose D I O S E
+diosinto'ob D I O S I N T O_RG B
+dioso D I O S O
+diskoo D I S K OO_L
+doble D O B L E
+doke D O K E
+dokea D O K E A
+dokee D O K EE_L
+dokena D O K E N A
+doktore D O K T O R E
+doktoro D O K T O R O
+dominartik D O M I N A R T I K
+dominarto'ob D O M I N A R T O_RG B
+domingoe D O M I NG G O E
+don D O N
+dos D O S
+doña D O NY A
+duende D U E N D E
+dulke D U L K E
+durochaj D U R O CH A J
+dyos D Y O S
+dyosbo'otik D Y O S B O_RG T I K
+día D I A
+díae D I A E
+días D I A S
+díase D I A S E
+dóon D OO_H N
+e E
+e'esikubáaj E_RG S I K U B AA_H J
+eeko'obo' EE_L K O_RG B O_G
+eel EE_L L
+eelij EE_L L I J
+eelik EE_L L I K
+ej E J
+ejido'ex E J I D O_G E X
+ejidoa E J I D O A
+ejéentike E J EE_H N T I K E
+eklesiasteke E K L E S I A S T E K E
+eklesiastes E K L E S I A S T E S
+el E L
+eligio E L I J Y O
+empujarbil E M P U J A R B I L
+en E N
+enfrentartabáaj E M F R E N T A R T A B A A J
+enkantado E N K A N T A D O
+enkantadoil E N K A N T A D O I L
+enkantarta'al E N K A N T A R T A_RG L
+enkantartbil E N K A N T A R T B I L
+enkontrarta'ab E N K O N T R A R T A_RG B
+enkontrartechi E N K O N T R A R T E CH I
+ensukiartuba'ob E N S U K I A R T U B A_G O B
+entonkes E N T O N K E S
+entonkese E N T O N K E S E
+envenenarto'ob E M B E N E N A R T O O B
+era E R A
+es E S
+eskarkega E S K A R K E G A
+eskarkegae E S K A R K E G A E
+eskinaa E S K I N AA_L
+esklavitud E S K L A B I T U D
+esklavitudi E S K L A B I T U D I
+esklavitudo E S K L A B I T U D O
+esklavo E S K L A B O
+eskuela E S K U E L A
+eskuelae E S K U E L A E
+eskuelao E S K U E L A O
+españa E S P A NY A
+español E S P A NY O L
+españole E S P A NY O L E
+espiritú E S P I R I T U
+espíritu E S P I R I T U
+establekertuba'ob E S T A B L E K E R T U B A_G O B
+establekido E S T A B L E K I D O
+estado E S T A D O
+estatua E S T A T U A
+estatuail E S T A T U A I L
+estudio E S T U D I O
+estuvo E S T U B O
+está E S T A
+euan E U A N
+explikado E X P L I K A D O
+eyaj E Y A J
+familia F A M I L Y A
+faro F A R O
+faroo F A R O O
+federalil F E D E R A L I L
+felipe F E L I P E
+fierro F Y E RR O
+fierro'obo F Y E RR O O B O
+fiijo F Y I J O
+fijartubáaj F I J A R T U B A A J
+fijo F I J O
+firmartik F I R M A R T I K
+flete F L E T E
+forma F O R M A
+formail F O R M A I L
+formaili F O R M A I L I
+formal F O R M A L
+formalmente F O R M A L M E N T E
+formart F O R M A R T
+foto F O T O
+frakasarnajech F R A K A S A R N A J E CH
+fuera F W E R A
+fuersa F W E R S A
+fuerte F W E R T E
+fumigakión F U M I G A K Y O N
+fundadoren F U N D A D O R E N
+ganarta'abij G A N A R T A A B I J
+ganarta'al G A N A R T A A L
+gancho G A N CH O
+garantisare G A R A N T I S A R E
+gas G A S
+gaso G A S O
+gasolina G A S O L I N A
+gastoil G A S T O I L
+gastosil G A S T O S I L
+generakión J E N E R A K Y O N
+gente J E N T E
+gente'ob J E N T E O B
+gentea J E N T E A
+gentee J E N T E E
+genteo J E N T E O
+gestionil J E S T Y O N I L
+gigante J I G A N T E
+gobernador G O B E R N A D O R
+gobernadoro G O B E R N A D O R O
+gobierno G O B Y E R N O
+gobiernoil G O B Y E R N O I L
+grabarta'ab G R A B A R T A A B
+grabarta'ano'obo G R A B A R T A A N O O B O
+grakias G R A K Y A S
+gratuito'obo G R A T W I T O O B O
+gremio G R E M Y O
+gremioe G R E M Y O E
+gremioi G R E M Y O I
+grupo G R U P O
+guerra'obo G E RR A O B O
+había A B I A
+hambolon A M B O L O N
+harina A R I N A
+harinao A R I N A O
+hasta A S T A
+hay A I
+hekelchakan E K E L CH A K A N
+hekelchakano E K E L CH A K A N O
+hektáreas E K T A R E A S
+helikóptero E L I K O P T E R O
+hermano E R M A N O
+hielo Y E L O
+hierro Y E RR O
+hija I J A
+hijo I J O
+hijoa I J O A
+hijoe I J O E
+hijotsilo I J O T S I L O
+hijueputa I J W E P U T A
+hilda I L D A
+historia I S T O R Y A
+historiail I S T O R Y A I L
+historiailo I S T O R Y A I L O
+hola O L A
+hombre O M B R E
+hopelchen O P E L CH E N
+hora O R A
+huerto W E R T O
+héktor E K T O R
+i I
+i' I_G
+ich I CH
+ichil I CH I L
+ichilo I CH I L O
+ichilo' I CH I L O_G
+ichkíil I CH K II_H L
+ichkíilnako'on I CH K II_H L N A K O_RG N
+ichnaji I CH N A J I
+icho' I CH O_G
+iglesia I G L E S Y A
+iglesiaa I G L E S Y A A
+iglesiae I G L E S Y A E
+iglesiao I G L E S Y A O
+ignorankia I G N O R A NG K Y A
+igual I G W A L
+iguali I G W A L I
+iik II_L K
+iik'o II_L K_G O
+iiko II_L K O
+iim II_L M
+iis II_L S
+iiso II_L S O
+iit II_L T
+ik I K
+ikil I K I L
+iknale I K N A L E
+il I L
+ila'abe I L A_RG B E
+ila'abij I L A_RG B I J
+ila'abik I L A_RG B I K
+ila'abo'ob I L A_RG B O_RG B
+ila'an I L A_RG N
+ilaj I L A J
+ile I L E
+ile'ex I L E_RG X
+ile'exo'ob I L E_RG X O_RG B
+ilej I L E J
+ilib I L I B
+ilik I L I K
+ilika I L I K A
+ilikba I L I K B A
+ilikbaex I L I K B A E X
+ilike I L I K E
+ilike'exa' I L I K E_RG X A_G
+iliko I L I K O
+ilmaj I L M A J
+ilmaji I L M A J I
+ilo'ob I L O_RG B
+in I N
+inflamado I M F L A M A D O
+ingeniero I NG J E N Y E R O
+invitartik I M B I T A R T I K
+ipíil I P II_H L
+isla I S L A
+islae I S L A E
+ixi'im I X I_RG M
+ixi'imo I X I_RG M O
+j J
+ja J A
+ja' J A_G
+ja'a J A_RG
+ja'ab J A_RG B
+ja'abil J A_RG B I L
+ja'abin J A_RG B I N
+ja'abo'ob J A_RG B O_RG B
+ja'ak J A_RG K
+ja'ak' J A_RG K_G
+ja'ala'ab J A_RG L A_RG B
+ja'ala'abe J A_RG L A_RG B E
+ja'alej J A_RG L E J
+ja'ali J A_RG L I
+ja'alibe J A_RG L I B E
+ja'an J A_RG N
+ja'as J A_RG S
+ja'asa'al J A_RG S A_RG L
+ja'asaj J A_RG S A J
+ja'asajáóol J A A S A J A O O L
+ja'asik J A_RG S I K
+ja'ats'ale J A_RG TS_G A L E
+ja'ats'ij J A_RG TS_G I J
+ja'atsilo J A_RG TS I L O
+ja'e J A_G E
+ja'i J A_G I
+ja'il J A_G I L
+ja'ilo J A_G I L O
+ja'o J A_G O
+ja'o' J A_G O_G
+ja'obo' J A_G O B O_G
+jaa J AA_L
+jaach J AA_L CH
+jaaj J AA_L J
+jaajal J AA_L J A L
+jaajen J AA_L J E N
+jaajene J AA_L J E N E
+jaaji J AA_L J I
+jaajil J AA_L J I L
+jaan J AA_L N
+jaanakech J AA_L N A K E CH
+jaanako'on J AA_L N A K O_RG N
+jaanale J AA_L N A L E
+jaanalo'ob J AA_L N A L O_RG B
+jaanko'on J AA_L N K O_RG N
+jaanli J AA_L N L I
+jaant J AA_L N T
+jaanta'al J AA_L N T A_RG L
+jaanta'alo' J AA_L N T A_RG L O_G
+jaantaj J AA_L N T A J
+jaantbil J AA_L N T B I L
+jaantbile J AA_L N T B I L E
+jaante J AA_L N T E
+jaantej J AA_L N T E J
+jaantik J AA_L N T I K
+jaantike J AA_L N T I K E
+jaantike'ex J AA_L N T I K E_RG X
+jaantikech J AA_L N T I K E CH
+jaantiko'ob J AA_L N T I K O_RG B
+jaantmaj J AA_L N T M A J
+jaantmaji J AA_L N T M A J I
+jaanto J AA_L N T O
+jaats J AA_L TS
+jaats'il J AA_L TS_G I L
+jaatse' J AA_L TS E_G
+jabonilo J A B O N I L O
+jabuch J A B U CH
+jabuche' J A B U CH E_G
+jach J A CH
+jajajajaja J A J A J A J A J A
+jajal J A J A L
+jajay J A J A Y
+jak'a'an J A K_G A_RG N
+jakk'esikene J A K K_G E S I K E N E
+jala J A L A
+jalk'esubae J A L K_G E S U B A E
+jalk'esubáaj J A L K_G E S U B AA_H J
+jalk'etiko'ob J A L K_G E T I K O_RG B
+jaltun J A L T U N
+jamás J A M A S
+jan J A N
+janal J A N A L
+janala' J A N A L A_G
+janalbe'eno J A N A L B E_RG N O
+janale'exa' J A N A L E_RG X A_G
+janale'exi' J A N A L E_RG X I_G
+janale'exo' J A N A L E_RG X O_G
+janalilo'ob J A N A L I L O_RG B
+janalo' J A N A L O_G
+janalo'ob J A N A L O_RG B
+janalo'oba' J A N A L O_RG B A_G
+janalo'obo' J A N A L O_RG B O_G
+jats'ikech J A TS_G I K E CH
+jats'ikuba'ob J A TS_G I K U B A_G O B
+jats'ta'abo J A TS_G T A_RG B O
+jats'uts J A TS_G U TS
+jats'utsi J A TS_G U TS I
+jats'utso J A TS_G U TS O
+jats'utso'ob J A TS_G U TS O_RG B
+jats'utstako'ob J A TS_G U TS T A K O_RG B
+jats'wo'oj J A TS_G W O_RG J
+jats'wo'ojo J A TS_G W O_RG J O
+jats'wo'ojo'obo J A TS_G W O_RG J O_RG B O
+jats'wojo'obo J A TS_G W O J O_RG B O
+jauu J A UU_L
+jauuu J A UU_L U
+jawik J A W I K
+jawk'ajen J A W K_G A J E N
+jay J A Y
+jayp'éel J A Y P_G EE_H L
+jaytúul J A Y T UU_H L
+jbaase' J B AA_L S E_G
+jbiicho J B II_L CH O
+jbin J B I N
+jbinen J B I N E N
+jbinij J B I N I J
+jbino'ob J B I N O_RG B
+jbino'on J B I N O_RG N
+jbisa'ab J B I S A_RG B
+jbisa'abo'ob J B I S A_RG B O_RG B
+jbisa'abo'obi J B I S A_RG B O_RG B I
+jbisa'abo'obo J B I S A_RG B O_RG B O
+jch'a'ab J CH_G A_RG B
+jch'eenebta'ab J CH_G EE_L N E B T A_RG B
+jch'och'orino J CH_G O CH_G O R I N O
+jchujkay J CH U J K A Y
+jchujkayo'obo J CH U J K A Y O_RG B O
+jcháacha'ab J CH AA_H CH A_RG B
+je J E
+je' J E_G
+je'abáaj J E_G A B AA_H J
+je'e J E_RG
+je'eba'axak J E_RG B A_RG X A K
+je'ebel J E_RG B E L
+je'ebil J E_RG B I L
+je'ebix J E_RG B I X
+je'ebixo'ona J E_RG B I X O_RG N A
+je'ek'abtikubáaj J E_RG K_G A B T I K U B AA_H J
+je'ek'abtpaj J E_RG K_G A B T P A J
+je'ek'abtubáaj J E_RG K_G A B T U B AA_H J
+je'el J E_RG L
+je'ela J E_RG L A
+je'ela' J E_RG L A_G
+je'ele J E_RG L E
+je'eleko'obe J E_RG L E K O_RG B E
+je'elel J E_RG L E L
+je'elele'ex J E_RG L E L E_RG X
+je'eleli J E_RG L E L I
+je'eli J E_RG L I
+je'elij J E_RG L I J
+je'elili' J E_RG L I L I_G
+je'elo J E_RG L O
+je'elo' J E_RG L O_G
+je'elo'ob J E_RG L O_RG B
+je'elo'obi J E_RG L O_RG B I
+je'elo'obo J E_RG L O_RG B O
+je'elsikuba'ob J E_RG L S I K U B A_G O B
+je'ep'el J E_RG P_G E L
+je'epajij J E_RG P A J I J
+je'epajle J E_RG P A J L E
+je'ex J E_RG X
+je'exe J E_RG X E
+je'exena J E_RG X E N A
+je'ik J E_G I K
+je'ike'ex J E_G I K E_RG X
+je'ike'exi J E_G I K E_RG X I
+je'ikubáaj J E_G I K U B AA_H J
+je'obe J E_G O B E
+je'paj J E_G P A J
+jebla'aj J E B L A_RG J
+jech J E CH
+jechaj J E CH A J
+jechaje J E CH A J E
+jeche J E CH E
+jeel J EE_L L
+jeelij J EE_L L I J
+jeelo J EE_L L O
+jefe J E F E
+jefeo J E F E O
+jejeláas J E J E L AA_H S
+jejeláasil J E J E L AA_H S I L
+jela'an J E L A_RG N
+jela'anil J E L A_RG N I L
+jela'antako'ob J E L A_RG N T A K O_RG B
+jene J E N E
+jenkantarta'abij J E N K A N T A R T A_RG B I J
+jgabuch J O T A G A B U CH
+jila'ab J I L A_RG B
+jila'abe J I L A_RG B E
+jila'abij J I L A_RG B I J
+jin J I N
+jiri'ixtik J I R I_RG X T I K
+jirim J I R I M
+jit'ik J I T_G I K
+jit'láantaj J I T_G L AA_H N T A J
+jjaas J J AA_L S
+jk'uch J K_G U CH
+jk'uche J K_G U CH E
+jk'uchene J K_G U CH E N E
+jk'ucho J K_G U CH O
+jk'ucho'on J K_G U CH O_RG N
+jk'usa'abo'ob J K_G U S A_RG B O_RG B
+jk'áat J K_G AA_H T
+jk'óocha'abij J K_G OO_H CH A_RG B I J
+jka'ansajen J K A_RG N S A J E N
+jkaase' J K AA_L S E_G
+jkajlaj J K A J L A J
+jkalin J K A L I N
+jkalin:ba'ax J O T A K A L I M B A A K S
+jkaline J K A L I N E
+jkaline' J K A L I N E_G
+jkalinech J K A L I N E CH
+jkalinen J K A L I N E N
+jkapkúunta'ab J K A P K UU_H N T A_RG B
+jkíim J K II_H M
+jkíimi J K II_H M I
+jkíimij J K II_H M I J
+jkíimo'ob J K II_H M O_RG B
+jkíimo'obe J K II_H M O_RG B E
+jkíinsa'ab J K II_H N S A_RG B
+jkíinsa'abi J K II_H N S A_RG B I
+jkíinsa'abij J K II_H N S A_RG B I J
+jkíinsej J K II_H N S E J
+jkíinso J K II_H N S O
+jkúul J K UU_H L
+jkúulo'ob J K UU_H L O_RG B
+jleexoi' J L EE_L X O I_G
+jlo'ob J L O_RG B
+jlo'om J L O_RG M
+jloxej J L O X E J
+jluk J L U K
+jluk'o'on J L U K_G O_RG N
+jláaj J L AA_H J
+jléeken J L EE_H K E N
+jlíik'ij J L II_H K_G I J
+jlúub J L UU_H B
+jlúubi J L UU_H B I
+jma'ach J M A_RG CH
+jma'achij J M A_RG CH I J
+jmaando J M AA_L N D O
+jmaas J M AA_L S
+jmaate' J M AA_L T E_G
+jmeen J M EE_L N
+jmeeno J M EE_L N O
+jmeent J M EE_L N T
+jmeenta'ab J M EE_L N T A_RG B
+jmiilo J M II_L L O
+jmiilo:ba'axten J O T A M Y I L O B A A K S T E N
+jmiiloo' J M II_L L OO_L GLOT
+jmu'uke J M U_RG K E
+jmu'ukij J M U_RG K I J
+jmu'uko'ob J M U_RG K O_RG B
+jmuuyo J M UU_L Y O
+jmáan J M AA_H N
+jmáanen J M AA_H N E N
+jmáani J M AA_H N I
+jmáaxch'akta'ab J M AA_H X CH_G A K T A_RG B
+jna'ak J N A_RG K
+jna'ako'on J N A_RG K O_RG N
+jnaando J N AA_L N D O
+jnáako'on J N AA_H K O_RG N
+jo J O
+jo' J O_G
+jo'e J O_G E
+jo'e' J O_G E_G
+jo'o'sa'ab J O_RG GLOT S A_RG B
+jo'ochik J O_RG CH I K
+jo'okaaj J O_RG K AA_L J
+jo'okaajo J O_RG K AA_L J O
+jo'okúul J O_RG K UU_H L
+jo'ol J O_RG L
+jo'olo'ob J O_RG L O_RG B
+jo'op J O_RG P
+jo'op'ik J O_RG P_G I K
+jo'op'ol J O_RG P_G O L
+jo'opok J O_RG P O K
+jo'opol J O_RG P O L
+jo'opole'ex J O_RG P O L E_RG X
+jo'os J O_RG S
+jo'osa'ab J O_RG S A_RG B
+jo'osa'abe J O_RG S A_RG B E
+jo'osa'abo J O_RG S A_RG B O
+jo'osa'al J O_RG S A_RG L
+jo'osa'alo'ob J O_RG S A_RG L O_RG B
+jo'osabo'ob J O_RG S A B O_RG B
+jo'osaj J O_RG S A J
+jo'osech J O_RG S E CH
+jo'osej J O_RG S E J
+jo'osen J O_RG S E N
+jo'osik J O_RG S I K
+jo'oso'ob J O_RG S O_RG B
+jo'oso'obo J O_RG S O_RG B O
+jo'oso'on J O_RG S O_RG N
+joch J O CH
+jochik J O CH I K
+jochiki J O CH I K I
+jok J O K
+joken J O K E N
+joko J O K O
+joko'ob J O K O_RG B
+joko'on J O K O_RG N
+jook'olo'ob J OO_L K_G O L O_RG B
+jool J OO_L L
+joola J OO_L L A
+joolil J OO_L L I L
+joolnajo'obo J OO_L L N A J O_RG B O
+joolo J OO_L L O
+joonaj J OO_L N A J
+joonaja J OO_L N A J A
+joonajo J OO_L N A J O
+joorachaj J OO_L R A CH A J
+joven J O B E N
+jp'áat J P_G AA_H T
+jp'áate J P_G AA_H T E
+jp'áatij J P_G AA_H T I J
+jp'áato'obi J P_G AA_H T O_RG B I
+jpaancho J P AA_L N CH O
+jpiil J P II_L L
+jpiile' J P II_L L E_G
+jpiilo' J P II_L L O_G
+jpoolo J P OO_L L O
+jpoonso J P OO_L N S O
+jpoonsoo' J P OO_L N S OO_L GLOT
+jpúuts'en J P UU_H TS_G E N
+jpúuts'ij J P UU_H TS_G I J
+jraach J R AA_L CH
+jraache' J R AA_L CH E_G
+jrooch J R OO_L CH
+jsaan J S AA_L N
+jsaan:tu J O T A S A A N T U
+jsaano' J S AA_L N O_G
+jseeb J S EE_L B
+jsiile' J S II_L L E_G
+jsuunaj J S UU_L N A J
+jsuunajij J S UU_L N A J I J
+jsuunajo'ob J S UU_L N A J O_RG B
+jsáasij J S AA_H S I J
+jsáasil J S AA_H S I L
+jt'a'ab J T_G A_RG B
+jt'aanajij J T_G AA_L N A J I J
+jtaal J T AA_L L
+jtaale J T AA_L L E
+jtaalo'ob J T AA_L L O_RG B
+jtaalo'on J T AA_L L O_RG N
+jtaasa'ab J T AA_L S A_RG B
+jti'ich J T I_RG CH
+jtiilo J T II_L L O
+jtiino J T II_L N O
+jtokarnaj J T O K A R N A J
+jts'a'ab J TS_G A_RG B
+jts'a'aben J TS_G A_RG B E N
+jts'a'abo'ob J TS_G A_RG B O_RG B
+jts'o'ok J TS_G O_RG K
+jts'o'oke J TS_G O_RG K E
+jts'o'on J TS_G O_RG N
+jturix J T U R I X
+ju J U
+ju'uch J U_RG CH
+ju'uch'uko J U_RG CH_G U K O
+ju'uch'ul J U_RG CH_G U L
+ju'ul J U_RG L
+ju'un J U_RG N
+ju'una' J U_RG N A_G
+ju'une J U_RG N E
+ju'uno J U_RG N O
+juan J U A N
+juanito J U A N I T O
+juch' J U CH_G
+juch'bil J U CH_G B I L
+juch'ik J U CH_G I K
+judikialo'obo J U D I K I A L O_RG B O
+jujun J U J U N
+jujuntúulil J U J U N T UU_H L I L
+julio J U L I O
+jump'éel J U M P_G EE_H L
+jump'éelili J U M P_G EE_H L I L I
+jump'íit J U M P_G II_H T
+jumpuli J U M P U L I
+jumpuul J U M P UU_L L
+jumpuuli J U M P UU_L L I
+jumpáak J U M P AA_H K
+jun J U N
+junab J U N A B
+junio J U N I O
+junioe J U N I O E
+junk'aalil J U N K_G AA_L L I L
+junkúul J U N K UU_H L
+junnáab J U N N AA_H B
+junsúutuk J U N S UU_H T U K
+juntarnajo'obij J U N T A R N A J O_RG B I J
+juntartaba'ex J U N T A R T A B A_G E X
+juntartubáaj J U N T A R T U B AA_H J
+juntéen J U N T EE_H N
+juntúul J U N T UU_H L
+juntúule J U N T UU_H L E
+juntúule' J U N T UU_H L E_G
+juntúuli J U N T UU_H L I
+juntúulili' J U N T UU_H L I L I_G
+juntúulo J U N T UU_H L O
+jup J U P
+jupaj J U P A J
+jupik J U P I K
+justikia J U S T I K I A
+justín J U S T I N
+juu J UU_L
+juuch J UU_L CH
+juuch' J UU_L CH_G
+juuch'o J UU_L CH_G O
+juuje J UU_L J E
+juulio J UU_L L I O
+juum J UU_L M
+juun J UU_L N
+juunal J UU_L N A L
+jwa'alajo'on J W A_RG L A J O_RG N
+jwaan J W AA_L N
+jwaane J W AA_L N E
+jweenen J W EE_L N E N
+jweeno'ob J W EE_L N O_RG B
+jwáach J W AA_H CH
+jwáach'e J W AA_H CH_G E
+jwáay J W AA_H Y
+jxu'ul J X U_RG L
+jxu'ulij J X U_RG L I J
+jyáach'en J Y AA_H CH_G E N
+jáa'bisáalke J AA_H GLOT B I S AA_H L K E
+jáab J AA_H B
+jáach'al J AA_H CH_G A L
+jáak J AA_H K
+jáal J AA_H L
+jáala J AA_H L A
+jáalale J AA_H L A L E
+jáale J AA_H L E
+jáalo J AA_H L O
+jáampaytech J AA_H M P A Y T E CH
+jáan J AA_H N
+jáarana J AA_H R A N A
+jáaranao' J AA_H R A N A O_G
+jáats'k'a'btikech J AA_H TS_G K_G A_G B T I K E CH
+jáats'k'abtech J AA_H TS_G K_G A B T E CH
+jáats'k'atikeche J AA_H TS_G K_G A T I K E CH E
+jáats'wo'ojo J AA_H TS_G W O_RG J O
+jéek J EE_H K
+jéemp'uchta'ab J EE_H M P_G U CH T A_RG B
+jéen J EE_H N
+jéentáant J EE_H N T AA_H N T
+jíiltikuba'ob J II_H L T I K U B A_G O B
+jíiltikuba'obo' J II_H L T I K U B A_G O B O_G
+jíit J II_H T
+jíita'al J II_H T A_RG L
+jóok J OO_H K
+jóok'a'an J OO_H K_G A_RG N
+jóok'e J OO_H K_G E
+jóok'en J OO_H K_G E N
+jóok'ene J OO_H K_G E N E
+jóok'ene'ex J OO_H K_G E N E_RG X
+jóok'ij J OO_H K_G I J
+jóok'o J OO_H K_G O
+jóok'o'ob J OO_H K_G O_RG B
+jóok'ok J OO_H K_G O K
+jóok'oke J OO_H K_G O K E
+jóok'okech J OO_H K_G O K E CH
+jóok'ol J OO_H K_G O L
+jóok'ole J OO_H K_G O L E
+jóok'ole'ex J OO_H K_G O L E_RG X
+jóok'olo J OO_H K_G O L O
+jóok'olo'ob J OO_H K_G O L O_RG B
+jóok'olo'obe J OO_H K_G O L O_RG B E
+jóol J OO_H L
+jóomp'u'ujuk J OO_H M P_G U_RG J U K
+jóomp'u'ujuko'obe J OO_H M P_G U_RG J U K O_RG B E
+jóopelch'e'ene J OO_H P E L CH_G E_RG N E
+jóots J OO_H TS
+jóots'e J OO_H TS_G E
+jóoyab J OO_H Y A B
+jóoyabtej J OO_H Y A B T E J
+jóoyabtik J OO_H Y A B T I K
+jóoyabtil J OO_H Y A B T I L
+júuch J UU_H CH
+júup J UU_H P
+júupuli J UU_H P U L I
+júutule J UU_H T U L E
+k K
+k'a'aj K_G A_RG J
+k'a'ajal K_G A_RG J A L
+k'a'al K_G A_RG L
+k'a'alij K_G A_RG L I J
+k'a'am K_G A_RG M
+k'a'amal K_G A_RG M A L
+k'a'anab K_G A_RG N A B
+k'a'anabe K_G A_RG N A B E
+k'a'anabil K_G A_RG N A B I L
+k'a'anabo K_G A_RG N A B O
+k'a'antal K_G A_RG N T A L
+k'a'ax K_G A_RG X
+k'aaba K_G AA_L B A
+k'aaba' K_G AA_L B A_G
+k'aaba'e K_G AA_L B A_G E
+k'aaba'e' K_G AA_L B A_G E_G
+k'aaba'exo' K_G AA_L B A_G E X O_G
+k'aaba'o' K_G AA_L B A_G O_G
+k'aaba'ob K_G AA_L B A_G O B
+k'aaba'obo' K_G AA_L B A_G O B O_G
+k'aaba'tik K_G AA_L B A_G T I K
+k'aabae K_G AA_L B A E
+k'aak'o K_G AA_L K_G O
+k'aas K_G AA_L S
+k'aasak K_G AA_L S A K
+k'aase K_G AA_L S E
+k'aasi K_G AA_L S I
+k'aasil K_G AA_L S I L
+k'aasile K_G AA_L S I L E
+k'aatik K_G AA_L T I K
+k'aay K_G AA_L Y
+k'aaynak K_G AA_L Y N A K
+k'aaynake K_G AA_L Y N A K E
+k'ab K_G A B
+k'abe K_G A B E
+k'abo'ob K_G A B O_RG B
+k'abéet K_G A B EE_H T
+k'aj K_G A J
+k'aja'an K_G A J A_RG N
+k'ajóol K_G A J OO_H L
+k'ajóola'an K_G A J OO_H L A_RG N
+k'ajóolech K_G A J OO_H L E CH
+k'ajóoleche K_G A J OO_H L E CH E
+k'ajóoli K_G A J OO_H L I
+k'ajóolt K_G A J OO_H L T
+k'ajóolta K_G A J OO_H L T A
+k'ajóolta'ab K_G A J OO_H L T A_RG B
+k'ajóoltaj K_G A J OO_H L T A J
+k'ajóoltej K_G A J OO_H L T E J
+k'ajóoltik K_G A J OO_H L T I K
+k'ajóoltikech K_G A J OO_H L T I K E CH
+k'al K_G A L
+k'ala'an K_G A L A_RG N
+k'alajuba'ob K_G A L A J U B A_G O B
+k'alajubae K_G A L A J U B A E
+k'alen K_G A L E N
+k'aleno'ob K_G A L E N O_RG B
+k'ali' K_G A L I_G
+k'almajil K_G A L M A J I L
+k'almajo'ob K_G A L M A J O_RG B
+k'almubáaj K_G A L M U B AA_H J
+k'alpaj K_G A L P A J
+k'amaje'ex K_G A M A J E_RG X
+k'amen K_G A M E N
+k'amik K_G A M I K
+k'amiken K_G A M I K E N
+k'an K_G A N
+k'ank'an K_G A N K_G A N
+k'ankabil K_G A N K A B I L
+k'as K_G A S
+k'astal K_G A S T A L
+k'axa'an K_G A X A_RG N
+k'axa'anilo'ob K_G A X A_RG N I L O_RG B
+k'axaj K_G A X A J
+k'axe'ex K_G A X E_RG X
+k'axik K_G A X I K
+k'axikene K_G A X I K E N E
+k'axiko'ob K_G A X I K O_RG B
+k'axmaj K_G A X M A J
+k'ay K_G A Y
+k'ayik K_G A Y I K
+k'ayiko'ob K_G A Y I K O_RG B
+k'eyem K_G E Y E M
+k'eyiken K_G E Y I K E N
+k'i'ik K_G I_RG K
+k'i'ik' K_G I_RG K_G
+k'i'ik'a K_G I_RG K_G A
+k'i'ik'e K_G I_RG K_G E
+k'i'ik'el K_G I_RG K_G E L
+k'i'ix K_G I_RG X
+k'iin K_G II_L N
+k'iinaje K_G II_L N A J E
+k'iinal K_G II_L N A L
+k'iinale K_G II_L N A L E
+k'iine K_G II_L N E
+k'iine' K_G II_L N E_G
+k'iini' K_G II_L N I_G
+k'iinil K_G II_L N I L
+k'iinile K_G II_L N I L E
+k'iinjeak K_G II_L N J E A K
+k'iinjeako K_G II_L N J E A K O
+k'iino'obe K_G II_L N O_RG B E
+k'iino'obo K_G II_L N O_RG B O
+k'ili' K_G I L I_G
+k'oja'anen K_G O J A_RG N E N
+k'oja'anil K_G O J A_RG N I L
+k'oja'anile K_G O J A_RG N I L E
+k'oja'anilo K_G O J A_RG N I L O
+k'oja'antal K_G O J A_RG N T A L
+k'olon K_G O L O N
+k'oxol K_G O X O L
+k'oyok K_G O Y O K
+k'u' K_G U_G
+k'u'k'um K_G U_G K_G U M
+k'u'ubul K_G U_RG B U L
+k'u'um K_G U_RG M
+k'ub K_G U B
+k'ubabáaj K_G U B A B AA_H J
+k'ubentikkbáaj K_G U B E N T I K K B AA_H J
+k'ubik K_G U B I K
+k'ubjot K_G U B J O T
+k'uch K_G U CH
+k'ucha'an K_G U CH A_RG N
+k'uchaj K_G U CH A J
+k'uche K_G U CH E
+k'uchene K_G U CH E N E
+k'uchko'one K_G U CH K O_RG N E
+k'ucho K_G U CH O
+k'ucho'ob K_G U CH O_RG B
+k'ucho'obo K_G U CH O_RG B O
+k'ucho'on K_G U CH O_RG N
+k'ucho'oni K_G U CH O_RG N I
+k'uchpaj K_G U CH P A J
+k'uchuk K_G U CH U K
+k'uchukech K_G U CH U K E CH
+k'uchuko'one K_G U CH U K O_RG N E
+k'uchul K_G U CH U L
+k'uchule K_G U CH U L E
+k'uchule'ex K_G U CH U L E_RG X
+k'uchulo K_G U CH U L O
+k'uchulo'ob K_G U CH U L O_RG B
+k'usa'abi K_G U S A_RG B I
+k'usech K_G U S E CH
+k'utik K_G U T I K
+k'utike K_G U T I K E
+k'uuruch K_G UU_L R U CH
+k'uuxen K_G UU_L X E N
+k'áak K_G AA_H K
+k'áak'e K_G AA_H K_G E
+k'áak'o K_G AA_H K_G O
+k'áak'o' K_G AA_H K_G O_G
+k'áak'o'ob K_G AA_H K_G O_RG B
+k'áambul K_G AA_H M B U L
+k'áan K_G AA_H N
+k'áanche'o' K_G AA_H N CH E_G O_G
+k'áane K_G AA_H N E
+k'áano K_G AA_H N O
+k'áat K_G AA_H T
+k'áataj K_G AA_H T A J
+k'áatal K_G AA_H T A L
+k'áatale K_G AA_H T A L E
+k'áatchi'itaje K_G AA_H T CH I_RG T A J E
+k'áate K_G AA_H T E
+k'áate' K_G AA_H T E_G
+k'áate'ex K_G AA_H T E_RG X
+k'áaten K_G AA_H T E N
+k'áati' K_G AA_H T I_G
+k'áatij K_G AA_H T I J
+k'áatik K_G AA_H T I K
+k'áatike K_G AA_H T I K E
+k'áato'ob K_G AA_H T O_RG B
+k'áato'obe K_G AA_H T O_RG B E
+k'áax K_G AA_H X
+k'áaxal K_G AA_H X A L
+k'áaxe K_G AA_H X E
+k'áaxil K_G AA_H X I L
+k'áaxo K_G AA_H X O
+k'áaxo'ob K_G AA_H X O_RG B
+k'áaxo'obo K_G AA_H X O_RG B O
+k'ájóol K A A J O O L
+k'éek'en K_G EE_H K_G E N
+k'éek'eno' K_G EE_H K_G E N O_G
+k'éek'én K A E E K E N
+k'éewel K_G EE_H W E L
+k'íimbila' K_G II_H M B I L A_G
+k'íin K_G II_H N
+k'íiwik K_G II_H W I K
+k'íiwike' K_G II_H W I K E_G
+k'íiwiko K_G II_H W I K O
+k'íiwiko' K_G II_H W I K O_G
+k'óoben K_G OO_H B E N
+k'óoch K_G OO_H CH
+k'óocha'abij K_G OO_H CH A_RG B I J
+k'óochech K_G OO_H CH E CH
+k'óochen K_G OO_H CH E N
+k'óocho K_G OO_H CH O
+k'óopte'i' K_G OO_H P T E_G I_G
+k'úum K_G UU_H M
+k'úumo K_G UU_H M O
+k-ilikba'e' K A I L I K B A E
+ka K A
+ka' K A_G
+ka'a K A_RG
+ka'abej K A_RG B E J
+ka'abeje' K A_RG B E J E_G
+ka'ach K A_RG CH
+ka'ache K A_RG CH E
+ka'achi' K A_RG CH I_G
+ka'achi'o K A_RG CH I_G O
+ka'achij K A_RG CH I J
+ka'achil K A_RG CH I L
+ka'achilo K A_RG CH I L O
+ka'acho K A_RG CH O
+ka'aj K A_RG J
+ka'ajaatsil K A_RG J AA_L TS I L
+ka'aje K A_RG J E
+ka'ajen K A_RG J E N
+ka'aka'apuul K A_RG K A_RG P UU_L L
+ka'aka'atúul K A_RG K A_RG T UU_H L
+ka'akat K A_RG K A T
+ka'akate' K A_RG K A T E_G
+ka'akúul K A_RG K UU_H L
+ka'amuut K A_RG M UU_L T
+ka'an K A_RG N
+ka'anab K A_RG N A B
+ka'anabo' K A_RG N A B O_G
+ka'anal K A_RG N A L
+ka'anala K A_RG N A L A
+ka'anale K A_RG N A L E
+ka'analil K A_RG N A L I L
+ka'analo K A_RG N A L O
+ka'anlo K A_RG N L O
+ka'ano K A_RG N O
+ka'ano' K A_RG N O_G
+ka'ano'ob K A_RG N O_RG B
+ka'ansa'ab K A_RG N S A_RG B
+ka'ansikech K A_RG N S I K E CH
+ka'antal K A_RG N T A L
+ka'ap'éel K A_RG P_G EE_H L
+ka'ap'éelal K A_RG P_G EE_H L A L
+ka'ap'éelil K A_RG P_G EE_H L I L
+ka'apuul K A_RG P UU_L L
+ka'ate' K A_RG T E_G
+ka'atséelal K A_RG TS EE_H L A L
+ka'atéen K A_RG T EE_H N
+ka'atéene K A_RG T EE_H N E
+ka'atéeno K A_RG T EE_H N O
+ka'atúul K A_RG T UU_H L
+ka'atúulech K A_RG T UU_H L E CH
+ka'atúulil K A_RG T UU_H L I L
+ka'atúulo K A_RG T UU_H L O
+ka'atúulo'ob K A_RG T UU_H L O_RG B
+ka'atúulo'obe K A_RG T UU_H L O_RG B E
+ka'tsikbal K A_G TS I K B A L
+kaab K AA_L B
+kaaba K AA_L B A
+kaaba'int K AA_L B A_G I N T
+kaabal K AA_L B A L
+kaabala K AA_L B A L A
+kaabale K AA_L B A L E
+kaabe K AA_L B E
+kaaj K AA_L J
+kaaja K AA_L J A
+kaaja' K AA_L J A_G
+kaajal K AA_L J A L
+kaajale'ex K AA_L J A L E_RG X
+kaajali' K AA_L J A L I_G
+kaajalo'ob K AA_L J A L O_RG B
+kaaje K AA_L J E
+kaaje' K AA_L J E_G
+kaajil K AA_L J I L
+kaajo K AA_L J O
+kaajo' K AA_L J O_G
+kaajo'ob K AA_L J O_RG B
+kaajo'obo K AA_L J O_RG B O
+kaal K AA_L L
+kaalo K AA_L L O
+kaambal K AA_L M B A L
+kaambalo'ob K AA_L M B A L O_RG B
+kaambalo'obi K AA_L M B A L O_RG B I
+kaampech K AA_L M P E CH
+kaampechil K AA_L M P E CH I L
+kaampecho K AA_L M P E CH O
+kaan K AA_L N
+kaane K AA_L N E
+kaani K AA_L N I
+kaanjilo'ob K AA_L N J I L O_RG B
+kaano K AA_L N O
+kaano'ob K AA_L N O_RG B
+kaas K AA_L S
+kaax K AA_L X
+kaaxo'ob K AA_L X O_RG B
+kaaxo'oba' K AA_L X O_RG B A_G
+kabesa K A B E S A
+kabesas K A B E S A S
+kachik K A CH I K
+kachucha K A CH U CH A
+kada K A D A
+kaj K A J
+kaja'an K A J A_RG N
+kaja'ane'ex K A J A_RG N E_RG X
+kaja'anech K A J A_RG N E CH
+kaja'anen K A J A_RG N E N
+kaja'ani K A J A_RG N I
+kaja'ani' K A J A_RG N I_G
+kaja'ano K A J A_RG N O
+kaja'ano'ob K A J A_RG N O_RG B
+kaja'ano'obi' K A J A_RG N O_RG B I_G
+kaja'ano'on K A J A_RG N O_RG N
+kaja'ob K A J A_G O B
+kaja'obe K A J A_G O B E
+kaja'obo K A J A_G O B O
+kajabal K A J A B A L
+kajakbal K A J A K B A L
+kajakbale'ex K A J A K B A L E_RG X
+kajakbalech K A J A K B A L E CH
+kajakbalen K A J A K B A L E N
+kajakbalo'ob K A J A K B A L O_RG B
+kajlaken K A J L A K E N
+kajtal K A J T A L
+kajtalila K A J T A L I L A
+kalabosoo K A L A B O S OO_L
+kalantike'exo K A L A N T I K E_RG X O
+kalanwakax K A L A N W A K A X
+kaldo K A L D O
+kale'ex K A L E_RG X
+kalendario'ob K A L E N D A R I O_RG B
+kalendario'obe K A L E N D A R I O_RG B E
+kalin K A L I N
+kaline' K A L I N E_G
+kalkiní K A L K I N I
+kalleo K A L L E O
+kalmar K A L M A R
+kalmarnaj K A L M A R N A J
+kalmartubáaji K A L M A R T U B AA_H J I
+kalsonkillo K A L S O N K I L L O
+kaláantaba K A L AA_H N T A B A
+kaláantikecho'ob K A L AA_H N T I K E CH O_RG B
+kaláantiko'ob K A L AA_H N T I K O_RG B
+kama'ach K A M A_RG CH
+kaman K A M A N
+kamaron K A M A R O N
+kamarono K A M A R O N O
+kambio K A M B I O
+kamion K A M I O N
+kamionadasil K A M I O N A D A S I L
+kamioneta K A M I O N E T A
+kamiono K A M I O N O
+kamiono'ob K A M I O N O_RG B
+kamisa K A M I S A
+kamión K A M Y O N
+kamp'éel K A M P_G EE_H L
+kampeche K A M P E CH E
+kampesino K A M P E S I N O
+kan K A N
+kanaj K A N A J
+kanan K A N A N
+kanant K A N A N T
+kanantiko K A N A N T I K O
+kanej K A N E J
+kangrejo K A NG G R E J O
+kanik K A N I K
+kanike K A N I K E
+kanike'ex K A N I K E_RG X
+kankiona K A N K I O N A
+kankúul K A N K UU_H L
+kanlúub K A N L UU_H B
+kanmaj K A N M A J
+kanáant K A N AA_H N T
+kanáantabaj K A N AA_H N T A B A J
+kanáantikabáaj K A N AA_H N T I K A B AA_H J
+kanáantubáaj K A N AA_H N T U B AA_H J
+karga K A R G A
+kargas K A R G A S
+karkelo K A R K E L O
+karnada K A R N A D A
+karnada'ob K A R N A D A_G O B
+karnadao K A R N A D A O
+karretera K A R R E T E R A
+karreteraa K A R R E T E R AA_L
+karreterao K A R R E T E R A O
+karretilla K A R R E T I L L A
+kasi K A S I
+kasone K A S O N E
+kastigo K A S T I G O
+kastigoe K A S T I G O E
+kastigoi K A S T I G O I
+kasón K A S O N
+kasóno K A S O N O
+katolika'ob K A T O L I K A_G O B
+katorke K A T O R K E
+kaxan K A X A N
+kaxant K A X A N T
+kaxanta'abij K A X A N T A_RG B I J
+kaxanta'al K A X A N T A_RG L
+kaxantaj K A X A N T A J
+kaxante K A X A N T E
+kaxantej K A X A N T E J
+kaxbil K A X B I L
+kaxt K A X T
+kaxta'ab K A X T A_RG B
+kaxta'aba K A X T A_RG B A
+kaxta'abi K A X T A_RG B I
+kaxta'abij K A X T A_RG B I J
+kaxta'abo K A X T A_RG B O
+kaxta'abo'obi K A X T A_RG B O_RG B I
+kaxta'aki K A X T A_RG K I
+kaxtaj K A X T A J
+kaxtbilo K A X T B I L O
+kaxte K A X T E
+kaxtej K A X T E J
+kaxtik K A X T I K
+kaxtiko K A X T I K O
+kaxto K A X T O
+kaxto'ob K A X T O_RG B
+kaxto'obo K A X T O_RG B O
+kay K A Y
+kayo K A Y O
+kayo'ob K A Y O_RG B
+kayo'obo' K A Y O_RG B O_G
+kaña K A NY A
+kañao K A NY A O
+ke K E
+ke'el K E_RG L
+kebolla K E B O L L A
+kebollao K E B O L L A O
+kebollina K E B O L L I N A
+kede K E D E
+kedro'ob K E D R O_RG B
+keléembal K E L EE_H M B A L
+kementerio K E M E N T E R I O
+ken K E N
+kene'ex K E N E_RG X
+keno'ob K E N O_RG B
+kensa'ab K E N S A_RG B
+kensab K E N S A B
+kentavo K E N T A B O
+kentavos K E N T A B O S
+kentroo K E N T R OO_L
+kentímetros K E N T I M E T R O S
+kesa'ab K E S A_RG B
+ket K E T
+ketik K E T I K
+ketmi K E T M I
+kex K E X
+kexi' K E X I_G
+ki K I
+ki' K I_G
+ki'ichkelem K I_RG CH K E L E M
+ki'ichpam K I_RG CH P A M
+ki'ichpan K I_RG CH P A N
+ki'iki' K I_RG K I_G
+ki'imak K I_RG M A K
+ki'insaje K I_RG N S A J E
+ki'iwaj K I_RG W A J
+ki'ob K I_G O B
+kib K I B
+kibo K I B O
+kie K I E
+kien K I E N
+kientifiko'ob K Y E N T I F I K O O B
+kiento K I E N T O
+kiere K I E R E
+kierto K I E R T O
+kiibo K II_L B O
+kiik K II_L K
+kiika K II_L K A
+kiiko K II_L K O
+kiiko' K II_L K O_G
+kiiko'obe' K II_L K O_RG B E_G
+kiilo K II_L L O
+kiiloe' K II_L L O E_G
+kiin K II_L N
+kiinbesajilo'obo' K II_L N B E S A J I L O_RG B O_G
+kiino' K II_L N O_G
+kiino'ob K II_L N O_RG B
+kij K I J
+kilantro K I L A N T R O
+kili'ich K I L I_RG CH
+kilim K I L I M
+kilo K I L O
+kilometro K I L O M E T R O
+kilometros K I L O M E T R O S
+kilos K I L O S
+kimeen K I M EE_L N
+kin K I N
+kinke K I N K E
+kinko K I N K O
+kinkoe K I N K O E
+kinkuenta K I N K U E N T A
+kinqué K I N K E
+kio K I O
+kirim K I R I M
+kis K I S
+kisay K I S A Y
+kitam K I T A M
+kién K Y E N
+klaro K L A R O
+klase K L A S E
+klaseil K L A S E I L
+klasesil K L A S E S I L
+ko'oj K O_RG J
+ko'oji' K O_RG J I_G
+ko'ojtal K O_RG J T A L
+ko'ojtale K O_RG J T A L E
+ko'olebil K O_RG L E B I L
+ko'olebilo K O_RG L E B I L O
+ko'olel K O_RG L E L
+ko'olela K O_RG L E L A
+ko'olele K O_RG L E L E
+ko'oleli'o K O_RG L E L I_G O
+ko'olelo K O_RG L E L O
+ko'olelo'ob K O_RG L E L O_RG B
+ko'olelo'obo K O_RG L E L O_RG B O
+ko'olelo'one K O_RG L E L O_RG N E
+ko'one'ex K O_RG N E_RG X
+ko'onol K O_RG N O L
+ko'onolo' K O_RG N O L O_G
+ko'oten K O_RG T E N
+ko'ox K O_RG X
+kobrartej K O B R A R T E J
+kochak'ta'ake K O CH A K_G T A_RG K E
+kochak'teche K O CH A K_G T E CH E
+koj K O J
+koje K O J E
+koje'ex K O J E_RG X
+kojo K O J O
+kola'ani K O L A_RG N I
+kolik K O L I K
+kolóoxche K O L OO_H X CH E
+komandante K O M A N D A N T E
+komida K O M I D A
+komisario K O M I S A R I O
+komo K O M O
+kompadre K O M P A D R E
+kompadre'ob K O M P A D R E_G O B
+kompadreo K O M P A D R E O
+kompañero K O M P A NY E R O
+kompañeroo K O M P A NY E R O O
+kompañeros K O M P A NY E R O S
+kompromiso K O M P R O M I S O
+kon K O N
+konaj K O N A J
+konej K O N E J
+konejo K O N E J O
+konejoil K O N E J O I L
+konejoo K O N E J OO_L
+konfesar K O M F E S A R
+konfesare K O M F E S A R E
+konformidad K O M F O R M I D A D
+konik K O N I K
+konike'ex K O N I K E_RG X
+koniko'ob K O N I K O_RG B
+kono K O N O
+konoke K O N O K E
+konol K O N O L
+konolo'ob K O N O L O_RG B
+konseguirt K O N S E G I R T
+konseguirta'abe K O N S E G I R T A A B E
+konservarmaj K O N S E R B A R M A J
+konvertir K O M B E R T I R
+kool K OO_L L
+koole K OO_L L E
+koolo K OO_L L O
+kooncha K OO_L N CH A
+koonchao' K OO_L N CH A O_G
+koonele'ex K OO_L N E L E_RG X
+koonol K OO_L N O L
+koonole'ex K OO_L N O L E_RG X
+koordinakión K O O R D I N A K Y O N
+koot K OO_L T
+koota K OO_L T A
+kootile' K OO_L T I L E_G
+kooto K OO_L T O
+kooto' K OO_L T O_G
+korasóne K O R A S O N E
+kordelo'obe K O R D E L O_RG B E
+korrida K O R R I D A
+korte K O R T E
+kosa K O S A
+kosecha K O S E CH A
+kosom K O S O M
+kotsik K O TS I K
+koyi K O Y I
+kreertik K R EE_L R T I K
+kreertike'ex K R EE_L R T I K E_RG X
+kristiano K R I S T I A N O
+kristiano'obo K R I S T I A N O_RG B O
+kristianoil K R I S T I A N O I L
+kristianoo K R I S T I A N OO_L
+kristo K R I S T O
+krukero K R U K E R O
+krukeroo K R U K E R OO_L
+krusaro K R U S A R O
+krusart K R U S A R T
+krusarto'ob K R U S A R T O_RG B
+ku K U
+ku'uk K U_RG K
+kuando K U A N D O
+kuarenta K U A R E N T A
+kuarentai K U A R E N T A I
+kuartillo K U A R T I L L O
+kuarto K U A R T O
+kuartoa K U A R T O A
+kuatro K U A T R O
+kubrirt K U B R I R T
+kuchaj K U CH A J
+kuchbil K U CH B I L
+kuchene K U CH E N E
+kuchik K U CH I K
+kuchilloo K U CH I L L OO_L
+kuchmo K U CH M O
+kuchuko'obi K U CH U K O_RG B I
+kue' K U E_G
+kuenta K U E N T A
+kuentae K U E N T A E
+kuentai K U E N T A I
+kuento K U E N T O
+kuentoil K U E N T O I L
+kuentoile K U E N T O I L E
+kuerda K U E R D A
+kuerpo K U E R P O
+kuerpo'obi K U E R P O_RG B I
+kula'an K U L A_RG N
+kula'ane'ex K U L A_RG N E_RG X
+kula'anech K U L A_RG N E CH
+kula'aneni' K U L A_RG N E N I_G
+kula'ani K U L A_RG N I
+kula'ano'ob K U L A_RG N O_RG B
+kula'ano'oni' K U L A_RG N O_RG N I_G
+kulaji K U L A J I
+kulak K U L A K
+kulampaachil K U L A M P AA_L CH I L
+kuleen K U L EE_L N
+kuleene'ex K U L EE_L N E_RG X
+kulen K U L E N
+kulkaal K U L K AA_L L
+kultivartik K U L T I B A R T I K
+kultura K U L T U R A
+kulukbal K U L U K B A L
+kulum K U L U M
+kumaj K U M A J
+kumil K U M I L
+kumpiche K U M P I CH E
+kumplirt K U M P L I R T
+kumplirte K U M P L I R T E
+kumplirtik K U M P L I R T I K
+kun K U N
+kuno'ob K U N O_RG B
+kuraa K U R AA_L
+kurao K U R A O
+kursoile K U R S O I L E
+kusam K U S A M
+kutal K U T A L
+kuuch K UU_L CH
+kuuts K UU_L TS
+kux K U X
+kuxa'an K U X A_RG N
+kuxa'ane K U X A_RG N E
+kuxa'anen K U X A_RG N E N
+kuxchajla'an K U X CH A J L A_RG N
+kuxlajo'obo K U X L A J O_RG B O
+kuxliko'obo K U X L I K O_RG B O
+kuxtal K U X T A L
+kuxtali K U X T A L I
+kuxtalil K U X T A L I L
+kuxtalo K U X T A L O
+kuñada K U NY A D A
+kuñadoil K U NY A D O I L
+káaj K AA_H J
+káajal K AA_H J A L
+káajik K AA_H J I K
+káajike K AA_H J I K E
+káajo'ob K AA_H J O_RG B
+káajs K AA_H J S
+káajsika K AA_H J S I K A
+káalak K AA_H L A K
+káalk'ini K AA_H L K_G I N I
+káalk'ini'e K AA_H L K_G I N I_G E
+káalk'ini'o K AA_H L K_G I N I_G O
+káaltalo'ob K AA_H L T A L O_RG B
+káaltalo'obi K AA_H L T A L O_RG B I
+káan K AA_H N
+káat K AA_H T
+káaxil K AA_H X I L
+káaxo' K AA_H X O_G
+kárkel K A R K E L
+kárkelil K A R K E L I L
+kéej K EE_H J
+kéeje' K EE_H J E_G
+kéejo K EE_H J O
+kéejo'obo K EE_H J O_RG B O
+kéek'en K EE_H K_G E N
+kéen K EE_H N
+kíim K II_H M
+kíimboomba K II_H M B OO_L M B A
+kíimen K II_H M E N
+kíimi K II_H M I
+kíimij K II_H M I J
+kíimik K II_H M I K
+kíimikech K II_H M I K E CH
+kíimiko'ob K II_H M I K O_RG B
+kíimil K II_H M I L
+kíimila K II_H M I L A
+kíimile K II_H M I L E
+kíimili K II_H M I L I
+kíimilo'ob K II_H M I L O_RG B
+kíimo'obi K II_H M O_RG B I
+kíins K II_H N S
+kíinsa'ab K II_H N S A_RG B
+kíinsa'abe K II_H N S A_RG B E
+kíinsa'abene K II_H N S A_RG B E N E
+kíinsa'abi K II_H N S A_RG B I
+kíinsa'abo'obi K II_H N S A_RG B O_RG B I
+kíinsa'abo'obij K II_H N S A_RG B O_RG B I J
+kíinsa'abo'obo K II_H N S A_RG B O_RG B O
+kíinsa'ak K II_H N S A_RG K
+kíinsa'akech K II_H N S A_RG K E CH
+kíinsa'al K II_H N S A_RG L
+kíinsa'ale K II_H N S A_RG L E
+kíinsa'ale'ex K II_H N S A_RG L E_RG X
+kíinsa'ale'exe K II_H N S A_RG L E_RG X E
+kíinsa'ali K II_H N S A_RG L I
+kíinsa'alo'ob K II_H N S A_RG L O_RG B
+kíinsa'alob K II_H N S A_RG L O B
+kíinsaj K II_H N S A J
+kíinsbil K II_H N S B I L
+kíinsbili K II_H N S B I L I
+kíinsbilo'ob K II_H N S B I L O_RG B
+kíinsech K II_H N S E CH
+kíinseche K II_H N S E CH E
+kíinsej K II_H N S E J
+kíinsen K II_H N S E N
+kíinseno'obe K II_H N S E N O_RG B E
+kíinseno'obo K II_H N S E N O_RG B O
+kíinsik K II_H N S I K
+kíinsike'ex K II_H N S I K E_RG X
+kíinsikech K II_H N S I K E CH
+kíinsiken K II_H N S I K E N
+kíinsikeni K II_H N S I K E N I
+kíinsikeno'ob K II_H N S I K E N O_RG B
+kíinsiko K II_H N S I K O
+kíinsiko'ob K II_H N S I K O_RG B
+kíinsiko'obe K II_H N S I K O_RG B E
+kíinsikuba'obo K II_H N S I K U B A_G O B O
+kíinsmaj K II_H N S M A J
+kíinso'ob K II_H N S O_RG B
+kíinsuba'ob K II_H N S U B A_G O B
+kóocha't K OO_H CH A_G T
+kóocha'taj K OO_H CH A_G T A J
+kóojo'oni K OO_H J O_RG N I
+kóojol K OO_H J O L
+kóokay K OO_H K A Y
+kóoliko'obe K OO_H L I K O_RG B E
+kúuchil K UU_H CH I L
+kúuk K UU_H K
+kúulenkúulo'ob K UU_H L E N K UU_H L O_RG B
+kúulpaach K UU_H L P AA_L CH
+kúulpach K UU_H L P A CH
+kúulpachil K UU_H L P A CH I L
+kúulul K UU_H L U L
+l L
+la L A
+la'abal L A_RG B A L
+la'amal L A_RG M A L
+lado L A D O
+ladoil L A D O I L
+ladrillo L A D R I L L O
+ladrilloil L A D R I L L O I L
+lak'in L A K_G I N
+lalaj L A L A J
+lamparao L A M P A R A O
+lancha L A N CH A
+lanchao L A N CH A O
+lansa L A N S A
+las L A S
+le L E
+le' L E_G
+lech L E CH
+leek'a L EE_L K_G A
+leeko' L EE_L K O_G
+legal L E G A L
+leguas L E G W A S
+leguasil L E G W A S I L
+lej L E J
+leka L E K A
+leken L E K E N
+lekéen L E K EE_H N
+lela L E L A
+lela' L E L A_G
+lelo L E L O
+lelo' L E L O_G
+lelo'oba L E L O_RG B A
+lelo'oba' L E L O_RG B A_G
+lelá L E L A
+lep' L E P_G
+lete L E T E
+leten L E T E N
+letene L E T E N E
+leti L E T I
+leti' L E T I_G
+leti'e L E T I_G E
+leti'e' L E T I_G E_G
+leti'i L E T I_RG
+leti'o L E T I_G O
+leti'o'obe' L E T I_G O_RG B E_G
+leti'ob L E T I_G O B
+leti'obe L E T I_G O B E
+leti'obo L E T I_G O B O
+letie L E T I E
+leyes L E Y E S
+leyli'e L E Y L I_G E
+leéken L E E K E N
+li'isa'al L I_RG S A_RG L
+li'isik L I_RG S I K
+libertad L I B E R T A D
+libro L I B R O
+libro'ob L I B R O_RG B
+likba L I K B A
+limpiar L I M P I A R
+limpiartaj L I M P I A R T A J
+limpio L I M P I O
+limón L I M O N
+lindotal L I N D O T A L
+lisera L I S E R A
+liserear L I S E R E A R
+lisereare L I S E R E A R E
+listo L I S T O
+llave LY A B E
+llaveil LY A B E I L
+lo L O
+lo'ob L O_RG B
+lo'obaj L O_RG B A J
+lo'obal L O_RG B A L
+lo'om L O_RG M
+lokoen L O K O E N
+lom L O M
+lomaj L O M A J
+lonch L O N CH
+lonmajo L O N M A J O
+lonmo L O N M O
+loob L OO_L B
+loobo L OO_L B O
+lool L OO_L L
+loolo'obo L OO_L L O_RG B O
+lourdes L O U R D E S
+lox L O X
+loxmaj L O X M A J
+lu'um L U_RG M
+lu'uma L U_RG M A
+lu'ume L U_RG M E
+lu'umo L U_RG M O
+lu'umo' L U_RG M O_G
+lu'us L U_RG S
+lu'usik L U_RG S I K
+luba'an L U B A_RG N
+lucharnaj L U CH A R N A J
+luego L U E G O
+lugar L U G A R
+lugara L U G A R A
+lugare L U G A R E
+lugaril L U G A R I L
+lugarilo'ob L U G A R I L O O B
+lugarilo'obe L U G A R I L O O B E
+lugaro L U G A R O
+lugaro'obo L U G A R O O B O
+luk L U K
+luk'en L U K_G E N
+luk'eno L U K_G E N O
+luk'iko'on L U K_G I K O_RG N
+luk'sik L U K_G S I K
+luk'uken L U K_G U K E N
+luk'ul L U K_G U L
+luk'ulo'ob L U K_G U L O_RG B
+luna L U N A
+lus L U S
+lusil L U S I L
+luuch L UU_L CH
+luuchi' L UU_L CH I_G
+luuk L UU_L K
+luuk' L UU_L K_G
+luuk'a L UU_L K_G A
+láaj L AA_H J
+láak' L AA_H K_G
+láak'al L AA_H K_G A L
+láak'alal L AA_H K_G A L A L
+láak'ali' L AA_H K_G A L I_G
+láak'alo'ob L AA_H K_G A L O_RG B
+láak'alo'obe L AA_H K_G A L O_RG B E
+láak'o'ob L AA_H K_G O_RG B
+láak'tsile'ex L AA_H K_G TS I L E_RG X
+láake' L AA_H K E_G
+láampara L AA_H M P A R A
+láank'axt L AA_H N K_G A X T
+láanpoch'ikeche L AA_H N P O CH_G I K E CH E
+láat'aj L AA_H T_G A J
+láat'ik L AA_H T_G I K
+láat'maj L AA_H T_G M A J
+láayli L AA_H Y L I
+láayli'e L AA_H Y L I_G E
+léech L EE_H CH
+léechil L EE_H CH I L
+léecho L EE_H CH O
+léechpaja'an L EE_H CH P A J A_RG N
+léechpajik L EE_H CH P A J I K
+léechta'al L EE_H CH T A_RG L
+léej L EE_H J
+léejik L EE_H J I K
+léeyli L EE_H Y L I
+líik L II_H K
+líik'ike L II_H K_G I K E
+líik'il L II_H K_G I L
+líik'ila L II_H K_G I L A
+líik'ilo L II_H K_G I L O
+líik's L II_H K_G S
+línea L I N E A
+líos L I O S
+lóo'che L OO_H GLOT CH E
+lóob L OO_H B
+lúubech L UU_H B E CH
+lúubeno L UU_H B E N O
+lúubo L UU_H B O
+lúubsa'al L UU_H B S A_RG L
+lúubsaj L UU_H B S A J
+lúubsecho L UU_H B S E CH O
+lúubuke L UU_H B U K E
+lúubul L UU_H B U L
+lúuk'eno L UU_H K_G E N O
+lúuk'sik L UU_H K_G S I K
+lúukul L UU_H K U L
+lúukumkaan L UU_H K U M K AA_L N
+ma M A
+ma' M A_G
+ma'a M A_RG
+ma'achal M A_RG CH A L
+ma'achalo M A_RG CH A L O
+ma'ache M A_RG CH E
+ma'achij M A_RG CH I J
+ma'acho'ob M A_RG CH O_RG B
+ma'acho'obij M A_RG CH O_RG B I J
+ma'alo'ob M A_RG L O_RG B
+ma'alob M A_RG L O B
+ma'alobe M A_RG L O B E
+ma'alobe' M A_RG L O B E_G
+ma'alobe'ex M A_RG L O B E_RG X
+ma'alobi M A_RG L O B I
+ma'alobi' M A_RG L O B I_G
+ma'alobil M A_RG L O B I L
+ma'an M A_RG N
+ma'atech M A_RG T E CH
+ma'aten M A_RG T E N
+ma'ax M A_RG X
+ma'e M A_G E
+ma'il M A_G I L
+ma'k M A_G K
+ma'u M A_G U
+maak M AA_L K
+maama M AA_L M A
+maamae M AA_L M A E
+maamae' M AA_L M A E_G
+maamaech M AA_L M A E CH
+maamail M AA_L M A I L
+maamaile M AA_L M A I L E
+maamailo M AA_L M A I L O
+maamao M AA_L M A O
+maamao' M AA_L M A O_G
+maan M AA_L N
+maantats'e M AA_L N T A TS_G E
+maas M AA_L S
+maases M AA_L S E S
+maasil M AA_L S I L
+maasile M AA_L S I L E
+maastal M AA_L S T A L
+maata M AA_L T A
+maaya M AA_L Y A
+maaya'obo M AA_L Y A_G O B O
+maayao M AA_L Y A O
+maayat'aan M AA_L Y A T_G AA_L N
+mach M A CH
+machaj M A CH A J
+machbil M A CH B I L
+mache M A CH E
+machech M A CH E CH
+machik M A CH I K
+machikabáaj M A CH I K A B AA_H J
+machike M A CH I K E
+machikeche M A CH I K E CH E
+machikene'ex M A CH I K E N E_RG X
+machiki M A CH I K I
+machiko'ob M A CH I K O_RG B
+machimbáaj M A CH I M B AA_H J
+machm M A CH M
+machmaj M A CH M A J
+machmajil M A CH M A J I L
+macho'ob M A CH O_RG B
+madre M A D R E
+maestro M A E S T R O
+maestro'ob M A E S T R O_RG B
+maestroo M A E S T R OO_L
+maestros M A E S T R O S
+majantik M A J A N T I K
+makal M A K A L
+makalo M A K A L O
+maleta M A L E T A
+mamaj M A M A J
+mamajo M A M A J O
+man M A N
+manaj M A N A J
+manak M A N A K
+mandar M A N D A R
+mandarbil M A N D A R B I L
+mandartubáaj M A N D A R T U B AA_H J
+manej M A N E J
+manejartik M A N E J A R T I K
+mangas M A NG G A S
+mangaso M A NG G A S O
+manik M A N I K
+manito M A N I T O
+mantats M A N T A TS
+mantats'o M A N T A TS_G O
+manuskrito M A N U S K R I T O
+mare M A R E
+mario M A R I O
+markado M A R K A D O
+markadoil M A R K A D O I L
+markarta'ale M A R K A R T A_RG L E
+markela M A R K E L A
+martino M A R T I N O
+martín M A R T I N
+maría M A R I A
+mas M A S
+masan M A S A N
+masima M A S I M A
+maxkil M A X K I L
+maxkile M A X K I L E
+maxkilo M A X K I L O
+may M A Y
+mayak M A Y A K
+mayas M A Y A S
+mayo M A Y O
+mayoe M A Y O E
+mañana M A NY A N A
+mañanae M A NY A N A E
+me M E
+me'ex M E_RG X
+mechao M E CH A O
+media M E D I A
+medio M E D I O
+meech M EE_L CH
+meen M EE_L N
+meenchaj M EE_L N CH A J
+meeno M EE_L N O
+meent M EE_L N T
+meenta'ab M EE_L N T A_RG B
+meenta'abij M EE_L N T A_RG B I J
+meenta'al M EE_L N T A_RG L
+meenta'ale M EE_L N T A_RG L E
+meenta'alo'ob M EE_L N T A_RG L O_RG B
+meentaj M EE_L N T A J
+meentajo M EE_L N T A J O
+meentbil M EE_L N T B I L
+meente M EE_L N T E
+meente'ex M EE_L N T E_RG X
+meente'exe M EE_L N T E_RG X E
+meentej M EE_L N T E J
+meenti M EE_L N T I
+meentij M EE_L N T I J
+meentik M EE_L N T I K
+meentika M EE_L N T I K A
+meentike M EE_L N T I K E
+meentike'ex M EE_L N T I K E_RG X
+meentiko M EE_L N T I K O
+meentiko'ob M EE_L N T I K O_RG B
+meentma M EE_L N T M A
+meentmaj M EE_L N T M A J
+meentmo M EE_L N T M O
+meento M EE_L N T O
+meento'ob M EE_L N T O_RG B
+meento'obi M EE_L N T O_RG B I
+meento'oni M EE_L N T O_RG N I
+meetik M EE_L T I K
+mejen M E J E N
+mejenil M E J E N I L
+mejenile'ex M E J E N I L E_RG X
+mejenilo'ob M E J E N I L O_RG B
+mejenilo'obe M E J E N I L O_RG B E
+mejeno M E J E N O
+mejeno'ob M E J E N O_RG B
+mejor M E J O R
+mekanisada M E K A N I S A D A
+mekanisado M E K A N I S A D O
+meli M E L I
+menae M E N A E
+menos M E N O S
+mente'obe M E N T E_G O B E
+merkankiao M E R K A N K I A O
+merkankía M E R K A NG K I A
+mesao M E S A O
+meses M E S E S
+mesil M E S I L
+metros M E T R O S
+metrosil M E T R O S I L
+metrosile M E T R O S I L E
+metrosilo M E T R O S I L O
+meyaj M E Y A J
+meyaja M E Y A J A
+meyaje M E Y A J E
+meyaje'ex M E Y A J E_RG X
+meyaji M E Y A J I
+meyaji' M E Y A J I_G
+meyajil M E Y A J I L
+meyajilo'ob M E Y A J I L O_RG B
+meyajmaj M E Y A J M A J
+meyajnaja'anilen M E Y A J N A J A_RG N I L E N
+meyajnajij M E Y A J N A J I J
+meyajnako'ob M E Y A J N A K O_RG B
+meyajnako'on M E Y A J N A K O_RG N
+meyajo M E Y A J O
+meyajo' M E Y A J O_G
+meyajo'ob M E Y A J O_RG B
+meyajo'obi' M E Y A J O_RG B I_G
+meyajo'obo M E Y A J O_RG B O
+meyajtaj M E Y A J T A J
+meyajtik M E Y A J T I K
+meyajtiko'obe M E Y A J T I K O_RG B E
+meyajto'ob M E Y A J T O_RG B
+mi M I
+mientras M I E N T R A S
+miiro M II_L R O
+miis M II_L S
+miisa M II_L S A
+mika M I K A
+mil M I L
+millones M I L L O N E S
+millonesil M I L L O N E S I L
+min M I N
+mina'an M I N A_RG N
+mina'ani M I N A_RG N I
+mina'ano'ob M I N A_RG N O_RG B
+minutos M I N U T O S
+minúskula M I N U S K U L A
+minúskulas M I N U S K U L A S
+mira M I R A
+miro M I R O
+miroil M I R O I L
+miroo M I R OO_L
+misa M I S A
+misao M I S A O
+misma M I S M A
+mismo M I S M O
+missa' M I S S A_G
+misso' M I S S O_G
+mix M I X
+mixba'al M I X B A_RG L
+mixba'alak M I X B A_RG L A K
+mixba'ali M I X B A_RG L I
+mixba'alo M I X B A_RG L O
+mixbik'in M I X B I K_G I N
+mixmáak M I X M AA_H K
+mixmáaki M I X M AA_H K I
+mixtu'ux M I X T U_RG X
+mmm M M M
+mo' M O_G
+mo'olo'obe M O_RG L O_RG B E
+modo M O D O
+modoil M O D O I L
+modos M O D O S
+molde M O L D E
+momento M O M E N T O
+momentoil M O M E N T O I L
+mono M O N O
+montaña M O N T A NY A
+monumento M O N U M E N T O
+mooto M OO_L T O
+moots M OO_L TS
+morro M O R R O
+morroo M O R R OO_L
+moskitoso'ob M O S K I T O S O_RG B
+movimiento M O B I M Y E N T O
+mu M U
+mu'uk M U_RG K
+mu'uko'ob M U_RG K O_RG B
+mu'uko'obi M U_RG K O_RG B I
+much M U CH
+much'kabáaj M U CH_G K A B AA_H J
+much'kintikubáa M U CH_G K I N T I K U B AA_H
+mucha M U CH A
+muestra M U E S T R A
+muk'yaj M U K_G Y A J
+muk'yajo M U K_G Y A J O
+muk'yajtik M U K_G Y A J T I K
+muknal M U K N A L
+muknalo'ob M U K N A L O_RG B
+mulix M U L I X
+mulixech M U L I X E CH
+mun M U N
+muts M U TS
+muuch M UU_L CH
+muuk M UU_L K
+muuk' M UU_L K_G
+muul M UU_L L
+má M A
+máaj M AA_H J
+máak M AA_H K
+máak'antik M AA_H K_G A N T I K
+máaka M AA_H K A
+máakalmáak M AA_H K A L M AA_H K
+máake M AA_H K E
+máaki M AA_H K I
+máakil M AA_H K I L
+máakile M AA_H K I L E
+máako M AA_H K O
+máako'ob M AA_H K O_RG B
+máako'oba M AA_H K O_RG B A
+máako'obe M AA_H K O_RG B E
+máako'obo M AA_H K O_RG B O
+máan M AA_H N
+máanaja'anil M AA_H N A J A_RG N I L
+máanak M AA_H N A K
+máanake M AA_H N A K E
+máanako'on M AA_H N A K O_RG N
+máanbal M AA_H N B A L
+máane M AA_H N E
+máanen M AA_H N E N
+máanene'ex M AA_H N E N E_RG X
+máanik M AA_H N I K
+máanja'an M AA_H N J A_RG N
+máano'ob M AA_H N O_RG B
+máansa'abo'ob M AA_H N S A_RG B O_RG B
+máanso'ob M AA_H N S O_RG B
+máas M AA_H S
+máasima' M AA_H S I M A_G
+máaskab M AA_H S K A B
+máat M AA_H T
+máatej M AA_H T E J
+máatik M AA_H T I K
+máatike M AA_H T I K E
+máatsab M AA_H TS A B
+máax M AA_H X
+máaxe'ex M AA_H X E_RG X
+máaxech M AA_H X E CH
+máaxechi M AA_H X E CH I
+máaxen M AA_H X E N
+máaxi' M AA_H X I_G
+máaxo'ob M AA_H X O_RG B
+mákina M A K I N A
+más M A S
+méek'aj M EE_H K_G A J
+méek'ej M EE_H K_G E J
+méek'ikena M EE_H K_G I K E N A
+méek'tankaajile M EE_H K_G T A N K AA_L J I L E
+méektáan M EE_H K T AA_H N
+méentik M EE_H N T I K
+méxiko M E K S I K O
+míij M II_H J
+míin M II_H N
+míis M II_H S
+míist M II_H S T
+míistik M II_H S T I K
+míistiko'ob M II_H S T I K O_RG B
+mío M I O
+móocho M OO_H CH O
+móojton M OO_H J T O N
+múuch'ul M UU_H CH_G U L
+múukul M UU_H K U L
+múul M UU_H L
+múulo M UU_H L O
+múunyal M UU_H N Y A L
+na N A
+na'ajtal N A_RG J T A L
+na'ajtale N A_RG J T A L E
+na'ak N A_RG K
+na'akal N A_RG K A L
+na'akale N A_RG K A L E
+na'ake'ex N A_RG K E_RG X
+na'akech N A_RG K E CH
+na'aken N A_RG K E N
+na'ako'ob N A_RG K O_RG B
+na'ako'on N A_RG K O_RG N
+na'ako'one'ex N A_RG K O_RG N E_RG X
+na'aksa'al N A_RG K S A_RG L
+na'at N A_RG T
+na'ata'ale N A_RG T A_RG L E
+na'atabáaj N A_RG T A B AA_H J
+na'ate N A_RG T E
+na'ate'ex N A_RG T E_RG X
+na'atik N A_RG T I K
+na'atike N A_RG T I K E
+na'atiko'ob N A_RG T I K O_RG B
+na'atiko'obe N A_RG T I K O_RG B E
+na'atinbáaj N A_RG T I N B AA_H J
+na'ato'ob N A_RG T O_RG B
+na'ato'obo N A_RG T O_RG B O
+na'ex N A_G E X
+naajil N AA_L J I L
+naajilo N AA_L J I L O
+naajilo'ob N AA_L J I L O_RG B
+naak' N AA_L K_G
+naak'al N AA_L K_G A L
+naats N AA_L TS
+naats' N AA_L TS_G
+naats'a N AA_L TS_G A
+naj N A J
+naja N A J A
+naja' N A J A_G
+naje N A J E
+naje' N A J E_G
+najil N A J I L
+najo N A J O
+najo' N A J O_G
+najo'ob N A J O_RG B
+najo'obo N A J O_RG B O
+nak N A K
+nak' N A K_G
+nak'e N A K_G E
+nak'o'ob N A K_G O_RG B
+naka'aj N A K A_RG J
+naka'ajo'on N A K A_RG J O_RG N
+nal N A L
+nalgas N A L G A S
+nalo N A L O
+narrakiones N A R R A K I O N E S
+neek N EE_L K
+neek' N EE_L K_G
+neene N EE_L N E
+negro N E G R O
+nej N E J
+nene N E N E
+nene'o N E N E_G O
+ni N I
+ni' N I_G
+ni'ibóolal N I_RG B OO_H L A L
+nika'aj N I K A_RG J
+nika'ajen N I K A_RG J E N
+nin N I N
+niño N I NY O
+no N O
+no'och' N O_RG CH_G
+no'oj N O_RG J
+noche N O CH E
+nocheo N O CH E O
+noj N O J
+nojlu'umil N O J L U_RG M I L
+nojoch N O J O CH
+nojochchajeni N O J O CH CH A J E N I
+nojoche N O J O CH E
+nojochi N O J O CH I
+nojochi' N O J O CH I_G
+nojochil N O J O CH I L
+nojochilo N O J O CH I L O
+nojochkíintil N O J O CH K II_H N T I L
+nojocho N O J O CH O
+nojocho' N O J O CH O_G
+nojochtal N O J O CH T A L
+nojol N O J O L
+noka'ani N O K A_RG N I
+nomás N O M A S
+nook N OO_L K
+nook' N OO_L K_G
+nook'a' N OO_L K_G A_G
+nook'i N OO_L K_G I
+nook'o' N OO_L K_G O_G
+nook'o'obo N OO_L K_G O_RG B O
+nookoytal N OO_L K O Y T A L
+nookoytalo N OO_L K O Y T A L O
+nool N OO_L L
+noonoje'exe N OO_L N O J E_RG X E
+norte N O R T E
+noventa N O B E N T A
+nu'uka'an N U_RG K A_RG N
+nu'ukul N U_RG K U L
+nueve N W E B E
+nuka'aj N U K A_RG J
+nuka'ajen N U K A_RG J E N
+nuka'ajo'on N U K A_RG J O_RG N
+nukuch N U K U CH
+nup'abáaj N U P_G A B AA_H J
+nuuk N UU_L K
+nuukil N UU_L K I L
+nuukilo'ob N UU_L K I L O_RG B
+nuukilo'obe N UU_L K I L O_RG B E
+nuukilo'obo N UU_L K I L O_RG B O
+nuuktak N UU_L K T A K
+nuuktakilo'ob N UU_L K T A K I L O_RG B
+nuuktal N UU_L K T A L
+nuxi' N U X I_G
+nuxib N U X I B
+náab N AA_H B
+náach N AA_H CH
+náachij N AA_H CH I J
+náacho N AA_H CH O
+náachtal N AA_H CH T A L
+náachtale N AA_H CH T A L E
+náajal N AA_H J A L
+náajaltik N AA_H J A L T I K
+náak N AA_H K
+náak'al N AA_H K_G A L
+náakal N AA_H K A L
+náakale N AA_H K A L E
+náakali N AA_H K A L I
+náake N AA_H K E
+náats'al N AA_H TS_G A L
+náats'e N AA_H TS_G E
+náay N AA_H Y
+náayal N AA_H Y A L
+náayo N AA_H Y O
+náayo'ob N AA_H Y O_RG B
+náayo'obo N AA_H Y O_RG B O
+náaysik N AA_H Y S I K
+náayt N AA_H Y T
+náaytaj N AA_H Y T A J
+náaytej N AA_H Y T E J
+náayti N AA_H Y T I
+náaytik N AA_H Y T I K
+náaytike N AA_H Y T I K E
+náaytilo N AA_H Y T I L O
+néen N EE_H N
+níib N II_H B
+nóok N OO_H K
+nóok'o'ob N OO_H K_G O_RG B
+nóoken N OO_H K E N
+número N U M E R O
+núuk N UU_H K
+núukta'al N UU_H K T A_RG L
+núuktej N UU_H K T E J
+núunk'ini'il N UU_H N K_G I N I_RG L
+núup'uk N UU_H P_G U K
+o O
+o'olal O_RG L A L
+ocho O CH O
+ofikina O F I K I N A
+ofrekert O F R E K E R T
+ojel O J E L
+ojela'an O J E L A_RG N
+ojele O J E L E
+ojele' O J E L E_G
+ojele'exe' O J E L E_RG X E_G
+ojeli O J E L I
+ojéela'ak O J EE_H L A_RG K
+ojéela'an O J EE_H L A_RG N
+ojéela'ane O J EE_H L A_RG N E
+ok O K
+ok'ol O K_G O L
+ok'olchi'ibalo'ob O K_G O L CH I_RG B A L O_RG B
+ok'olo O K_G O L O
+ok'oltbil O K_G O L T B I L
+okasionar O K A S I O N A R
+oke O K E
+oken O K E N
+okene'ex O K E N E_RG X
+okij O K I J
+okik O K I K
+okil O K I L
+oko O K O
+oko'ob O K O_RG B
+oko'on O K O_RG N
+okok O K O K
+okokech O K O K E CH
+okol O K O L
+okolbil O K O L B I L
+okole O K O L E
+oksa'akeche O K S A_RG K E CH E
+onke O N K E
+ooch OO_L CH
+oocho'ob OO_L CH O_RG B
+ook OO_L K
+ook'in OO_L K_G I N
+ooke OO_L K E
+ooken OO_L K E N
+ookene'ex OO_L K E N E_RG X
+ooko'ob OO_L K O_RG B
+ookol OO_L K O L
+ooni' OO_L N I_G
+oora OO_L R A
+ooraa OO_L R AA_L
+oorachaje OO_L R A CH A J E
+oorae OO_L R A E
+oorail OO_L R A I L
+ooraki'o OO_L R A K I_G O
+oorao OO_L R A O
+oorasa OO_L R A S A
+ooritasa OO_L R I T A S A
+ooritase OO_L R I T A S E
+oot' OO_L T_G
+orden O R D E N
+ordene O R D E N E
+ordeno O R D E N O
+orientakión O R Y E N T A K Y O N
+oro O R O
+ortis O R T I S
+osea O S E A
+otoche' O T O CH E_G
+otoche'exe' O T O CH E_RG X E_G
+otochi' O T O CH I_G
+otra O T R A
+p'a'at P_G A_RG T
+p'aak P_G AA_L K
+p'aako P_G AA_L K O
+p'aako' P_G AA_L K O_G
+p'aatal P_G AA_L T A L
+p'aatali P_G AA_L T A L I
+p'aax P_G AA_L X
+p'at P_G A T
+p'ataj P_G A T A J
+p'ate'ex P_G A T E_RG X
+p'atej P_G A T E J
+p'atik P_G A T I K
+p'atikeni P_G A T I K E N I
+p'atiko'ob P_G A T I K O_RG B
+p'atmaji P_G A T M A J I
+p'ato'ob P_G A T O_RG B
+p'eeke' P_G EE_L K E_G
+p'iite P_G II_L T E
+p'ilaj P_G I L A J
+p'isbal P_G I S B A L
+p'isimbáaj P_G I S I M B AA_H J
+p'o P_G O
+p'o' P_G O_G
+p'o'ex P_G O_G E X
+p'o'i P_G O_G I
+p'o'ik P_G O_G I K
+p'o'obol P_G O_RG B O L
+p'okokbal P_G O K O K B A L
+p'u'ujane P_G U_RG J A N E
+p'u'ujij P_G U_RG J I J
+p'u'uk P_G U_RG K
+p'u'up'u'uchik P_G U_RG P_G U_RG CH I K
+p'uch P_G U CH
+p'uchik P_G U CH I K
+p'uchikech P_G U CH I K E CH
+p'uchikubaj P_G U CH I K U B A J
+p'uchikubáaj P_G U CH I K U B AA_H J
+p'áat P_G AA_H T
+p'áatak P_G AA_H T A K
+p'áatako'ob P_G AA_H T A K O_RG B
+p'áatal P_G AA_H T A L
+p'áatale P_G AA_H T A L E
+p'áatali P_G AA_H T A L I
+p'áatali' P_G AA_H T A L I_G
+p'áatalo' P_G AA_H T A L O_G
+p'áate P_G AA_H T E
+p'áaten P_G AA_H T E N
+p'áatij P_G AA_H T I J
+p'áatik P_G AA_H T I K
+p'áatiko P_G AA_H T I K O
+p'áato P_G AA_H T O
+p'áato'ob P_G AA_H T O_RG B
+p'áato'obi P_G AA_H T O_RG B I
+p'áato'one'ex P_G AA_H T O_RG N E_RG X
+p'éel P_G EE_H L
+p'éelili' P_G EE_H L I L I_G
+p'íit P_G II_H T
+p'úujbile P_G UU_H J B I L E
+p'úujul P_G UU_H J U L
+p'úulil P_G UU_H L I L
+pa'ak'al P A_RG K_G A L
+pa'ak'ale P A_RG K_G A L E
+pa'as P A_RG S
+pa'at P A_RG T
+pa'ata'ab P A_RG T A_RG B
+pa'ata'al P A_RG T A_RG L
+pa'ata'alo'ob P A_RG T A_RG L O_RG B
+pa'atali P A_RG T A L I
+pa'atalo P A_RG T A L O
+pa'atej P A_RG T E J
+pa'ateni P A_RG T E N I
+pa'atik P A_RG T I K
+pa'atikech P A_RG T I K E CH
+pa'atiko'ob P A_RG T I K O_RG B
+pa'ato'ob P A_RG T O_RG B
+paach P AA_L CH
+paacha P AA_L CH A
+paache P AA_L CH E
+paachil P AA_L CH I L
+paachila P AA_L CH I L A
+paachile P AA_L CH I L E
+paachilo P AA_L CH I L O
+paacho P AA_L CH O
+paacho'ob P AA_L CH O_RG B
+paak'al P AA_L K_G A L
+paak'ale P AA_L K_G A L E
+paakalilo'ob P AA_L K A L I L O_RG B
+paakalo'ob P AA_L K A L O_RG B
+paal P AA_L L
+paalal P AA_L L A L
+paalale'ex P AA_L L A L E_RG X
+paalalo P AA_L L A L O
+paalalo'ob P AA_L L A L O_RG B
+paalalo'obe P AA_L L A L O_RG B E
+paalalo'obo P AA_L L A L O_RG B O
+paalalo'one P AA_L L A L O_RG N E
+paale P AA_L L E
+paale'ex P AA_L L E_RG X
+paalene P AA_L L E N E
+paalil P AA_L L I L
+paalile P AA_L L I L E
+paapa P AA_L P A
+paax P AA_L X
+paaxe P AA_L X E
+paaxo P AA_L X O
+pachkab P A CH K A B
+padre P A D R E
+padrea P A D R E A
+padreil P A D R E I L
+padrekito P A D R E K I T O
+padreo P A D R E O
+pak P A K
+pak'achbil P A K_G A CH B I L
+pak'achta'al P A K_G A CH T A_RG L
+pak'achta'alo' P A K_G A CH T A_RG L O_G
+pak'alil P A K_G A L I L
+pak'alo'ob P A K_G A L O_RG B
+pak'e P A K_G E
+pak'ik P A K_G I K
+pak'iko'ob P A K_G I K O_RG B
+pak'il P A K_G I L
+pak'o'obi P A K_G O_RG B I
+pak'áali P A K_G AA_H L I
+pak'áali' P A K_G AA_H L I_G
+pakakbal P A K A K B A L
+paktaj P A K T A J
+paktik P A K T I K
+pakto P A K T O
+palabra P A L A B R A
+palabrao P A L A B R A O
+palakio P A L A K I O
+palitsileche P A L I TS I L E CH E
+palitsilil P A L I TS I L I L
+paloma P A L O M A
+palomao P A L O M A O
+palomeke P A L O M E K E
+pantaloni P A N T A L O N I
+pantalón P A N T A L O N
+papa P A P A
+papae P A P A E
+papai P A P A I
+papaj P A P A J
+papaje P A P A J E
+papaje'ex P A P A J E_RG X
+papajilo P A P A J I L O
+papaxk'abta'al P A P A X K_G A B T A_RG L
+papaxk'abta'ali P A P A X K_G A B T A_RG L I
+papaya P A P A Y A
+papayao P A P A Y A O
+papá P A P A
+papáech P A P A E CH
+para P A R A
+parekero'ob P A R E K E R O_RG B
+parte P A R T E
+pasajeo P A S A J E O
+paso P A S O
+pati'ech P A T I_G E CH
+patioe P A T I O E
+patk'aaba' P A T K_G AA_L B A_G
+patrón P A T R O N
+paulino P A U L I N O
+pavo P A B O
+paxik P A X I K
+pay P A Y
+payaj P A Y A J
+payal P A Y A L
+payalchi'il P A Y A L CH I_RG L
+paye P A Y E
+payik P A Y I K
+payike P A Y I K E
+payukán P A Y U K A N
+paywakax P A Y W A K A X
+paywakaxo P A Y W A K A X O
+pe'echak'naj P E_RG CH A K_G N A J
+peech P EE_L CH
+peek P EE_L K
+peek' P EE_L K_G
+peek'o P EE_L K_G O
+peek'o'ob P EE_L K_G O_RG B
+peek'o'oba' P EE_L K_G O_RG B A_G
+peel P EE_L L
+peelil P EE_L L I L
+pegado P E G A D O
+peka'an P E K A_RG N
+peka'ani P E K A_RG N I
+pelón P E L O N
+pendejada'ob P E N D E J A D A_G O B
+pendejo P E N D E J O
+perdertaj P E R D E R T A J
+perdertik P E R D E R T I K
+perdonartech P E R D O N A R T E CH
+permisoo P E R M I S OO_L
+pero P E R O
+perseguirta'al P E R S E G I R T A A L
+perseguirta'alo'ob P E R S E G I R T A A L O O B
+persekukiono P E R S E K U K I O N O
+persekukión P E R S E K U K Y O N
+persona P E R S O N A
+personail P E R S O N A I L
+personas P E R S O N A S
+peska P E S K A
+peskadoro'obo P E S K A D O R O_RG B O
+pesos P E S O S
+pesosa' P E S O S A_G
+pesose P E S O S E
+pestilenkia P E S T I L E N K I A
+pi'ik'tiko'obe P I_RG K_G T I K O_RG B E
+pichi' P I CH I_G
+pichi'i' P I CH I_RG GLOT
+piesa P I E S A
+piiiix P II_L II_L X
+piim P II_L M
+piixan P II_L X A N
+pij P I J
+pikartik P I K A R T I K
+pikch'inta'abij P I K CH_G I N T A_RG B I J
+pilao P I L A O
+pintado P I N T A D O
+pinto P I N T O
+pirinsuut P I R I N S UU_L T
+pitiki P I T I K I
+pixan P I X A N
+pixane P I X A N E
+pixano'obo P I X A N O_RG B O
+pixmaj P I X M A J
+pixmajo'ob P I X M A J O_RG B
+pixmajo'oba P I X M A J O_RG B A
+plan P L A N
+plantar P L A N T A R
+plantarminbáaj P L A N T A R M I N B AA_H J
+plantartubáaj P L A N T A R T U B AA_H J
+plantartubáaje P L A N T A R T U B AA_H J E
+plata P L A T A
+pobre P O B R E
+poch'bil P O CH_G B I L
+poch'iko'ob P O CH_G I K O_RG B
+poder P O D E R
+podere P O D E R E
+poderil P O D E R I L
+poderoso P O D E R O S O
+pola P O L A
+polikía P O L I K I A
+polok P O L O K
+polítika P O L I T I K A
+polítiko'ob P O L I T I K O O B
+poncha'at P O N CH A_RG T
+ponponcha'at P O N P O N CH A_RG T
+pool P OO_L L
+poolo P OO_L L O
+poonso P OO_L N S O
+por P O R
+porke P O R K E
+posada P O S A D A
+posadai P O S A D A I
+posadao P O S A D A O
+posible P O S I B L E
+posporo P O S P O R O
+postaile P O S T A I L E
+potable P O T A B L E
+potrero P O T R E R O
+prefertik P R E F E R T I K
+prekio P R E K I O
+preparartik P R E P A R A R T I K
+preparartilo P R E P A R A R T I L O
+prepararto'ob P R E P A R A R T O_RG B
+presentarta'ab P R E S E N T A R T A_RG B
+presentarten P R E S E N T A R T E N
+presidente P R E S I D E N T E
+presidenteo P R E S I D E N T E O
+prinkesa'ex P R I N K E S A_G E X
+prinkesao P R I N K E S A O
+prokurart P R O K U R A R T
+prometerm P R O M E T E R M
+prometert P R O M E T E R T
+propasar P R O P A S A R
+prospere P R O S P E R E
+prosperidad P R O S P E R I D A D
+pu'uch P U_RG CH
+pu'ucho P U_RG CH O
+pu'ulul P U_RG L U L
+pueblo P U E B L O
+pues P U E S
+puksi'ik'al P U K S I_RG K_G A L
+puksi'ik'ale P U K S I_RG K_G A L E
+puksi'ik'alo P U K S I_RG K_G A L O
+pukte P U K T E
+pul P U L
+puli' P U L I_G
+pulpear P U L P E A R
+pulpo P U L P O
+pulpoa P U L P O A
+pulpoe P U L P O E
+pulpoo P U L P OO_L
+pulubáaje P U L U B AA_H J E
+pulya'ajil P U L Y A_RG J I L
+puro P U R O
+puta P U T A
+puuts'o P UU_L TS_G O
+páa'ch'úuytaj P AA_H GLOT CH_G UU_H Y T A J
+páa'techi' P AA_H GLOT T E CH I_G
+páa'ten P AA_H GLOT T E N
+páa'teno'ob P AA_H GLOT T E N O_RG B
+páa'tik P AA_H GLOT T I K
+páa'tike'ex P AA_H GLOT T I K E_RG X
+páa'tikech P AA_H GLOT T I K E CH
+páa'tiken P AA_H GLOT T I K E N
+páa'tko'one'exo'ob P AA_H GLOT T K O_RG N E_RG X O_RG B
+páajchaj P AA_H J CH A J
+páajchak P AA_H J CH A K
+páajt P AA_H J T
+páajtak P AA_H J T A K
+páajtal P AA_H J T A L
+páajtale P AA_H J T A L E
+páajtale'exe P AA_H J T A L E_RG X E
+páajtalil P AA_H J T A L I L
+páajtalile'ex P AA_H J T A L I L E_RG X
+páajtij P AA_H J T I J
+páak P AA_H K
+páakal P AA_H K A L
+páakta'an P AA_H K T A_RG N
+páaktal P AA_H K T A L
+páana'al P AA_H N A_RG L
+páat P AA_H T
+páatak P AA_H T A K
+páatchajij P AA_H T CH A J I J
+páayil P AA_H Y I L
+páaykunt P AA_H Y K U N T
+páaykuntaj P AA_H Y K U N T A J
+páaykunto'ob P AA_H Y K U N T O_RG B
+péek P EE_H K
+péeko'ob P EE_H K O_RG B
+péeksa'al P EE_H K S A_RG L
+péeksik P EE_H K S I K
+péeksikimbáaj P EE_H K S I K I M B AA_H J
+péekso'ob P EE_H K S O_RG B
+péenajene P EE_H N A J E N E
+péepen P EE_H P E N
+píi'sutikubáaj P II_H GLOT S U T I K U B AA_H J
+píibil P II_H B I L
+píik'sáas P II_H K_G S AA_H S
+píik'sáasiltal P II_H K_G S AA_H S I L T A L
+píikch'iintaj P II_H K CH_G II_L N T A J
+póokbil P OO_H K B I L
+póokik P OO_H K I K
+póoncha'at P OO_H N CH A_RG T
+póoncha'ataj P OO_H N CH A_RG T A J
+póoncha'ate P OO_H N CH A_RG T E
+póop P OO_H P
+póopil P OO_H P I L
+púuta'al P UU_H T A_RG L
+púutmajil P UU_H T M A J I L
+púuts P UU_H TS
+púuts'e P UU_H TS_G E
+púuts'uk P UU_H TS_G U K
+púuts'ul P UU_H TS_G U L
+púuts'uli P UU_H TS_G U L I
+púuts'ulo'ob P UU_H TS_G U L O_RG B
+qué K E
+radio R A D I O
+rancho R A N CH O
+rasa R A S A
+rasa'obe R A S A_G O B E
+rastro R A S T R O
+ratono'obo R A T O N O_RG B O
+raya R A Y A
+rebanartik R E B A N A R T I K
+red R E D
+rede R E D E
+redil R E D I L
+reflejo RR E F L E J O
+reflejoil RR E F L E J O I L
+registrarta'abene RR E J I S T R A R T A A B E N E
+registrarta'abeni RR E J I S T R A R T A A B E N I
+regla RR E G L A
+rekalar R E K A L A R
+relajo R E L A J O
+repente R E P E N T E
+repentee R E P E N T EE_L
+republika R E P U B L I K A
+repúblika RR E P U B L I K A
+resar R E S A R
+resarnen R E S A R N E N
+resaro'ob R E S A R O_RG B
+respetaron R E S P E T A R O N
+respeto R E S P E T O
+resultadoe R E S U L T A D O E
+revesil RR E B E S I L
+revés RR E B E S
+rey R E Y
+reyen R E Y E N
+reyo R E Y O
+rifle RR I F L E
+rio'ob R I O_RG B
+rodrígues RR O D R I G E S
+rollos R O L L O S
+rosa R O S A
+rua R U A
+ruido R U I D O
+sa' S A_G
+sa'ap'al S A_RG P_G A L
+sa'at S A_RG T
+sa'atak S A_RG T A K
+sa'atakech S A_RG T A K E CH
+sa'atal S A_RG T A L
+sa'atale' S A_RG T A L E_G
+sa'atale'ex S A_RG T A L E_RG X
+sa'atale'exe' S A_RG T A L E_RG X E_G
+sa'atalo'ob S A_RG T A L O_RG B
+sa'atalo'obe' S A_RG T A L O_RG B E_G
+sa'atalo'obo S A_RG T A L O_RG B O
+sa'ate S A_RG T E
+sa'atij S A_RG T I J
+sa'ato S A_RG T O
+saabado S AA_L B A D O
+saabadoe' S AA_L B A D O E_G
+saak' S AA_L K_G
+saamal S AA_L M A L
+saan S AA_L N
+saatale S AA_L T A L E
+saatalen S AA_L T A L E N
+saay S AA_L Y
+saayo S AA_L Y O
+sabana S A B A N A
+sabanao S A B A N A O
+sabe S A B E
+sabes S A B E S
+sajak S A J A K
+sajakchajeni S A J A K CH A J E N I
+sajakeche S A J A K E CH E
+sajakechi S A J A K E CH I
+sajaken S A J A K E N
+sajakkunseni S A J A K K U N S E N I
+sajakkúunsiken S A J A K K UU_H N S I K E N
+sajakkúunta'al S A J A K K UU_H N T A_RG L
+sajakkúunta'an S A J A K K UU_H N T A_RG N
+sajako'ono S A J A K O_RG N O
+sajaktal S A J A K T A L
+sajbe'entsil S A J B E_RG N TS I L
+sajbe'entsile S A J B E_RG N TS I L E
+sajkab S A J K A B
+sajkaba S A J K A B A
+sajkabo S A J K A B O
+sajkabo'ob S A J K A B O_RG B
+sajkabo'obo S A J K A B O_RG B O
+sajken S A J K E N
+sajkil S A J K I L
+sajkili S A J K I L I
+sajkilil S A J K I L I L
+sak S A K
+sakate S A K A T E
+sakristan S A K R I S T A N
+sakristano S A K R I S T A N O
+saktako'ob S A K T A K O_RG B
+saktal S A K T A L
+sala S A L A
+salinas S A L I N A S
+salinaso S A L I N A S O
+salomón S A L O M O N
+salpikonil S A L P I K O N I L
+salpikón S A L P I K O N
+salvador S A L B A D O R
+salvadore S A L B A D O R E
+salvadoril S A L B A D O R I L
+salvadoro S A L B A D O R O
+salvakión S A L B A K Y O N
+salvart S A L B A R T
+salvartik S A L B A R T I K
+salvartikabáaj S A L B A R T I K A B A A J
+salve S A L B E
+sam S A M
+samal S A M A L
+sankochartik S A N K O CH A R T I K
+sano S A N O
+santa S A N T A
+santanao S A N T A N A O
+santo S A N T O
+santísima S A N T I S I M A
+sarawatoi S A R A W A T O I
+se'en S E_RG N
+seeb S EE_L B
+seen S EE_L N
+seguer S E G E R
+seguertik S E G E R T I K
+seguir S E G I R
+seguirt S E G I R T
+seguirta'al S E G I R T A A L
+segundaa S E G U N D A A
+seguro S E G U R O
+según S E G U N
+seis S E I S
+seiso'obo S E I S O_RG B O
+selva S E L B A
+semana S E M A N A
+semana'ob S E M A N A_G O B
+semana'oba S E M A N A_G O B A
+semana'obe S E M A N A_G O B E
+semana'obo S E M A N A_G O B O
+semanae S E M A N A E
+semanao S E M A N A O
+semilla S E M I L L A
+semillai S E M I L L A I
+sen S E N
+ser S E R
+será S E R A
+setenta S E T E N T A
+seybaplaya S E Y B A P L A Y A
+señal S E NY A L
+señor S E NY O R
+señora S E NY O R A
+señora'ob S E NY O R A O B
+señora'obo S E NY O R A O B O
+señorao S E NY O R A O
+señorita S E NY O R I T A
+señoro S E NY O R O
+si S I
+si' S I_G
+si'ipil S I_RG P I L
+si'ipile S I_RG P I L E
+si'ipile'exe S I_RG P I L E_RG X E
+si'o S I_G O
+si'obo S I_G O B O
+sibil S I B I L
+siempre S I E M P R E
+sierra S I E R R A
+sierrao S I E R R A O
+siete S I E T E
+siibal S II_L B A L
+siijilech S II_L J I L E CH
+siile' S II_L L E_G
+sikil S I K I L
+silenkio S I L E N K I O
+simplemente S I M P L E M E N T E
+sino S I N O
+sirena S I R E N A
+sobrino S O B R I N O
+sobrino'obo S O B R I N O_RG B O
+sojol S O J O L
+solamente S O L A M E N T E
+solaro S O L A R O
+solikitarmaj S O L I K I T A R M A J
+solikitartik S O L I K I T A R T I K
+solikitud S O L I K I T U D
+soots S OO_L TS
+soots' S OO_L TS_G
+sotanao S O T A N A O
+su'ukil S U_RG K I L
+su'usu'utik S U_RG S U_RG T I K
+su'ut S U_RG T
+suavetal S W A B E T A L
+suegra S W E G R A
+suelo'obo S U E L O_RG B O
+sueloo S U E L OO_L
+suerte S U E R T E
+suerteil S U E R T E I L
+sufikiente S U F I K Y E N T E
+sufrir S U F R I R
+sukio S U K I O
+suku'un S U K U_RG N
+suku'une'ex S U K U_RG N E_RG X
+suku'uno S U K U_RG N O
+suku'uno'obo S U K U_RG N O_RG B O
+sunaaj S U N AA_L J
+sut S U T
+sutabáaj S U T A B AA_H J
+sutaj S U T A J
+sute'ex S U T E_RG X
+sutech S U T E CH
+suuk S UU_L K
+suuko'ob S UU_L K O_RG B
+suum S UU_L M
+suuma S UU_L M A
+suume S UU_L M E
+suumil S UU_L M I L
+suumilo S UU_L M I L O
+suumo S UU_L M O
+suunaj S UU_L N A J
+suunaja'an S UU_L N A J A_RG N
+suunajech S UU_L N A J E CH
+suunajen S UU_L N A J E N
+suunajij S UU_L N A J I J
+suunajo'ob S UU_L N A J O_RG B
+suunajo'obij S UU_L N A J O_RG B I J
+suunak S UU_L N A K
+suunakene' S UU_L N A K E N E_G
+suunako'ob S UU_L N A K O_RG B
+suut S UU_L T
+suutabáaj S UU_L T A B AA_H J
+suute S UU_L T E
+suuti' S UU_L T I_G
+suutikubáaj S UU_L T I K U B AA_H J
+suutilabáaj S UU_L T I L A B AA_H J
+suuto'ob S UU_L T O_RG B
+suuto'obe S UU_L T O_RG B E
+suutubáaj S UU_L T U B AA_H J
+suuy S UU_L Y
+syeen S Y EE_L N
+sáak' S AA_H K_G
+sáam S AA_H M
+sáamake S AA_H M A K E
+sáamal S AA_H M A L
+sáamale S AA_H M A L E
+sáamale' S AA_H M A L E_G
+sáame S AA_H M E
+sáamij S AA_H M I J
+sáamile S AA_H M I L E
+sáansamal S AA_H N S A M A L
+sáansamale S AA_H N S A M A L E
+sáasij S AA_H S I J
+sáasije S AA_H S I J E
+sáasil S AA_H S I L
+sáasilkunaj S AA_H S I L K U N A J
+sáasilkunto'ob S AA_H S I L K U N T O_RG B
+sáasilo S AA_H S I L O
+sáasilo' S AA_H S I L O_G
+sáasilo'ob S AA_H S I L O_RG B
+sáasilo'obo' S AA_H S I L O_RG B O_G
+sáasilta'al S AA_H S I L T A_RG L
+sáastal S AA_H S T A L
+sáastale S AA_H S T A L E
+sáats'al S AA_H TS_G A L
+séeb S EE_H B
+séeban S EE_H B A N
+séebo S EE_H B O
+séet S EE_H T
+sí S I
+síibil S II_H B I L
+síij S II_H J
+síijaj S II_H J A J
+síijech S II_H J E CH
+síijene S II_H J E N E
+síik S II_H K
+síimsimitoo S II_H M S I M I T OO_L
+síinik S II_H N I K
+síisis S II_H S I S
+síit' S II_H T_G
+síit'naj S II_H T_G N A J
+síit'naje S II_H T_G N A J E
+sóol S OO_H L
+sóolch'intubáaj S OO_H L CH_G I N T U B AA_H J
+sóole S OO_H L E
+súutuk S UU_H T U K
+súutuk' S UU_H T U K_G
+súutukil S UU_H T U K I L
+t T
+t'a'abal T_G A_RG B A L
+t'a'abale T_G A_RG B A L E
+t'a'anij T_G A_RG N I J
+t'aan T_G AA_L N
+t'aanaja'an T_G AA_L N A J A_RG N
+t'aane T_G AA_L N E
+t'aane'ex T_G AA_L N E_RG X
+t'aani' T_G AA_L N I_G
+t'aanil T_G AA_L N I L
+t'aano T_G AA_L N O
+t'aano'oba' T_G AA_L N O_RG B A_G
+t'ab T_G A B
+t'abe T_G A B E
+t'abik T_G A B I K
+t'abiko'ob T_G A B I K O_RG B
+t'abmaj T_G A B M A J
+t'ajik T_G A J I K
+t'an T_G A N
+t'anik T_G A N I K
+t'anike T_G A N I K E
+t'aniken T_G A N I K E N
+t'aniko'ob T_G A N I K O_RG B
+t'antaj T_G A N T A J
+t'e'et' T_G E_RG T_G
+t'eel T_G EE_L L
+t'eelo'obo' T_G EE_L L O_RG B O_G
+t'o'olol T_G O_RG L O L
+t'ojik T_G O J I K
+t'ot'lin T_G O T_G L I N
+t'ox T_G O X
+t'oxbil T_G O X B I L
+t'u'ul T_G U_RG L
+t'u'ulo T_G U_RG L O
+t'u'uta'al T_G U_RG T A_RG L
+t'ut'liko T_G U T_G L I K O
+t'uubul T_G UU_L B U L
+t'uuch T_G UU_L CH
+t'uup T_G UU_L P
+t'íin T_G II_H N
+t'íincha'at T_G II_H N CH A_RG T
+t'óon T_G OO_H N
+t'úubuk T_G UU_H B U K
+t'úubul T_G UU_H B U L
+t'úuya'al T_G UU_H Y A_RG L
+ta T A
+ta'ab T A_RG B
+ta'aka'an T A_RG K A_RG N
+ta'akal T A_RG K A L
+ta'akikubáaj T A_RG K I K U B AA_H J
+ta'akmubáaj T A_RG K M U B AA_H J
+ta'akuba'ob T A_RG K U B A_G O B
+ta'akuba'obi T A_RG K U B A_G O B I
+ta'akubáaj T A_RG K U B AA_H J
+ta'akumbil T A_RG K U M B I L
+ta'an T A_RG N
+ta'ano T A_RG N O
+ta'ayt T A_RG Y T
+ta'aytak T A_RG Y T A K
+taak T AA_L K
+taak'iin T AA_L K_G II_L N
+taak'in T AA_L K_G I N
+taak'ino T AA_L K_G I N O
+taak'ino' T AA_L K_G I N O_G
+taak'ino'obo T AA_L K_G I N O_RG B O
+taake T AA_L K E
+taake'ex T AA_L K E_RG X
+taakeche T AA_L K E CH E
+taako'obe T AA_L K O_RG B E
+taal T AA_L L
+taala T AA_L L A
+taalak T AA_L L A K
+taalakech T AA_L L A K E CH
+taalakeche T AA_L L A K E CH E
+taalaken T AA_L L A K E N
+taalbil T AA_L L B I L
+taale T AA_L L E
+taale' T AA_L L E_G
+taale'ex T AA_L L E_RG X
+taalech T AA_L L E CH
+taalen T AA_L L E N
+taali T AA_L L I
+taali' T AA_L L I_G
+taalij T AA_L L I J
+taalikecho T AA_L L I K E CH O
+taalja'an T AA_L L J A_RG N
+taalja'anech T AA_L L J A_RG N E CH
+taalo T AA_L L O
+taalo'ob T AA_L L O_RG B
+taalo'obe T AA_L L O_RG B E
+taalo'obe' T AA_L L O_RG B E_G
+taalo'obi' T AA_L L O_RG B I_G
+taalo'obo T AA_L L O_RG B O
+taalo'on T AA_L L O_RG N
+taalo'one'ex T AA_L L O_RG N E_RG X
+taamil T AA_L M I L
+taan T AA_L N
+taanaj T AA_L N A J
+taanaje T AA_L N A J E
+taanajo T AA_L N A J O
+taanajo'ob T AA_L N A J O_RG B
+taank'uche T AA_L N K_G U CH E
+taas T AA_L S
+taasa'ab T AA_L S A_RG B
+taasa'ak T AA_L S A_RG K
+taasa'al T AA_L S A_RG L
+taasaji T AA_L S A J I
+taasik T AA_L S I K
+taasike T AA_L S I K E
+taasiko'obe T AA_L S I K O_RG B E
+taata T AA_L T A
+taata'ob T AA_L T A_G O B
+taatae' T AA_L T A E_G
+taatai' T AA_L T A I_G
+taatao' T AA_L T A O_G
+taj T A J
+tajche T A J CH E
+tak T A K
+tak'iin T A K_G II_L N
+tak'tal T A K_G T A L
+takik T A K I K
+takikubáaj T A K I K U B AA_H J
+tal T A L
+tamali'e T A M A L I_G E
+taman T A M A N
+tan T A N
+tanda T A N D A
+tanto T A N T O
+taponil T A P O N I L
+tarde T A R D E
+tardeo T A R D E O
+tartartik T A R T A R T I K
+tataj T A T A J
+tatajats'bil T A T A J A TS_G B I L
+te T E
+te' T E_G
+te'e T E_RG
+te'ela T E_RG L A
+te'elo T E_RG L O
+te'elo' T E_RG L O_G
+te'ex T E_RG X
+te'exa T E_RG X A
+te'exe T E_RG X E
+te'exe' T E_RG X E_G
+te'exo T E_RG X O
+te'eytak T E_RG Y T A K
+tech T E CH
+tech' T E CH_G
+techa T E CH A
+teche T E CH E
+teche' T E CH E_G
+techi T E CH I
+techo T E CH O
+techo' T E CH O_G
+techoo T E CH OO_L
+teech T EE_L CH
+teechi T EE_L CH I
+teen T EE_L N
+teena T EE_L N A
+teeno T EE_L N O
+teetaane'ex T EE_L T AA_L N E_RG X
+teléfono T E L E F O N O
+temblar T E M B L A R
+temprano T E M P R A N O
+ten T E N
+tene T E N E
+tene' T E N E_G
+teni T E N I
+teno T E N O
+teno'ob T E N O_RG B
+tentarnajen T E N T A R N A J E N
+tentartej T E N T A R T E J
+tep'ej T E P_G E J
+tere T E R E
+terkero T E R K E R O
+terkeroe T E R K E R O E
+terko T E R K O
+terreno T E R R E N O
+terrenoo T E R R E N OO_L
+ti T I
+ti' T I_G
+ti'a T I_G A
+ti'al T I_G A L
+ti'ale'ex T I_G A L E_RG X
+ti'alo'ob T I_G A L O_RG B
+ti'alo'on T I_G A L O_RG N
+ti'e T I_G E
+ti'e' T I_G E_G
+ti'i T I_RG
+ti'i' T I_RG GLOT
+ti'o T I_G O
+ti'ob T I_G O B
+ti'obe T I_G O B E
+ti'obe' T I_G O B E_G
+ti'obi' T I_G O B I_G
+tia'al T I A_RG L
+tia'ali T I A_RG L I
+tia'an T I A_RG N
+tia'ane'ex T I A_RG N E_RG X
+tia'anech T I A_RG N E CH
+tia'anen T I A_RG N E N
+tia'aneni T I A_RG N E N I
+tia'ani T I A_RG N I
+tia'ano'o'n T I A_RG N O_RG GLOT N
+tia'ano'ob T I A_RG N O_RG B
+tia'ano'obi T I A_RG N O_RG B I
+tia'ano'on T I A_RG N O_RG N
+tia'ano'oni T I A_RG N O_RG N I
+tiempo T I E M P O
+tiempoe T I E M P O E
+tiempoil T I E M P O I L
+tiempoo T I E M P OO_L
+tiendae T I E N D A E
+tiila T II_L L A
+tiilao' T II_L L A O_G
+tiis T II_L S
+tikino' T I K I N O_G
+tiknal T I K N A L
+tin T I N
+tinkiti T I N K I T I
+tino T I N O
+tio T I O
+tipo T I P O
+tiradoro'ob T I R A D O R O_RG B
+to T O
+to'aj T O_G A J
+to'on T O_RG N
+to'one T O_RG N E
+to'one'ex T O_RG N E_RG X
+to'one'exe' T O_RG N E_RG X E_G
+to'ono T O_RG N O
+to'opol T O_RG P O L
+todavía T O D A B I A
+todo T O D O
+toj T O J
+tojil T O J I L
+tojol T O J O L
+tojolo T O J O L O
+tokar T O K A R
+tokare T O K A R E
+tokarnaj T O K A R N A J
+tolakio T O L A K I O
+tolakjiako T O L A K J I A K O
+tolo T O L O
+tolo' T O L O_G
+tomojchi T O M O J CH I
+tomojchi'itikeno'ob T O M O J CH I_RG T I K E N O_RG B
+tomojchi'o T O M O J CH I_G O
+tomojchi'obo T O M O J CH I_G O B O
+tooj T OO_L J
+toojil T OO_L J I L
+toojilo T OO_L J I L O
+toojol T OO_L J O L
+top T O P
+torero T O R E R O
+toreroe T O R E R O E
+toreroil T O R E R O I L
+toreroili T O R E R O I L I
+toro T O R O
+tortol T O R T O L
+tos T O S
+tosik T O S I K
+totojk'e T O T O J K_G E
+totojk'e'o T O T O J K_G E_G O
+totojkil T O T O J K I L
+trabajo T R A B A J O
+tradikión T R A D I K Y O N
+trafikado T R A F I K A D O
+trago T R A G O
+tragoe T R A G O E
+tragoi T R A G O I
+traikionarbil T R A I K I O N A R B I L
+traikioneroe T R A I K I O N E R O E
+traje T R A J E
+traktor T R A K T O R
+traktoril T R A K T O R I L
+trankilo T R A N K I L O
+trankiloe T R A N K I L O E
+transitoo T R A N S I T OO_L
+transkurrir T R A N S K U R R I R
+tranvía T R A M B I A
+tranvíao T R A M B I A O
+trapich T R A P I CH
+tratartik T R A T A R T I K
+treinta T R E I N T A
+treke T R E K E
+tremendo T R E M E N D O
+trenki T R E N K I
+tres T R E S
+triste T R I S T E
+tristeech T R I S T EE_L CH
+tristesa T R I S T E S A
+triunfo T R I U M F O
+triunfoo T R I U M F O O
+tro'obij T R O_RG B I J
+tráabajo T R AA_H B A J O
+ts'a TS_G A
+ts'a'ab TS_G A_RG B
+ts'a'abak TS_G A_RG B A K
+ts'a'abaken TS_G A_RG B A K E N
+ts'a'abal TS_G A_RG B A L
+ts'a'abalo TS_G A_RG B A L O
+ts'a'abalo'ob TS_G A_RG B A L O_RG B
+ts'a'aben TS_G A_RG B E N
+ts'a'akal TS_G A_RG K A L
+ts'a'an TS_G A_RG N
+ts'a'apal TS_G A_RG P A L
+ts'a'ex TS_G A_G E X
+ts'a'ob TS_G A_G O B
+ts'aaj TS_G AA_L J
+ts'aajwayak' TS_G AA_L J W A Y A K_G
+ts'aak TS_G AA_L K
+ts'ab TS_G A B
+ts'aba'an TS_G A B A_RG N
+ts'abak TS_G A B A K
+ts'abal TS_G A B A L
+ts'aex TS_G A E X
+ts'aik TS_G A I K
+ts'aike'ex TS_G A I K E_RG X
+ts'aiko TS_G A I K O
+ts'aiko'ob TS_G A I K O_RG B
+ts'aj TS_G A J
+ts'ajo'ob TS_G A J O_RG B
+ts'ajubáaj TS_G A J U B AA_H J
+ts'aka'an TS_G A K A_RG N
+ts'aken TS_G A K E N
+ts'akene TS_G A K E N E
+ts'apakbal TS_G A P A K B A L
+ts'arbay TS_G A R B A Y
+ts'arbayo TS_G A R B A Y O
+ts'i' TS_G I_G
+ts'ik TS_G I K
+ts'in TS_G I N
+ts'ipit TS_G I P I T
+ts'o'ojko'one'ex TS_G O_RG J K O_RG N E_RG X
+ts'o'ok TS_G O_RG K
+ts'o'oka'an TS_G O_RG K A_RG N
+ts'o'oke TS_G O_RG K E
+ts'o'oki TS_G O_RG K I
+ts'o'okij TS_G O_RG K I J
+ts'o'okik TS_G O_RG K I K
+ts'o'okiki TS_G O_RG K I K I
+ts'o'okiko TS_G O_RG K I K O
+ts'o'oko TS_G O_RG K O
+ts'o'okok TS_G O_RG K O K
+ts'o'okoko'one'ex TS_G O_RG K O K O_RG N E_RG X
+ts'o'okol TS_G O_RG K O L
+ts'o'okole TS_G O_RG K O L E
+ts'o'okole' TS_G O_RG K O L E_G
+ts'o'okoli TS_G O_RG K O L I
+ts'o'okolo'ob TS_G O_RG K O L O_RG B
+ts'o'oksa'ab TS_G O_RG K S A_RG B
+ts'o'oksik TS_G O_RG K S I K
+ts'o'oksike'ex TS_G O_RG K S I K E_RG X
+ts'o'ole TS_G O_RG L E
+ts'o'oni TS_G O_RG N I
+ts'o'onij TS_G O_RG N I J
+ts'o'onol TS_G O_RG N O L
+ts'oka'an TS_G O K A_RG N
+ts'oka'ano'on TS_G O K A_RG N O_RG N
+ts'okan TS_G O K A N
+ts'ombil TS_G O M B I L
+ts'on TS_G O N
+ts'onajo'ob TS_G O N A J O_RG B
+ts'onik TS_G O N I K
+ts'oniko TS_G O N I K O
+ts'onta'abij TS_G O N T A_RG B I J
+ts'ook TS_G OO_L K
+ts'ooko TS_G OO_L K O
+ts'oon TS_G OO_L N
+ts'oono TS_G OO_L N O
+ts'oono'obe TS_G OO_L N O_RG B E
+ts'u TS_G U
+ts'u'uts TS_G U_RG TS
+ts'u'uts'e TS_G U_RG TS_G E
+ts'u'uts'o'ob TS_G U_RG TS_G O_RG B
+ts'uul TS_G UU_L L
+ts'uule TS_G UU_L L E
+ts'uulilo'ob TS_G UU_L L I L O_RG B
+ts'uulo TS_G UU_L L O
+ts'uulo'ob TS_G UU_L L O_RG B
+ts'uulo'obo TS_G UU_L L O_RG B O
+ts'áabil TS_G AA_H B I L
+ts'áaj TS_G AA_H J
+ts'áajabáaj TS_G AA_H J A B AA_H J
+ts'áajinbáaj TS_G AA_H J I N B AA_H J
+ts'áam TS_G AA_H M
+ts'áamaj TS_G AA_H M A J
+ts'áamal TS_G AA_H M A L
+ts'áik T E S A I K
+ts'íib TS_G II_H B
+ts'íibal TS_G II_H B A L
+ts'íibe'ex TS_G II_H B E_RG X
+ts'íiboltik TS_G II_H B O L T I K
+ts'íibta'alo' TS_G II_H B T A_RG L O_G
+ts'íibta'ano'ob TS_G II_H B T A_RG N O_RG B
+ts'íibtik TS_G II_H B T I K
+ts'íibtil TS_G II_H B T I L
+ts'íik TS_G II_H K
+ts'íiken TS_G II_H K E N
+ts'íiko'ob TS_G II_H K O_RG B
+ts'íim TS_G II_H M
+ts'íimo TS_G II_H M O
+ts'íin TS_G II_H N
+ts'íit TS_G II_H T
+ts'íitbalche TS_G II_H T B A L CH E
+tsa'ay TS A_RG Y
+tsa'ayal TS A_RG Y A L
+tsa'aysik TS A_RG Y S I K
+tsa'ob TS A_G O B
+tsaats TS AA_L TS
+tsaayal TS AA_L Y A L
+tsaj TS A J
+tsajik TS A J I K
+tsajike TS A J I K E
+tsayik TS A Y I K
+tseem TS EE_L M
+tselaj TS E L A J
+tselek TS E L E K
+tselikuba'obe TS E L I K U B A_G O B E
+tsiiknaje TS II_L K N A J E
+tsikbal TS I K B A L
+tsikbala TS I K B A L A
+tsikbala' TS I K B A L A_G
+tsikbalil TS I K B A L I L
+tsikbalnaj TS I K B A L N A J
+tsikbalnaje'ex TS I K B A L N A J E_RG X
+tsikbalnajech TS I K B A L N A J E CH
+tsikbalnajen TS I K B A L N A J E N
+tsikbalnajo'ob TS I K B A L N A J O_RG B
+tsikbalnajo'on TS I K B A L N A J O_RG N
+tsikbalnajo'one'ex TS I K B A L N A J O_RG N E_RG X
+tsikbalnako'ob TS I K B A L N A K O_RG B
+tsikbalo TS I K B A L O
+tsikbalo'ob TS I K B A L O_RG B
+tsikbalt TS I K B A L T
+tsikbalta'ab TS I K B A L T A_RG B
+tsikbalta'al TS I K B A L T A_RG L
+tsikbalta'ale TS I K B A L T A_RG L E
+tsikbalta'an TS I K B A L T A_RG N
+tsikbaltaj TS I K B A L T A J
+tsikbaltej TS I K B A L T E J
+tsikbaltik TS I K B A L T I K
+tsikbaltike TS I K B A L T I K E
+tsikbaltiko'obe TS I K B A L T I K O_RG B E
+tsikbaltmaj TS I K B A L T M A J
+tsikbalto TS I K B A L T O
+tsikbalto'ob TS I K B A L T O_RG B
+tsikbanaja'an TS I K B A N A J A_RG N
+tsikbataj TS I K B A T A J
+tsikbatik TS I K B A T I K
+tsikbatike TS I K B A T I K E
+tsikbatiko TS I K B A T I K O
+tso' TS O_G
+tso'ok TS O_RG K
+tso'okole' TS O_RG K O L E_G
+tso'ots TS O_RG TS
+tso'otsel TS O_RG TS E L
+tsol TS O L
+tsolik TS O L I K
+tsul TS U L
+tsáa TS AA_H
+tsáab TS AA_H B
+tsáaik TS AA_H I K
+tsáaiko'ob TS AA_H I K O_RG B
+tséel TS EE_H L
+tséelch'intubáaj TS EE_H L CH_G I N T U B AA_H J
+tséele TS EE_H L E
+tséelel TS EE_H L E L
+tséenta'abo'ob TS EE_H N T A_RG B O_RG B
+tséenta'alo'ob TS EE_H N T A_RG L O_RG B
+tséentik TS EE_H N T I K
+tséentikaba'ex TS EE_H N T I K A B A_G E X
+tséentiko TS EE_H N T I K O
+tséentikuba'ob TS EE_H N T I K U B A_G O B
+tsíimin TS II_H M I N
+tsíimina TS II_H M I N A
+tsíimine TS II_H M I N E
+tsíimino TS II_H M I N O
+tsíimino' TS II_H M I N O_G
+tsíimino'ob TS II_H M I N O_RG B
+tsíimino'obo TS II_H M I N O_RG B O
+tu T U
+tu'il T U_G I L
+tu'ile T U_G I L E
+tu'on T U_G O N
+tu'ub T U_RG B
+tu'uk' T U_RG K_G
+tu'un T U_RG N
+tu'ux T U_RG X
+tu'uxano'obo T U_RG X A N O_RG B O
+tu'uxe T U_RG X E
+tu'uxi T U_RG X I
+tu'uxi' T U_RG X I_G
+tu'uxil T U_RG X I L
+tu'uxile'ex T U_RG X I L E_RG X
+tu'uxile'ob T U_RG X I L E_G O B
+tu'uxilech T U_RG X I L E CH
+tuk' T U K_G
+tukla'al T U K L A_RG L
+tuklaj T U K L A J
+tuklajo'ob T U K L A J O_RG B
+tuklik T U K L I K
+tuklike T U K L I K E
+tuklike'ex T U K L I K E_RG X
+tuklikene'ex T U K L I K E N E_RG X
+tukliko T U K L I K O
+tukliko'ob T U K L I K O_RG B
+tuklilo'ob T U K L I L O_RG B
+tuklo'ob T U K L O_RG B
+tukulmaj T U K U L M A J
+tukulmajo'obe T U K U L M A J O_RG B E
+tukult T U K U L T
+tukultajo'obe T U K U L T A J O_RG B E
+tulaak T U L AA_L K
+tuláa'k'iin T U L AA_H GLOT K_G II_L N
+tuláak T U L AA_H K
+tuláak' T U L AA_H K_G
+tuláak'e T U L AA_H K_G E
+tuláakal T U L AA_H K A L
+tuláakale T U L AA_H K A L E
+tuláakale' T U L AA_H K A L E_G
+tumeen T U M EE_L N
+tumen T U M E N
+tumene T U M E N E
+tun T U N
+tunich T U N I CH
+tunkuruchuj T U N K U R U CH U J
+tunkuruchuja T U N K U R U CH U J A
+tuntunch'in T U N T U N CH_G I N
+tuntunch'intik T U N T U N CH_G I N T I K
+turix T U R I X
+tusbeeltiken T U S B EE_L L T I K E N
+tuse'ex T U S E_RG X
+tusen T U S E N
+tusene T U S E N E
+tusikuba'ob T U S I K U B A_G O B
+tusikuba'obe T U S I K U B A_G O B E
+tuubul T UU_L B U L
+tuuch T UU_L CH
+tuuch'ub T UU_L CH_G U B
+tuuchai T UU_L CH A I
+tuuklika T UU_L K L I K A
+tuukul T UU_L K U L
+tuukulo'ob T UU_L K U L O_RG B
+tuukulo'obe T UU_L K U L O_RG B E
+tuul T UU_L L
+tuulo T UU_L L O
+tuunich T UU_L N I CH
+tuuniche T UU_L N I CH E
+tuunichil T UU_L N I CH I L
+tuunichilo T UU_L N I CH I L O
+tuunicho T UU_L N I CH O
+tuunicho'ob T UU_L N I CH O_RG B
+tuunkuy T UU_L N K U Y
+tuunkuye T UU_L N K U Y E
+tuunkuyo T UU_L N K U Y O
+tuusil T UU_L S I L
+tuux T UU_L X
+táabak T AA_H B A K
+táaj T AA_H J
+táak'en T AA_H K_G E N
+táamanil T AA_H M A N I L
+táan T AA_H N
+táane T AA_H N E
+táanil T AA_H N I L
+táanile T AA_H N I L E
+táanile' T AA_H N I L E_G
+táankelem T AA_H N K E L E M
+táant T AA_H N T
+táanxel T AA_H N X E L
+táanxilo T AA_H N X I L O
+téen T EE_H N
+téene T EE_H N E
+téenel T EE_H N E L
+téeni T EE_H N I
+téenil T EE_H N I L
+téeno T EE_H N O
+tíich'k'a'at T II_H CH_G K_G A_RG T
+tíich'k'a'ate T II_H CH_G K_G A_RG T E
+tíip T II_H P
+tíip'il T II_H P_G I L
+tíip'ile T II_H P_G I L E
+tíitikubáaj T II_H T I K U B AA_H J
+tíitubáaj T II_H T U B AA_H J
+tóoch'kimbáaj T OO_H CH_G K I M B AA_H J
+tóoch'timbáaj T OO_H CH_G T I M B AA_H J
+tóok T OO_H K
+tóoka'al T OO_H K A_RG L
+tóokbil T OO_H K B I L
+tóoke'ex T OO_H K E_RG X
+tóoken T OO_H K E N
+tóokene T OO_H K E N E
+tóokik T OO_H K I K
+tóop'ol T OO_H P_G O L
+tóosja T OO_H S J A
+tóosja'il T OO_H S J A_G I L
+túubik T UU_H B I K
+túuch'int T UU_H CH_G I N T
+túumben T UU_H M B E N
+túun T UU_H N
+túuna T UU_H N A
+túune T UU_H N E
+túune' T UU_H N E_G
+túuni T UU_H N I
+túuni' T UU_H N I_G
+túunichilo'ob T UU_H N I CH I L O_RG B
+túuno T UU_H N O
+túuno' T UU_H N O_G
+túuxta'aben T UU_H X T A_RG B E N
+túuxta'ak T UU_H X T A_RG K
+túuxtaj T UU_H X T A J
+túuxten T UU_H X T E N
+túuxtikene'ex T UU_H X T I K E N E_RG X
+túuxtiko'ob T UU_H X T I K O_RG B
+u U
+u'ujen U_RG J E N
+u'ulab U_RG L A B
+u'uluke'ex U_RG L U K E_RG X
+u'ulule U_RG L U L E
+u'usen U_RG S E N
+u'uy U_RG Y
+u'uya'abe U_RG Y A_RG B E
+u'uyaj U_RG Y A J
+u'uyaje U_RG Y A J E
+u'uye'ex U_RG Y E_RG X
+ucha'an U CH A_RG N
+ucha'ani U CH A_RG N I
+ucha'anil U CH A_RG N I L
+ucha'ano'ob U CH A_RG N O_RG B
+uj U J
+ujum U J U M
+uk' U K_G
+uk'aj U K_G A J
+uk'ajen U K_G A J E N
+uk'ik U K_G I K
+uk'ul U K_G U L
+uk'ulnak U K_G U L N A K
+ukam U K A M
+ukum U K U M
+uláak U L AA_H K
+uláak' U L AA_H K_G
+uláak'e U L AA_H K_G E
+uláak'i U L AA_H K_G I
+uláak'o U L AA_H K_G O
+uláak'o' U L AA_H K_G O_G
+uláak'o'ob U L AA_H K_G O_RG B
+un U N
+una U N A
+uniko U N I K O
+unikoe U N I K O E
+uti'al U T I_G A L
+uti'alak U T I_G A L A K
+uti'alil U T I_G A L I L
+utia'al U T I A_RG L
+uts U TS
+utschaj U TS CH A J
+utschaji U TS CH A J I
+utschajij U TS CH A J I J
+utse U TS E
+utsil U TS I L
+uuj UU_L J
+uuk UU_L K
+uuta UU_L T A
+uuuuj UU_L UU_L J
+vaka B A K A
+vaka'ob B A K A O B
+valentia B A L E N T Y A
+valentía B A L E N T I A
+valiente B A L Y E N T E
+valienteech B A L Y E N T E E CH
+valienteeche B A L Y E N T E E CH E
+valor B A L O R
+veinte B E I N T E
+veintikinko B E I N T I K I NG K O
+vekes B E K E S
+velokidad B E L O K I D A D
+venadito B E N A D I T O
+venado B E N A D O
+venkidoeni B E NG K I D O E N I
+ventana B E N T A N A
+ver B E R
+ves B E S
+vestido B E S T I D O
+vida B I D A
+vidao B I D A O
+viejo B Y E J O
+viernes B Y E R N E S
+viernesa B Y E R N E S A
+viernese B Y E R N E S E
+vierneso B Y E R N E S O
+vitrola B I T R O L A
+volador B O L A D O R
+volar B O L A R
+vos B O S
+wa W A
+wa'ach W A_RG CH
+wa'akunta'ab W A_RG K U N T A_RG B
+wa'akuntubáaj W A_RG K U N T U B AA_H J
+wa'akúuntik W A_RG K UU_H N T I K
+wa'al W A_RG L
+wa'alaj W A_RG L A J
+wa'alaje W A_RG L A J E
+wa'alakbal W A_RG L A K B A L
+wa'alakbalen W A_RG L A K B A L E N
+wa'alakbali W A_RG L A K B A L I
+wa'ale W A_RG L E
+wa'alej W A_RG L E J
+wa'alen W A_RG L E N
+wa'alik W A_RG L I K
+wa'alike W A_RG L I K E
+wa'aliken W A_RG L I K E N
+wa'aliki W A_RG L I K I
+wa'aliko W A_RG L I K O
+wa'atal W A_RG T A L
+wa'atale'ex W A_RG T A L E_RG X
+wa'awak'a'ak W A_RG W A K_G A_RG K
+waach W AA_L CH
+waaj W AA_L J
+waajo W AA_L J O
+waajo' W AA_L J O_G
+waan W AA_L N
+waawáo' W A A W A O
+waba'al W A B A_RG L
+waba'axa W A B A_RG X A
+waba'axe W A B A_RG X E
+wabixi W A B I X I
+wach'ikubáaj W A CH_G I K U B AA_H J
+wak W A K
+wak'ik W A K_G I K
+wakax W A K A X
+wakaxa W A K A X A
+wakaxe W A K A X E
+wakaxi W A K A X I
+wakaxil W A K A X I L
+wakaxo W A K A X O
+wakaxo' W A K A X O_G
+wakaxo'ob W A K A X O_RG B
+wakaxo'obo W A K A X O_RG B O
+wal W A L
+walakjeak W A L A K J E A K
+wale W A L E
+wale' W A L E_G
+walkila' W A L K I L A_G
+wamáax W A M AA_H X
+wanil W A N I L
+watan W A T A N
+watane W A T A N E
+watano W A T A N O
+wawate W A W A T E
+wawtik W A W T I K
+waye W A Y E
+waye' W A Y E_G
+wayileche' W A Y I L E CH E_G
+waáj W A A J
+we'es W E_RG S
+we'esik W E_RG S I K
+we'esinbáaj W E_RG S I N B AA_H J
+we'et'ek W E_RG T_G E K
+wech W E CH
+weenek W EE_L N E K
+weenekeche W EE_L N E K E CH E
+weenel W EE_L N E L
+weenelo'obe W EE_L N E L O_RG B E
+weenij W EE_L N I J
+weensen W EE_L N S E N
+weeye'exo W EE_L Y E_RG X O
+weeyo'ob W EE_L Y O_RG B
+wenel W E N E L
+wenele W E N E L E
+wenele'ex W E N E L E_RG X
+wenelo W E N E L O
+wenelo'ob W E N E L O_RG B
+wera W E R A
+wey W E Y
+weya W E Y A
+weye W E Y E
+weye' W E Y E_G
+weyile' W E Y I L E_G
+weyile'exe' W E Y I L E_RG X E_G
+weyilech W E Y I L E CH
+weyileche' W E Y I L E CH E_G
+weyilene' W E Y I L E N E_G
+weyilo'oba W E Y I L O_RG B A
+weyilo'obe W E Y I L O_RG B E
+weyilo'obe' W E Y I L O_RG B E_G
+weyilo'one' W E Y I L O_RG N E_G
+weyilo'one'exe' W E Y I L O_RG N E_RG X E_G
+weyo W E Y O
+wi'ij W I_RG J
+wi'ijeche' W I_RG J E CH E_G
+wi'ijen W I_RG J E N
+wi'ijile W I_RG J I L E
+wi'ijilo W I_RG J I L O
+wi'ijtal W I_RG J T A L
+wi'it W I_RG T
+wi'it'o'ob W I_RG T_G O_RG B
+wich W I CH
+wiche W I CH E
+wichkíili' W I CH K II_H L I_G
+wiknal W I K N A L
+wiknale W I K N A L E
+wiknale'ex W I K N A L E_RG X
+wil W I L
+wila W I L A
+wilaj W I L A J
+wilaja W I L A J A
+wilaje W I L A J E
+wilaji W I L A J I
+wile W I L E
+wile'ex W I L E_RG X
+wile'exo'ob W I L E_RG X O_RG B
+wilech W I L E CH
+wilej W I L E J
+wilene W I L E N E
+wileno W I L E N O
+wili W I L I
+wili' W I L I_G
+wilik W I L I K
+wilika' W I L I K A_G
+wilikabaex W I L I K A B A E X
+wilike W I L I K E
+wilike' W I L I K E_G
+wilike'ex W I L I K E_RG X
+wilike'exo W I L I K E_RG X O
+wilike'exo'oba W I L I K E_RG X O_RG B A
+wilikech W I L I K E CH
+wilikecha' W I L I K E CH A_G
+wiliken W I L I K E N
+wilikena' W I L I K E N A_G
+wilikeni W I L I K E N I
+wiliko W I L I K O
+wilmaj W I L M A J
+wilmaje'ex W I L M A J E_RG X
+wilmaje'exi W I L M A J E_RG X I
+wilo'ob W I L O_RG B
+wirin W I R I N
+wits W I TS
+witso'ob W I TS O_RG B
+witso'obo W I TS O_RG B O
+witsíil W I TS II_H L
+wo'och W O_RG CH
+wo'onal W O_RG N A L
+wojel W O J E L
+wojele W O J E L E
+wojele' W O J E L E_G
+wojele'ex W O J E L E_RG X
+wojele'exe' W O J E L E_RG X E_G
+wojeli W O J E L I
+wojelo W O J E L O
+wojeltej W O J E L T E J
+wok W O K
+wok'ol W O K_G O L
+wokol W O K O L
+wokole W O K O L E
+wokoli W O K O L I
+wokolmaj W O K O L M A J
+woksi W O K S I
+woksik W O K S I K
+woojel W OO_L J E L
+wookole W OO_L K O L E
+woom W OO_L M
+wotoch W O T O CH
+wotoche W O T O CH E
+wotoche' W O T O CH E_G
+wotoche'ex W O T O CH E_RG X
+wotoche'exe' W O T O CH E_RG X E_G
+wotoche'exe'' W O T O CH E_RG X E_G GLOT
+wotoche'exi' W O T O CH E_RG X I_G
+wotochi' W O T O CH I_G
+wotocho' W O T O CH O_G
+wowoch'síit'o'ob W O W O CH_G S II_H T_G O_RG B
+wu'uy W U_RG Y
+wu'uya W U_RG Y A
+wu'uyaj W U_RG Y A J
+wu'uyaje W U_RG Y A J E
+wu'uye'ex W U_RG Y E_RG X
+wu'uyej W U_RG Y E J
+wu'uyik W U_RG Y I K
+wu'uyike W U_RG Y I K E
+wu'uymaj W U_RG Y M A J
+wu'uymaji W U_RG Y M A J I
+wuk'ej W U K_G E J
+wutskíintike'ex W U TS K II_H N T I K E_RG X
+wáa W AA_H
+wáabil W AA_H B I L
+wáaj W AA_H J
+wáak W AA_H K
+wáaka'sik W AA_H K A_G S I K
+wáalkab W AA_H L K A B
+wáalkaba W AA_H L K A B A
+wáalkabe W AA_H L K A B E
+wáalkabe'ex W AA_H L K A B E_RG X
+wáantej W AA_H N T E J
+wáantikabáaj W AA_H N T I K A B AA_H J
+wáay W AA_H Y
+wáayil W AA_H Y I L
+wáayo W AA_H Y O
+wáe' W A E
+wéet W EE_H T
+wéetel W EE_H T E L
+wéetela W EE_H T E L A
+wéetele'ex W EE_H T E L E_RG X
+wíicham W II_H CH A M
+wíichame W II_H CH A M E
+wíichamo W II_H CH A M O
+wíichan W II_H CH A N
+wíinik W II_H N I K
+wíinikilo'ob W II_H N I K I L O_RG B
+wíiniko'ob W II_H N I K O_RG B
+wíinkilal W II_H N K I L A L
+wíinkilile W II_H N K I L I L E
+wíits'in W II_H TS_G I N
+wíits'ine' W II_H TS_G I N E_G
+wíits'ini' W II_H TS_G I N I_G
+wóok'ol W OO_H K_G O L
+wóok'ola W OO_H K_G O L A
+wóok'ostaj W OO_H K_G O S T A J
+wóok'ostik W OO_H K_G O S T I K
+wóok'ot W OO_H K_G O T
+wóok'ote'ex W OO_H K_G O T E_RG X
+wóol W OO_H L
+wóole W OO_H L E
+wóole'ex W OO_H L E_RG X
+wóolili W OO_H L I L I
+wóote W OO_H T E
+wóotik W OO_H T I K
+wóotsilile W OO_H TS I L I L E
+wúuts'bentej W UU_H TS_G B E N T E J
+wúuts'ul W UU_H TS_G U L
+x X
+xa'ak'a'an X A_RG K_G A_RG N
+xa'ak'e X A_RG K_G E
+xa'ak'paj X A_RG K_G P A J
+xa'ak'pajij X A_RG K_G P A J I J
+xa'ak'pajo'on X A_RG K_G P A J O_RG N
+xa'ak'ta'al X A_RG K_G T A_RG L
+xa'ak'tik X A_RG K_G T I K
+xa'an X A_RG N
+xa'anil X A_RG N I L
+xaan X AA_L N
+xaanchaj X AA_L N CH A J
+xaanjij X AA_L N J I J
+xaantal X AA_L N T A L
+xaaw X AA_L W
+xachla'amaj X A CH L A_RG M A J
+xakk'aje X A K K_G A J E
+xakk'ajij X A K K_G A J I J
+xakla'am X A K L A_RG M
+xaklankal X A K L A N K A L
+xamach X A M A CH
+xaman X A M A N
+xan X A N
+xana X A N A
+xanab X A N A B
+xanabo X A N A B O
+xane X A N E
+xane' X A N E_G
+xani X A N I
+xani' X A N I_G
+xano X A N O
+xch'uupo'obo X CH_G UU_L P O_RG B O
+xch'úupaal X CH_G UU_H P AA_L L
+xch'úupaalo X CH_G UU_H P AA_L L O
+xch'úupal X CH_G UU_H P A L
+xch'úupalo X CH_G UU_H P A L O
+xchi'ichi'ibej X CH I_RG CH I_RG B E J
+xchi'ichi'ibejo X CH I_RG CH I_RG B E J O
+xdaam X D AA_L M
+xdóomitila X D OO_H M I T I L A
+xeen X EE_L N
+xeene'ex X EE_L N E_RG X
+xen X E N
+xhilda E K I S I L D A
+xhildaen E K I S I L D A E N
+xi'ik X I_RG K
+xi'ike X I_RG K E
+xi'ikech X I_RG K E CH
+xi'iken X I_RG K E N
+xi'iko'ob X I_RG K O_RG B
+xi'iko'obi' X I_RG K O_RG B I_G
+xi'iktech X I_RG K T E CH
+xi'imo X I_RG M O
+xi'ipaalo X I_RG P AA_L L O
+xi'ipal X I_RG P A L
+xi'ipalo X I_RG P A L O
+xi'ipalo' X I_RG P A L O_G
+xiib X II_L B
+xiik X II_L K
+xiik' X II_L K_G
+xiik'o'obe X II_L K_G O_RG B E
+xik'nal X I K_G N A L
+xik'nalnaj X I K_G N A L N A J
+xikin X I K I N
+xiknalnako'ob X I K N A L N A K O_RG B
+xk'an X K_G A N
+xk'anchaan X K_G A N CH AA_L N
+xk'atabche X K_G A T A B CH E
+xk'ook X K_G OO_L K
+xk'ook'o X K_G OO_L K_G O
+xka X K A
+xka'a X K A_RG
+xka'anal X K A_RG N A L
+xkaat X K AA_L T
+xkaaxo'obo X K AA_L X O_RG B O
+xkatiik X K A T II_L K
+xki'ichpan X K I_RG CH P A N
+xkoonchae' X K OO_L N CH A E_G
+xkáakpachtiko'obe X K AA_H K P A CH T I K O_RG B E
+xmaruch X M A R U CH
+xmeech X M EE_L CH
+xmeelae' X M EE_L L A E_G
+xmáaj X M AA_H J
+xno'oj X N O_RG J
+xno'oja X N O_RG J A
+xnuk X N U K
+xnuuk X N UU_L K
+xnuuko X N UU_L K O
+xnúuk X N UU_H K
+xnúuk'ni'ilo X N UU_H K_G N I_RG L O
+xo'okoles X O_RG K O L E S
+xo'okolo' X O_RG K O L O_G
+xo'otol X O_RG T O L
+xo'oxo'otik X O_RG X O_RG T I K
+xoke'ex X O K E_RG X
+xokej X O K E J
+xokik X O K I K
+xokmaj X O K M A J
+xoknáalen X O K N AA_H L E N
+xooch' X OO_L CH_G
+xook X OO_L K
+xooknake'ex X OO_L K N A K E_RG X
+xooknen X OO_L K N E N
+xooknene'ex X OO_L K N E N E_RG X
+xooko'ob X OO_L K O_RG B
+xota'an X O T A_RG N
+xota'ano'ob X O T A_RG N O_RG B
+xotik X O T I K
+xpaancha X P AA_L N CH A
+xpiil X P II_L L
+xpiluche' X P I L U CH E_G
+xseelae' X S EE_L L A E_G
+xsees X S EE_L S
+xta'aka'an X T A_RG K A_RG N
+xta'aka'anil X T A_RG K A_RG N I L
+xta'aka'anilo X T A_RG K A_RG N I L O
+xta'akumbil X T A_RG K U M B I L
+xtajche X T A J CH E
+xtakumbil X T A K U M B I L
+xteere X T EE_L R E
+xteeree' X T EE_L R EE_L GLOT
+xtiila X T II_L L A
+xtiina X T II_L N A
+xts'íik X TS_G II_H K
+xts'íikilo X TS_G II_H K I L O
+xtáan X T AA_H N
+xu'ul X U_RG L
+xu'ulij X U_RG L I J
+xu'ulik X U_RG L I K
+xu'ulul X U_RG L U L
+xu'ulule X U_RG L U L E
+xu'up X U_RG P
+xunáan X U N AA_H N
+xunáane X U N AA_H N E
+xunáanil X U N AA_H N I L
+xunáano X U N AA_H N O
+xupik X U P I K
+xuul X UU_L L
+xuule X UU_L L E
+xuulul X UU_L L U L
+xuululile X UU_L L U L I L E
+xuupe'ex X UU_L P E_RG X
+xviuda'ob E K I S B Y U D A O B
+xweela X W EE_L L A
+xya'ax X Y A_RG X
+xáakk'aj X AA_H K K_G A J
+xáanchaje X AA_H N CH A J E
+xáantal X AA_H N T A L
+xéet X EE_H T
+xí'ik S I I K
+xíikjats'tik X II_H K J A TS_G T I K
+xíimbal X II_H M B A L
+xíimbale X II_H M B A L E
+xíimbalil X II_H M B A L I L
+xíimbalnako'one'ex X II_H M B A L N A K O_RG N E_RG X
+xíimbalt X II_H M B A L T
+xíimbalte'ex X II_H M B A L T E_RG X
+xíimbalteche' X II_H M B A L T E CH E_G
+xíimbaltej X II_H M B A L T E J
+xíimbaltik X II_H M B A L T I K
+xíimbate'ex X II_H M B A T E_RG X
+xíinximbal X II_H N X I M B A L
+xíinximbale X II_H N X I M B A L E
+xíinxíimbal X II_H N X II_H M B A L
+xíiw X II_H W
+xíiwo'ob X II_H W O_RG B
+xíiwul X II_H W U L
+xóolk'atubáaj X OO_H L K_G A T U B AA_H J
+xóon X OO_H N
+y Y
+ya Y A
+ya' Y A_G
+ya'ab Y A_RG B
+ya'abach Y A_RG B A CH
+ya'abal Y A_RG B A L
+ya'abchaj Y A_RG B CH A J
+ya'abchajak Y A_RG B CH A J A K
+ya'abkach Y A_RG B K A CH
+ya'abo'ob Y A_RG B O_RG B
+ya'abtal Y A_RG B T A L
+ya'abtalo'ob Y A_RG B T A L O_RG B
+ya'ach'bil Y A_RG CH_G B I L
+ya'ach'tik Y A_RG CH_G T I K
+ya'al Y A_RG L
+ya'ala'aj Y A_RG L A_RG J
+ya'ala'al Y A_RG L A_RG L
+ya'ala'ale Y A_RG L A_RG L E
+ya'ala'alo Y A_RG L A_RG L O
+ya'ala'alo' Y A_RG L A_RG L O_G
+ya'alaj Y A_RG L A J
+ya'alaje Y A_RG L A J E
+ya'alajo Y A_RG L A J O
+ya'alajo'ob Y A_RG L A J O_RG B
+ya'alajo'obe Y A_RG L A J O_RG B E
+ya'alal Y A_RG L A L
+ya'alale Y A_RG L A L E
+ya'ale Y A_RG L E
+ya'alik Y A_RG L I K
+ya'alike Y A_RG L I K E
+ya'aliko Y A_RG L I K O
+ya'aliko'ob Y A_RG L I K O_RG B
+ya'aliko'obe Y A_RG L I K O_RG B E
+ya'aliko'obi Y A_RG L I K O_RG B I
+ya'aliko'obo Y A_RG L I K O_RG B O
+ya'alikobe Y A_RG L I K O B E
+ya'almaj Y A_RG L M A J
+ya'alo'ob Y A_RG L O_RG B
+ya'alo'obe Y A_RG L O_RG B E
+ya'ax Y A_RG X
+ya'axche Y A_RG X CH E
+ya'axkach Y A_RG X K A CH
+ya'axtak Y A_RG X T A K
+ya'ob Y A_G O B
+yaabilaj Y AA_L B I L A J
+yaabilmajo'on Y AA_L B I L M A J O_RG N
+yaaj Y AA_L J
+yaakumanen Y AA_L K U M A N E N
+yaakunaj Y AA_L K U N A J
+yaan Y AA_L N
+yaanak Y AA_L N A K
+yaanal Y AA_L N A L
+yaanchajij Y AA_L N CH A J I J
+yaane Y AA_L N E
+yaaneche Y AA_L N E CH E
+yaanene Y AA_L N E N E
+yaanenikene Y AA_L N E N I K E N E
+yaani Y AA_L N I
+yaanik Y AA_L N I K
+yaanil Y AA_L N I L
+yaanilech Y AA_L N I L E CH
+yaanilen Y AA_L N I L E N
+yaanili Y AA_L N I L I
+yaanjij Y AA_L N J I J
+yaano Y AA_L N O
+yaano'ob Y AA_L N O_RG B
+yaano'obe Y AA_L N O_RG B E
+yaano'ono Y AA_L N O_RG N O
+yaantak Y AA_L N T A K
+yaantal Y AA_L N T A L
+yaantalo Y AA_L N T A L O
+yaantalo'obe Y AA_L N T A L O_RG B E
+yach'iken Y A CH_G I K E N
+yaj Y A J
+yake Y A K E
+yaktáant Y A K T AA_H N T
+yan Y A N
+yanak Y A N A K
+yane' Y A N E_G
+yane'ex Y A N E_RG X
+yanech Y A N E CH
+yanechi' Y A N E CH I_G
+yaneni' Y A N E N I_G
+yani' Y A N I_G
+yanil Y A N I L
+yanji Y A N J I
+yano'ob Y A N O_RG B
+yano'one'exi' Y A N O_RG N E_RG X I_G
+yano'oni' Y A N O_RG N I_G
+yantal Y A N T A L
+yanten Y A N T E N
+yaske Y A S K E
+yaskee Y A S K EE_L
+yatan Y A T A N
+yatane' Y A T A N E_G
+yatani Y A T A N I
+yatano Y A T A N O
+yatano'obe Y A T A N O_RG B E
+yawat Y A W A T
+yawati Y A W A T I
+yawato'ob Y A W A T O_RG B
+yawato'on Y A W A T O_RG N
+yawato'one Y A W A T O_RG N E
+yayaj Y A Y A J
+ye'esik Y E_RG S I K
+ye'esike Y E_RG S I K E
+ye'esiko'ob Y E_RG S I K O_RG B
+ye'esikubáaj Y E_RG S I K U B AA_H J
+ye'esubáaj Y E_RG S U B AA_H J
+yela'aj Y E L A_RG J
+yelel Y E L E L
+yets'ik Y E TS_G I K
+yich Y I CH
+yichi Y I CH I
+yichkíili' Y I CH K II_H L I_G
+yichkíilo'ob Y I CH K II_H L O_RG B
+yiikal Y II_L K A L
+yiim Y II_L M
+yiimo'ob Y II_L M O_RG B
+yik'el Y I K_G E L
+yiknal Y I K N A L
+yiknale Y I K N A L E
+yiknali Y I K N A L I
+yiknalo Y I K N A L O
+yil Y I L
+yila Y I L A
+yila'al Y I L A_RG L
+yila'ale Y I L A_RG L E
+yila'ali Y I L A_RG L I
+yilaj Y I L A J
+yilaje Y I L A J E
+yilaji Y I L A J I
+yile Y I L E
+yilej Y I L E J
+yileno'ob Y I L E N O_RG B
+yilib Y I L I B
+yilibe Y I L I B E
+yilik Y I L I K
+yilike Y I L I K E
+yiliken Y I L I K E N
+yilikeno'oba' Y I L I K E N O_RG B A_G
+yiliko'ob Y I L I K O_RG B
+yiliko'obe Y I L I K O_RG B E
+yiliko'ona' Y I L I K O_RG N A_G
+yiliko'one'exa' Y I L I K O_RG N E_RG X A_G
+yilkubaob Y I L K U B A O B
+yilmaj Y I L M A J
+yilmajo'ob Y I L M A J O_RG B
+yilo Y I L O
+yilo'ob Y I L O_RG B
+yilo'on Y I L O_RG N
+yilo'one'ex Y I L O_RG N E_RG X
+yo'och Y O_RG CH
+yo'ol Y O_RG L
+yo'olal Y O_RG L A L
+yojel Y O J E L
+yojele' Y O J E L E_G
+yojeli Y O J E L I
+yojelo Y O J E L O
+yojelo'ob Y O J E L O_RG B
+yojelo'obe Y O J E L O_RG B E
+yojelo'obe' Y O J E L O_RG B E_G
+yojelo'obi Y O J E L O_RG B I
+yojelo'obo Y O J E L O_RG B O
+yojelto'obe Y O J E L T O_RG B E
+yojéelta'ale Y O J EE_H L T A_RG L E
+yojéeltaj Y O J EE_H L T A J
+yojéeltiko'ob Y O J EE_H L T I K O_RG B
+yojéeltil Y O J EE_H L T I L
+yok'ol Y O K_G O L
+yok'ola Y O K_G O L A
+yok'olo'ob Y O K_G O L O_RG B
+yok'olo'oba Y O K_G O L O_RG B A
+yok'tik Y O K_G T I K
+yok'tubáaj Y O K_G T U B AA_H J
+yokliko'ob Y O K L I K O_RG B
+yokol Y O K O L
+yokoli Y O K O L I
+yokolo'ob Y O K O L O_RG B
+yokoltik Y O K O L T I K
+yoksa'al Y O K S A_RG L
+yoksaj Y O K S A J
+yook Y OO_L K
+yooke Y OO_L K E
+yooko Y OO_L K O
+yooko'ob Y OO_L K O_RG B
+yooko'obe Y OO_L K O_RG B E
+yookoltiko'ob Y OO_L K O L T I K O_RG B
+yookoltiko'obe Y OO_L K O L T I K O_RG B E
+yookpaak'al Y OO_L K P AA_L K_G A L
+yoondires Y OO_L N D I R E S
+yoorail Y OO_L R A I L
+yooratal Y OO_L R A T A L
+yooratale Y OO_L R A T A L E
+yooratubae Y OO_L R A T U B A E
+yotoba Y O T O B A
+yotoch Y O T O CH
+yotocha Y O T O CH A
+yotoche Y O T O CH E
+yotoche' Y O T O CH E_G
+yotochi' Y O T O CH I_G
+yotocho'ob Y O T O CH O_RG B
+yotocho'obe' Y O T O CH O_RG B E_G
+yu'ub Y U_RG B
+yu'uba'al Y U_RG B A_RG L
+yu'ubaj Y U_RG B A J
+yu'ubaje Y U_RG B A J E
+yu'ubik Y U_RG B I K
+yu'ubike Y U_RG B I K E
+yu'ubiko'ob Y U_RG B I K O_RG B
+yu'ubiko'obe Y U_RG B I K O_RG B E
+yu'ubo'ob Y U_RG B O_RG B
+yu'ubo'obe Y U_RG B O_RG B E
+yu'uk'ulo' Y U_RG K_G U L O_G
+yu'usa'al Y U_RG S A_RG L
+yuk Y U K
+yuk'aj Y U K_G A J
+yuk'ik Y U K_G I K
+yuk'iko'ob Y U K_G I K O_RG B
+yuk'o'ob Y U K_G O_RG B
+yuk'ul Y U K_G U L
+yuk'ule Y U K_G U L E
+yuk'ulil Y U K_G U L I L
+yustal Y U S T A L
+yutsil Y U TS I L
+yutstal Y U TS T A L
+yuuk Y UU_L K
+yuum Y UU_L M
+yuume Y UU_L M E
+yuume' Y UU_L M E_G
+yuumil Y UU_L M I L
+yuumile Y UU_L M I L E
+yuumilo'ob Y UU_L M I L O_RG B
+yuumilo'obi Y UU_L M I L O_RG B I
+yáa'biltale Y AA_H GLOT B I L T A L E
+yáa'bital Y AA_H GLOT B I T A L
+yáa'bitale Y AA_H GLOT B I T A L E
+yáabil Y AA_H B I L
+yáabilo'ob Y AA_H B I L O_RG B
+yáach'al Y AA_H CH_G A L
+yáak'alal Y AA_H K_G A L A L
+yáakab'sik Y AA_H K A B GLOT S I K
+yáalkab Y AA_H L K A B
+yáalkabo'ob Y AA_H L K A B O_RG B
+yáalkabtik Y AA_H L K A B T I K
+yáan Y AA_H N
+yáanal Y AA_H N A L
+yáantik Y AA_H N T I K
+yáantiko'one Y AA_H N T I K O_RG N E
+yáantikubáaj Y AA_H N T I K U B AA_H J
+yáawata'al Y AA_H W A T A_RG L
+yáawata'ale Y AA_H W A T A_RG L E
+yáax Y AA_H X
+yáaxil Y AA_H X I L
+yáaxk'iine Y AA_H X K_G II_L N E
+yáaxk'iino Y AA_H X K_G II_L N O
+yáaxo Y AA_H X O
+yéemel Y EE_H M E L
+yéemelo'ob Y EE_H M E L O_RG B
+yéet Y EE_H T
+yéetel Y EE_H T E L
+yéetela Y EE_H T E L A
+yéetelo'ob Y EE_H T E L O_RG B
+yéey Y EE_H Y
+yéeyo Y EE_H Y O
+yíib Y II_H B
+yíicham Y II_H CH A M
+yíichame Y II_H CH A M E
+yíichan Y II_H CH A N
+yóok Y OO_H K
+yóok'ol Y OO_H K_G O L
+yóok'olo Y OO_H K_G O L O
+yóok'olo'obo Y OO_H K_G O L O_RG B O
+yóok'osta'al Y OO_H K_G O S T A_RG L
+yóok'osta'alo' Y OO_H K_G O S T A_RG L O_G
+yóok'ostiko'ob Y OO_H K_G O S T I K O_RG B
+yóok'ot Y OO_H K_G O T
+yóok'oto'ob Y OO_H K_G O T O_RG B
+yóokol Y OO_H K O L
+yóokolkaab Y OO_H K O L K AA_L B
+yóokolkaabo' Y OO_H K O L K AA_L B O_G
+yóol Y OO_H L
+yóole Y OO_H L E
+yóolil Y OO_H L I L
+yóolo'ob Y OO_H L O_RG B
+yóot Y OO_H T
+yóotaj Y OO_H T A J
+yóox Y OO_H X
+yóoxtúulal Y OO_H X T UU_H L A L
+yúuchul Y UU_H CH U L
+yúuchuli Y UU_H CH U L I
+yúuchulo Y UU_H CH U L O
+yúuntun Y UU_H N T U N
+yúuntune Y UU_H N T U N E
+yúuyum Y UU_H Y U M
+áa'bil AA_H GLOT B I L
+áak'ab AA_H K_G A B
+áak'abchaje AA_H K_G A B CH A J E
+áak'abe AA_H K_G A B E
+áak'abil AA_H K_G A B I L
+áak'abile AA_H K_G A B I L E
+áak'abo AA_H K_G A B O
+áak'al AA_H K_G A L
+áak'alo'ob AA_H K_G A L O_RG B
+áakab AA_H K A B
+áakabo' AA_H K A B O_G
+áakach AA_H K A CH
+áaktun AA_H K T U N
+áaktuno AA_H K T U N O
+áalkab AA_H L K A B
+áalkabe'ex AA_H L K A B E_RG X
+áalkabil AA_H L K A B I L
+áalkabilo AA_H L K A B I L O
+áalkabnajo'on AA_H L K A B N A J O_RG N
+áanimas AA_H N I M A S
+áantikene AA_H N T I K E N E
+áawato AA_H W A T O
+áayim AA_H Y I M
+ángel A NG J E L
+ávila A B I L A
+ée'joch'e'en EE_H GLOT J O CH_G E_RG N
+ée'joch'e'enil EE_H GLOT J O CH_G E_RG N I L
+éekjo'och'e'enilo' EE_H K J O_RG CH_G E_RG N I L O_G
+éekjoch'e'enil EE_H K J O CH_G E_RG N I L
+éekjoch'e'enilo' EE_H K J O CH_G E_RG N I L O_G
+éemel EE_H M E L
+éens EE_H N S
+éensa'aben EE_H N S A_RG B E N
+éensa'abene EE_H N S A_RG B E N E
+éensa'abi EE_H N S A_RG B I
+éensikeno'ob EE_H N S I K E N O_RG B
+éet EE_H T
+éetel EE_H T E L
+éetele' EE_H T E L E_G
+éetele'ex EE_H T E L E_RG X
+él E L
+épokao E P O K A O
+épokas E P O K A S
+íich'ak II_H CH_G A K
+íicham II_H CH A M
+íits'in II_H TS_G I N
+íitsmal II_H TS M A L
+íitsmale' II_H TS M A L E_G
+íitsmalil II_H TS M A L I L
+íitsmalilen II_H TS M A L I L E N
+íitsmalili' II_H TS M A L I L I_G
+íitsmalo' II_H TS M A L O_G
+íntimo I N T I M O
+ítsmale' I T S M A L E
+óo OO_H
+óok'ostike'ex OO_H K_G O S T I K E_RG X
+óok'ot OO_H K_G O T
+óok'oto OO_H K_G O T O
+óol OO_H L
+óolal OO_H L A L
+óole OO_H L E
+óole'ex OO_H L E_RG X
+óole'exi' OO_H L E_RG X I_G
+óolechi' OO_H L E CH I_G
+óolecho'ob OO_H L E CH O_RG B
+óolene'ex OO_H L E N E_RG X
+óoleni' OO_H L E N I_G
+óoli OO_H L I
+óoli' OO_H L I_G
+óolo'ob OO_H L O_RG B
+óoltaj OO_H L T A J
+óoltaje'ex OO_H L T A J E_RG X
+óoltaji' OO_H L T A J I_G
+óoltik OO_H L T I K
+óool OO_H O L
+óotsil OO_H TS I L
+óotsile OO_H TS I L E
+óotsilech OO_H TS I L E CH
+óotsili OO_H TS I L I
+óotsilil OO_H TS I L I L
+óotsilili OO_H TS I L I L I
+óotsilo OO_H TS I L O
+óotsilo'ob OO_H TS I L O_RG B
+óotsilo'obo OO_H TS I L O_RG B O
+óotsilo'on OO_H TS I L O_RG N
+óotsilo'one OO_H TS I L O_RG N E
+óox OO_H X
+óoxi' OO_H X I_G
+óoxkúul OO_H X K UU_H L
+óoxp'eel OO_H X P_G EE_L L
+óoxp'éel OO_H X P_G EE_H L
+óoxp'éeli OO_H X P_G EE_H L I
+óoxtéen OO_H X T EE_H N
+óoxtéene OO_H X T EE_H N E
+óoxtúul OO_H X T UU_H L
+óoxwuuts' OO_H X W UU_L TS_G
+último U L T I M O
+úniko U N I K O
+úuch UU_H CH
+úucha UU_H CH A
+úucha'an UU_H CH A_RG N
+úuchben UU_H CH B E N
+úuche UU_H CH E
+úuchi UU_H CH I
+úuchi' UU_H CH I_G
+úuchij UU_H CH I J
+úuchik UU_H CH I K
+úuchiko' UU_H CH I K O_G
+úuchil UU_H CH I L
+úuchile UU_H CH I L E
+úuchke UU_H CH K E
+úuchla'ajo'ob UU_H CH L A_RG J O_RG B
+úucho UU_H CH O
+úuchuk UU_H CH U K
+úuchul UU_H CH U L
+úuchule UU_H CH U L E
+úukum UU_H K U M
+úukumo UU_H K U M O
+úulum UU_H L U M

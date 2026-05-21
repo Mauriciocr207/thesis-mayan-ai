@@ -1,0 +1,46 @@
+[project]
+name = "kinai"
+version = "0.1.0"
+description = "thesis-mayan-ai"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.95.0",
+    "datasets>=4.8.4",
+    "fabric>=3.2.2",
+    "fontawesome>=5.10.1.post1",
+    "huggingface-hub>=1.3.5",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.8",
+    "num2words>=0.5.14",
+    "numpy>=2.3.5",
+    "opencv-python>=4.13.0.92",
+    "pandas>=2.3.3",
+    "phonemizer>=3.3.0",
+    "praat-parselmouth>=0.4.7",
+    "prompt-toolkit>=3.0.52",
+    "pyarrow>=23.0.0",
+    "python-dotenv>=1.2.2",
+    "pywaffle>=1.1.1",
+    "scienceplots>=2.2.1",
+    "scipy>=1.17.0",
+    "seaborn>=0.13.2",
+    "sounddevice>=0.5.5",
+    "soundfile>=0.13.1",
+    "torch>=2.11.0",
+    "torchcodec>=0.11.1",
+    "typer>=0.21.1",
+    "yt-dlp>=2026.3.17",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/kinai"]
+
+[project.scripts]
+kinai = "kinai.app:entry"
