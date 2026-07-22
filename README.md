@@ -10,7 +10,7 @@
 ![KenLM](https://img.shields.io/badge/KenLM-3--gram%20LM-6E40C9?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)
 
-## 🌟 Project Overview
+## 🌟 Descripción del proyecto
 
 **thesis-mayan-ai** es el repositorio activo de mi tesis sobre **reconocimiento automático del habla (ASR) en maya yucateco**. Reúne dos líneas de trabajo que se sostienen mutuamente: la construcción y análisis de un **corpus propio** de aproximadamente cuatro horas de audio etiquetado, y el **ajuste fino del modelo multilingüe [MMS-1b-all](https://huggingface.co/facebook/mms-1b-all)** de Meta sobre ese corpus para trazar una curva de aprendizaje que responda la pregunta de fondo: ¿cuánto audio necesita el maya yucateco para un ASR usable?
 
@@ -18,7 +18,7 @@
 
 > 🧭 **Nota**: El repositorio conserva material exploratorio (pipeline con Kaldi, herramientas de grabación, scripts sueltos) como bitácora del proceso. No todo está en uso activo; las secciones lo indican explícitamente.
 
-## 🔗 Resources & Links
+## 🔗 Recursos
 
 | Recurso | Ubicación |
 | --- | --- |
@@ -29,7 +29,7 @@
 | 🌐 **Demo interactiva** | _(TBD — Hugging Face Space con Gradio)_ |
 | 📄 **Paper de referencia** | [Bartley & Ragni, 2025](https://arxiv.org/abs/2510.04832) |
 
-## 🎯 Key Features
+## 🎯 Principales características
 
 - **🎙️ Corpus propio de maya yucateco** — ~2,535 utterances de 32 hablantes, ~4 horas, mono a 16 kHz, integrando fuentes diversas (YouTube didáctico, narraciones de Maya Campeche, grabaciones propias).
 - **📈 Curva de aprendizaje completa** — Doce modelos entrenados de 20 a 240 minutos en pasos de 20, todos con la misma semilla y subsets anidados para que la variable independiente sea estrictamente la cantidad de audio.
@@ -38,7 +38,7 @@
 - **👥 Splits por hablante** — Test y validación con hablantes hold-out fijos para que las métricas no se inflen por memorización de timbres.
 - **📊 Análisis lingüístico y acústico** — Espacio vocálico, formantes, F0, distribuciones de n-gramas, mapas de calor CV/CVC, todo reproducible desde notebooks.
 
-## 🧠 Methodology
+## 🧠 Metodología
 
 ### El punto de partida: MMS ulab v2 y MMS-1b-all
 
@@ -69,7 +69,7 @@ for name, param in model._get_adapters().items():
 | **Decoder** | KenLM 3-grams + beam search (pyctcdecode) |
 | **Métricas** | WER greedy, CER greedy, WER con LM, CER con LM |
 
-## 📂 Repository Structure
+## 📂 Estructura del repositorio
 
 ### 1️⃣ Construcción del corpus — `notebooks/create_dataset/`
 
@@ -118,9 +118,9 @@ Este fue el camino inicial (replicar a Bartley & Ragni literalmente con Kaldi). 
 | [`tools/`](tools/) | Scripts sueltos (`align_metrics.py`, `install_kenlm.sh`, `normalize_narraciones.py`, `pad_segments.py`) |
 | [`build/`](build/), [`kaldi/`](kaldi/) | Submódulo de Kaldi compilado localmente |
 
-## 🚀 Quick Start
+## 🚀 Guía rápida
 
-### Prerequisites
+### Requisitos
 
 ```bash
 sudo apt update
@@ -185,7 +185,7 @@ print(processor.batch_decode(logits.cpu().numpy()).text[0])
 - **[Parselmouth (Praat)](https://parselmouth.readthedocs.io/)** — Análisis fonético: formantes, F0, intensidad
 - **[Kaldi](https://kaldi-asr.org/)** — Pipeline clásico (exploratorio, no activo)
 
-### 🌐 Interface & Tooling
+### 🌐 Interfaces y herramientas
 
 - **[Gradio](https://gradio.app/)** — Demo interactiva sobre Hugging Face Spaces
 - **[Hugging Face Hub](https://huggingface.co/)** — Hosting de modelos, dataset y Space
@@ -193,13 +193,13 @@ print(processor.batch_decode(logits.cpu().numpy()).text[0])
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** — Descarga de audio de YouTube
 - **[uv](https://github.com/astral-sh/uv)** — Gestor de entorno y dependencias
 
-### 📊 Visualization & Analysis
+### 📊 Visualización y Análisis
 
 - **[matplotlib](https://matplotlib.org/)** + **[scienceplots](https://github.com/garrettj403/SciencePlots)** — Gráficas científicas
 - **[scikit-learn](https://scikit-learn.org/)** — k-means y DBSCAN para clustering del espacio vocálico
 - **[pandas](https://pandas.pydata.org/)** + **[numpy](https://numpy.org/)** — Manipulación de datos y métricas
 
-## 🤖 Use of Artificial Intelligence
+## 🤖 Uso de Inteligencia Artificial
 
 Este proyecto utilizó herramientas de IA en varias etapas del desarrollo:
 
