@@ -1,6 +1,7 @@
 {
     "python.languageServer": "Pylance",
     "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticMode": "openFilesOnly",
     "python.analysis.autoImportCompletions": true,
     "python.analysis.useLibraryCodeForTypes": true,
     "python.analysis.diagnosticSeverityOverrides": {
@@ -9,4 +10,38 @@
         "reportOptionalSubscript": "none",
         "reportGeneralTypeIssues": "none"
     },
+    "python.analysis.exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/.*",
+        "kaldi/**",
+        "build/**",
+        "corpora/**",
+        "assets/**",
+        "research/**",
+        "src/speech-collector/**",
+        "**/notebooks/**/data/**"
+    ],
+    "files.watcherExclude": {
+        "**/.git/**": true,
+        "**/.venv/**": true,
+        "**/node_modules/**": true,
+        "**/__pycache__/**": true,
+        "**/kaldi/**": true,
+        "**/build/**": true,
+        "**/corpora/**": true,
+        "**/assets/**": true,
+        "**/research/**": true,
+        "**/src/speech-collector/**": true,
+        "**/notebooks/**/data/**": true
+    },
+    "search.exclude": {
+        "**/.venv": true,
+        "**/node_modules": true,
+        "**/kaldi": true,
+        "**/corpora": true,
+        "**/assets": true,
+        "**/src/speech-collector": true,
+        "**/uv.lock": true
+    }
 }

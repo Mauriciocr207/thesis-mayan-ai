@@ -87,6 +87,7 @@ class Segment:
     
     def to_dict(self):
         return {
+            "utt_id": self.utt_id,
             "maya": self.maya,
             "spanish": self.spanish,
             "start": self.start,
@@ -109,7 +110,9 @@ class VideoAnnotation:
         vid_id = VideoAnnotation._get_url_id(data["url"])
         segments = []
         for idx, seg_dict in enumerate(data["segments"]):
-            utt_id = f"{vid_id}_{idx:04}"
+            # Honra un utt_id explícito (ej. spk-based) si viene en el JSON;
+            # si no, cae al id derivado de la url + posición.
+            utt_id = seg_dict.get("utt_id") or f"{vid_id}_{idx:04}"
             segments.append(Segment(
                 utt_id=utt_id,
                 maya=seg_dict["maya"],
@@ -123,7 +126,7 @@ class VideoAnnotation:
             url=data["url"],
             title=data["title"],
             segments=segments,
-            metadata=data["metadata"]
+            metadata=data.get("metadata") or {}
         )
     
     @staticmethod
