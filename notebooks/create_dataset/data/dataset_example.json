@@ -1,0 +1,43 @@
+{
+    "recordings": [
+        {
+            "utt_id": "spk_019_utt_0001",
+            "start": "00:00:00.000",
+            "end": "00:00:14.624",
+            "spk_id": "spk_019",
+            "source": "data/recordings/spk_019_utt_0001.wav"
+        }
+        ...
+    ],
+    "youtube": [
+        {
+            "source": "https://youtube...",
+            "title": "...",
+            "segments": [
+                {
+                    "utt_id": "spk_019_utt_0001",
+                    "start": "00:00:00.000",
+                    "end": "00:00:14.624",
+                    "spk_id": "spk_019"
+                }
+                ...
+            ]
+        }
+    ],
+    "narraciones_mayas_campeche": [
+        {
+            "source": "https://site.inali.gob.mx/publicaciones/audios/narraciones_mayas_campeche/01_Anatolio_Pech.mp3",
+            "title": "01_Anatolio_Pech",
+            "segments": [
+                {
+                    "utt_id": "spk_019_utt_0001",
+                    "start": "00:00:00.000",
+                    "end": "00:00:14.624",
+                    "spk_id": "spk_019",
+                    "n_words": 7
+                }
+                ...
+            ]
+        }
+    ]
+}
