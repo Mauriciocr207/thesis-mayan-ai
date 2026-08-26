@@ -10,38 +10,40 @@
         "reportOptionalSubscript": "none",
         "reportGeneralTypeIssues": "none"
     },
+    "python.analysis.extraPaths": [
+        "projects/mayanlab",
+        "projects/ytclip"
+    ],
     "python.analysis.exclude": [
         "**/node_modules",
         "**/__pycache__",
         "**/.*",
-        "kaldi/**",
-        "build/**",
-        "corpora/**",
-        "assets/**",
+        "tools/kaldi/**",
+        "data/**",
         "research/**",
-        "src/speech-collector/**",
-        "**/notebooks/**/data/**"
+        "projects/speech-collector/**",
+        "projects/kaldi_asr/recipe/**"
     ],
     "files.watcherExclude": {
         "**/.git/**": true,
         "**/.venv/**": true,
         "**/node_modules/**": true,
         "**/__pycache__/**": true,
-        "**/kaldi/**": true,
-        "**/build/**": true,
-        "**/corpora/**": true,
-        "**/assets/**": true,
+        "**/tools/kaldi/**": true,
+        "**/data/**": true,
         "**/research/**": true,
-        "**/src/speech-collector/**": true,
-        "**/notebooks/**/data/**": true
+        "**/projects/speech-collector/**": true,
+        "**/projects/kaldi_asr/recipe/**": true
     },
     "search.exclude": {
         "**/.venv": true,
         "**/node_modules": true,
-        "**/kaldi": true,
-        "**/corpora": true,
-        "**/assets": true,
-        "**/src/speech-collector": true,
+        "**/tools/kaldi": true,
+        "**/data/final/audio": true,
+        "**/data/source": true,
+        "**/projects/speech-collector": true,
+        "**/projects/kaldi_asr/recipe/data": true,
+        "**/projects/kaldi_asr/recipe/exp": true,
         "**/uv.lock": true
     }
 }
