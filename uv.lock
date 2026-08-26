@@ -1384,77 +1384,6 @@ wheels = [
 ]
 
 [[package]]
-name = "kinai"
-version = "0.1.0"
-source = { editable = "." }
-dependencies = [
-    { name = "anthropic" },
-    { name = "datasets" },
-    { name = "fabric" },
-    { name = "fontawesome" },
-    { name = "geopandas" },
-    { name = "huggingface-hub" },
-    { name = "ipykernel" },
-    { name = "ipywidgets" },
-    { name = "librosa" },
-    { name = "matplotlib" },
-    { name = "num2words" },
-    { name = "numpy" },
-    { name = "opencv-python" },
-    { name = "openpyxl" },
-    { name = "pandas" },
-    { name = "phonemizer" },
-    { name = "praat-parselmouth" },
-    { name = "prompt-toolkit" },
-    { name = "pyarrow" },
-    { name = "python-dotenv" },
-    { name = "pywaffle" },
-    { name = "scienceplots" },
-    { name = "scipy" },
-    { name = "seaborn" },
-    { name = "sounddevice" },
-    { name = "soundfile" },
-    { name = "torch" },
-    { name = "torchcodec" },
-    { name = "typer" },
-    { name = "yt-dlp" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "anthropic", specifier = ">=0.95.0" },
-    { name = "datasets", specifier = ">=4.8.4" },
-    { name = "fabric", specifier = ">=3.2.2" },
-    { name = "fontawesome", specifier = ">=5.10.1.post1" },
-    { name = "geopandas", specifier = ">=1.1.3" },
-    { name = "huggingface-hub", specifier = ">=1.3.5" },
-    { name = "ipykernel", specifier = ">=7.1.0" },
-    { name = "ipywidgets", specifier = ">=8.1.8" },
-    { name = "librosa", specifier = ">=0.11.0" },
-    { name = "matplotlib", specifier = ">=3.10.8" },
-    { name = "num2words", specifier = ">=0.5.14" },
-    { name = "numpy", specifier = ">=2.3.5" },
-    { name = "opencv-python", specifier = ">=4.13.0.92" },
-    { name = "openpyxl", specifier = ">=3.1.5" },
-    { name = "pandas", specifier = ">=2.3.3" },
-    { name = "phonemizer", specifier = ">=3.3.0" },
-    { name = "praat-parselmouth", specifier = ">=0.4.7" },
-    { name = "prompt-toolkit", specifier = ">=3.0.52" },
-    { name = "pyarrow", specifier = ">=23.0.0" },
-    { name = "python-dotenv", specifier = ">=1.2.2" },
-    { name = "pywaffle", specifier = ">=1.1.1" },
-    { name = "scienceplots", specifier = ">=2.2.1" },
-    { name = "scipy", specifier = ">=1.17.0" },
-    { name = "seaborn", specifier = ">=0.13.2" },
-    { name = "sounddevice", specifier = ">=0.5.5" },
-    { name = "soundfile", specifier = ">=0.13.1" },
-    { name = "torch", specifier = ">=2.11.0" },
-    { name = "torchcodec", specifier = ">=0.11.1" },
-    { name = "typer", specifier = ">=0.21.1" },
-    { name = "yt-dlp", specifier = ">=2026.3.17" },
-]
-
-[[package]]
 name = "kiwisolver"
 version = "1.4.9"
 source = { registry = "https://pypi.org/simple" }
@@ -3594,6 +3523,77 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/46/79/cf31d7a93a8fdc6aa0fbb665be84426a8c5a557d9240b6239e9e11e35fc5/termcolor-3.3.0.tar.gz", hash = "sha256:348871ca648ec6a9a983a13ab626c0acce02f515b9e1983332b17af7979521c5", size = 14434, upload-time = "2025-12-29T12:55:21.882Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/33/d1/8bb87d21e9aeb323cc03034f5eaf2c8f69841e40e4853c2627edf8111ed3/termcolor-3.3.0-py3-none-any.whl", hash = "sha256:cf642efadaf0a8ebbbf4bc7a31cec2f9b5f21a9f726f4ccbb08192c9c26f43a5", size = 7734, upload-time = "2025-12-29T12:55:20.718Z" },
+]
+
+[[package]]
+name = "thesis-mayan-ai"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "anthropic" },
+    { name = "datasets" },
+    { name = "fabric" },
+    { name = "fontawesome" },
+    { name = "geopandas" },
+    { name = "huggingface-hub" },
+    { name = "ipykernel" },
+    { name = "ipywidgets" },
+    { name = "librosa" },
+    { name = "matplotlib" },
+    { name = "num2words" },
+    { name = "numpy" },
+    { name = "opencv-python" },
+    { name = "openpyxl" },
+    { name = "pandas" },
+    { name = "phonemizer" },
+    { name = "praat-parselmouth" },
+    { name = "prompt-toolkit" },
+    { name = "pyarrow" },
+    { name = "python-dotenv" },
+    { name = "pywaffle" },
+    { name = "scienceplots" },
+    { name = "scipy" },
+    { name = "seaborn" },
+    { name = "sounddevice" },
+    { name = "soundfile" },
+    { name = "torch" },
+    { name = "torchcodec" },
+    { name = "typer" },
+    { name = "yt-dlp" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "anthropic", specifier = ">=0.95.0" },
+    { name = "datasets", specifier = ">=4.8.4" },
+    { name = "fabric", specifier = ">=3.2.2" },
+    { name = "fontawesome", specifier = ">=5.10.1.post1" },
+    { name = "geopandas", specifier = ">=1.1.3" },
+    { name = "huggingface-hub", specifier = ">=1.3.5" },
+    { name = "ipykernel", specifier = ">=7.1.0" },
+    { name = "ipywidgets", specifier = ">=8.1.8" },
+    { name = "librosa", specifier = ">=0.11.0" },
+    { name = "matplotlib", specifier = ">=3.10.8" },
+    { name = "num2words", specifier = ">=0.5.14" },
+    { name = "numpy", specifier = ">=2.3.5" },
+    { name = "opencv-python", specifier = ">=4.13.0.92" },
+    { name = "openpyxl", specifier = ">=3.1.5" },
+    { name = "pandas", specifier = ">=2.3.3" },
+    { name = "phonemizer", specifier = ">=3.3.0" },
+    { name = "praat-parselmouth", specifier = ">=0.4.7" },
+    { name = "prompt-toolkit", specifier = ">=3.0.52" },
+    { name = "pyarrow", specifier = ">=23.0.0" },
+    { name = "python-dotenv", specifier = ">=1.2.2" },
+    { name = "pywaffle", specifier = ">=1.1.1" },
+    { name = "scienceplots", specifier = ">=2.2.1" },
+    { name = "scipy", specifier = ">=1.17.0" },
+    { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "sounddevice", specifier = ">=0.5.5" },
+    { name = "soundfile", specifier = ">=0.13.1" },
+    { name = "torch", specifier = ">=2.11.0" },
+    { name = "torchcodec", specifier = ">=0.11.1" },
+    { name = "typer", specifier = ">=0.21.1" },
+    { name = "yt-dlp", specifier = ">=2026.3.17" },
 ]
 
 [[package]]

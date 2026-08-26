@@ -1,21 +1,50 @@
-# python environment
+# --- entorno y artefactos de build ---
 .venv/
-
-# folder to store models
-resources/
-
-/**/*/__pycache__/
+build/
+*.egg-info
+__pycache__/
 *.pyc
 *.pyo
-
-# folders for academic purposes
-/research
-build/
-/src/*.egg-info
+.ipynb_checkpoints/
 .env
-assets/
 
-# ignore kaldi
-kaldi/
+# --- dependencias externas compiladas (ver tools/README.md) ---
+tools/kaldi/
+tools/kenlm/
 
-/**/**/*.wav
+# --- material académico (no forma parte del código) ---
+research/
+
+# --- speech-collector ---
+projects/speech-collector/node_modules/
+projects/speech-collector/.env
+projects/speech-collector/sound_recordings/
+
+# --- datos ---
+# Regla: dentro de data/ se versiona TODO (texto, csv, json) salvo los formatos
+# pesados listados abajo y data/work/ entera, que es regenerable y desechable.
+# Así el repo conserva lo necesario para reconstruir el corpus (~1 MB) sin
+# arrastrar los 3,7 GB de audio. Ver data/README.md.
+data/work/
+data/**/*.wav
+data/**/*.mp3
+data/**/*.aup3
+data/**/*.flac
+data/**/*.m4a
+data/**/*.npz
+data/**/*.shp
+data/**/*.shx
+data/**/*.dbf
+data/**/*.prj
+data/source/mms/.cache/
+
+# resultados de modelos
+resources/
+
+# --- artefactos de ejecución de la receta Kaldi (regenerables, ~33 MB) ---
+# Nunca estuvieron versionados; se conservan en disco pero fuera de git.
+projects/kaldi_asr/recipe/data/
+projects/kaldi_asr/recipe/exp/
+
+# --- volcado de un dataset de terceros dentro del fork de speech-collector ---
+projects/speech-collector/scripts/spoken-squad/

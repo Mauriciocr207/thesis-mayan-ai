@@ -1,0 +1,26 @@
+/* Quitar oscurecimiento nativo del efecto coverflow */
+.swiper-slide {
+  background: transparent !important;
+}
+
+/* Borrar cualquier overlay/opacity que Swiper agrega */
+.swiper-slide-shadow-left,
+.swiper-slide-shadow-right {
+  display: none !important;
+}
+
+/* Aplicar blur a todos excepto el slide activo */
+.swiper-slide {
+  filter: blur(3px);
+  transition: filter 0.3s ease;
+  @apply shadow border rounded-4xl overflow-hidden
+}
+
+/* El slide centrado (activo) NO se blurea */
+.swiper-slide-active {
+  filter: blur(0px) !important;
+}
+
+.swiper-wrapper {
+    @apply py-2 box-border
+}

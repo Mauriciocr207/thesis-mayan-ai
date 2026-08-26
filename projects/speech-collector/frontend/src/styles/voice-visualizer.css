@@ -1,0 +1,19 @@
+.voice-visualizer {
+    @apply relative mt-2
+}
+
+/* .voice-visualizer__canvas-container {
+    
+} */
+
+.voice-visualizer__audio-info-container {
+    @apply absolute
+}
+
+.voice-visualizer__buttons-container {
+    @apply mt-1;
+}
+
+.active-checkbox span::before {
+    @apply border-primary;
+}
