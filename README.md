@@ -197,6 +197,8 @@ for name, param in model._get_adapters().items():
 - [ ] Decidir cómo se publican las 100 grabaciones propias, hoy sin versionar
 - [ ] Revisar `spk_002_utt_0124` / `spk_002_utt_0125`: son el mismo audio byte a byte en el
       dataset publicado
+- [ ] `spk_031_utt_0151` tiene un clic de una muestra en t=6,029 s en la versión publicada;
+      el recorte regenerado no lo tiene
 - [ ] Publicar el Space de Gradio
 - [ ] Completar `tools/install_kaldi.sh`
 - [ ] Análisis cualitativo de errores del modelo (sustituciones, inserciones, eliminaciones)

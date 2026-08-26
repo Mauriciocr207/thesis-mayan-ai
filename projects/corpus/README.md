@@ -43,6 +43,35 @@ Al unificarlo, `dataset.csv` se regenera idéntico salvo **una** celda: `spk_020
 perdió dos espacios finales, porque la rama de 01–03 era la única que no hacía `.strip()`.
 El dataset publicado en el Hub todavía los tiene.
 
+## Estado de ejecución de los notebooks
+
+| Notebook | Estado |
+| --- | --- |
+| `00a_narraciones_download` | ejecutado — descarga los mp3 y los convierte a `data/work/narraciones_wav/` |
+| `00b_narraciones_transcription_stubs` | ejecutado — **no sobrescribe** nada: si el `.txt` existe, lo deja intacto |
+| `00c_narraciones_clean_text` | ejecutado |
+| `0_segment_audios` | ejecutado — genera los 1.227 recortes en `data/work/3h-audios/` |
+| `1_merge_datasets` | ejecutado — reproduce `dataset.csv` |
+| `2_transform_audio_names` | **no se puede completar**: copia a `data/final/audio/` desde `work/3h-audios/` y `work/segments/`, y esta última está vacía porque `ytclip download` no lee el manifiesto vigente (ver abajo) |
+| `3_explore_dataset` | ejecutado |
+| `4_load_to_hugging_face` | **no ejecutado a propósito**: termina en `push_to_hub`, republicaría el dataset |
+| `5_how_to_dataset` | ejecutado — regenera `source_segments.json` (requiere sesión de Hugging Face) |
+| `_correct_transcribe` | **no ejecutado a propósito**: hace llamadas de pago a la API de Anthropic sobre los 1.227 segmentos |
+
+## Fidelidad del recorte
+
+`0_segment_audios` corta desde los wav que produce `00a`, **no** desde los mp3. No es un
+detalle: `ffmpeg` con `-ss` antes de `-i` busca por frames en un mp3, y el decodificado
+mete ruido de redondeo. Cortando desde el mp3 los 1.227 recortes salían con ~8 muestras
+distintas de 233.984 (desviación máxima de 3 sobre ±32768: inaudible, pero no bit-exacto);
+cortando desde el wav salen **byte a byte idénticos** al corpus publicado.
+
+Verificado por md5 sobre los 1.227: **1.226 idénticos**. El único que difiere,
+`spk_031_utt_0151`, difiere en **una sola muestra** (índice 96.466, t=6,029 s) y el
+defecto está en el archivo publicado, no en el regenerado: sus vecinos van 903 → −1014 y
+el valor publicado es −4249, un clic de una muestra. El regenerado da −134, que sí sigue
+la señal.
+
 ## ⚠️ Lo que aún no es reproducible
 
 `ytclip download` **no puede reconstruir el corpus todavía**. `SpokenDictionaryManifest`

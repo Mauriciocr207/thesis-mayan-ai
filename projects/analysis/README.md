@@ -20,5 +20,11 @@ De aquí salen la mayoría de las figuras de la tesis. Todo lee del corpus ya co
 `analyze_acoustic.ipynb` recalcula formantes sobre las 2.535 utterances y tarda; la celda
 siguiente reutiliza `features/formants.npz` si ya está.
 
-`dataset_tokenizer.ipynb` falla en la celda de `phonemizer` si no está instalado
-**festival** en el sistema (`sudo apt install festival`). No tiene que ver con las rutas.
+Todos están ejecutados salvo `dataset_tokenizer.ipynb`, que falla en la celda de
+`phonemizer` porque falta el binario **festival** en el sistema. Se arregla con:
+
+```bash
+sudo apt install festival
+```
+
+y después el notebook corre entero. No tiene nada que ver con las rutas.
