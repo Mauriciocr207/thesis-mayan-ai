@@ -34,3 +34,6 @@ la estructura nueva de `data/`.
 3. Los `.sh` de `scripts/` traen `KALDI_ROOT=/path/to/kaldi  # AJUSTA ESTO` sin resolver.
 4. `legacy/` no está declarado como paquete instalable: para importarlo hay que añadir
    `projects/kaldi_asr/` al `sys.path`.
+5. `legacy/corpus_pipeline/kaldi_data_builder.py:100` llama a `tokenizer.tokenize_word()`,
+   que **no existe**: el método es `_tokenize_word` (privado) y el público es `tokenize`.
+   Ya estaba roto antes de archivarlo.

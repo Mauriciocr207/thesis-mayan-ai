@@ -20,11 +20,10 @@ De aquí salen la mayoría de las figuras de la tesis. Todo lee del corpus ya co
 `analyze_acoustic.ipynb` recalcula formantes sobre las 2.535 utterances y tarda; la celda
 siguiente reutiliza `features/formants.npz` si ya está.
 
-Todos están ejecutados salvo `dataset_tokenizer.ipynb`, que falla en la celda de
-`phonemizer` porque falta el binario **festival** en el sistema. Se arregla con:
+Todos están ejecutados.
 
-```bash
-sudo apt install festival
-```
-
-y después el notebook corre entero. No tiene nada que ver con las rutas.
+`dataset_tokenizer.ipynb` necesita `libespeak-ng1` + `espeak-ng-data`: el tokenizador cae a
+`phonemizer`/espeak para los préstamos del español, que son el **13,9 % del vocabulario del
+corpus** (809 de 5.802 palabras únicas). La celda que compara backends también usa
+`festival`, que solo fonemiza inglés y es opcional. Todo eso se instala y comprueba con
+`./tools/install_system_deps.sh`.

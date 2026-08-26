@@ -75,12 +75,29 @@ otro disco —o a Drive en Colab— sin tocar una sola celda.
 ## 🚀 Guía rápida
 
 ```bash
-sudo apt install portaudio19-dev ffmpeg     # o: ./tools/install_system_deps.sh
+./tools/install_system_deps.sh              # ffmpeg, libespeak-ng, portaudio, tk
 uv sync                                     # entorno + paquetes mayanlab y ytclip
 cp .env.example .env                        # MAYAN_DATA (opcional), ANTHROPIC_API_KEY
 
-uv run ytclip where                         # comprueba dónde resuelven las rutas
+./tools/install_system_deps.sh --check      # qué falta y qué es opcional
+uv run ytclip where                         # dónde resuelven las rutas
 ```
+
+### Dependencias del sistema
+
+`uv sync` no cubre lo que no es un paquete de Python. Lo **obligatorio** es poco:
+
+| Paquete apt | Sin él no funciona |
+| --- | --- |
+| `ffmpeg` | todo el recorte y la conversión de audio, y las duraciones (`ffprobe`) |
+| `libespeak-ng1` + `espeak-ng-data` | el tokenizador con préstamos del español (13,9 % del vocabulario) |
+| `portaudio19-dev`, `python3-tk` | `ytclip correct`, el editor interactivo de timestamps |
+
+Lo opcional (KenLM, Node/PostgreSQL para speech-collector, `festival`) y las credenciales
+están en la tabla completa de [`tools/README.md`](tools/README.md).
+
+> `festival` solo fonemiza **inglés**. El tokenizador usa espeak; festival únicamente hace
+> falta para una celda comparativa de `dataset_tokenizer.ipynb`.
 
 ### Reproducir el corpus
 
