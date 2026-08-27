@@ -45,5 +45,12 @@
         "**/projects/kaldi_asr/recipe/data": true,
         "**/projects/kaldi_asr/recipe/exp": true,
         "**/uv.lock": true
-    }
+    },
+    "python-envs.pythonProjects": [
+        {
+            "path": "projects/mms_asr/results",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
 }
