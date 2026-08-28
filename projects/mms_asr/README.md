@@ -12,7 +12,9 @@ la curva de aprendizaje de 20 a 240 minutos.
 ## Cómo corre en Colab
 
 El notebook **no lee `data/`**: carga el corpus desde el Hub (`mau-cr/mayan-voice`), así
-que no hace falta subir audio. Lo que sí usa de Drive:
+que no hace falta subir audio. Ese repositorio está **privado por el momento**, así que la
+celda de carga necesita un token con acceso concedido (`huggingface-cli login` o
+`login()` de `huggingface_hub`); el acceso se pide al autor. Lo que sí usa de Drive:
 
 ```
 /content/drive/MyDrive/thesis-mayan-ai/

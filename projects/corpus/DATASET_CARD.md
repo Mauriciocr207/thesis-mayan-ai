@@ -34,6 +34,26 @@ Corpus de audio + transcripción en **maya yucateco (yua)** compilado para el en
 - **Tamaño:** 2,535 utterances.
 - **Hablantes:** 32 hablantes únicos (`spk_001`–`spk_032`).
 
+## Acceso
+
+🔒 **El repositorio está privado por el momento.** Para usar el corpus hay que **solicitar
+los datos** al autor (ver [Contacto](#contacto)) y, con el acceso concedido, autenticarse:
+
+```bash
+huggingface-cli login          # sin token autorizado, load_dataset responde 401
+```
+
+El modelo entrenado con este corpus sí es público y se puede probar sin pedir nada:
+
+- 💬 **[Kinai](https://asr-maya-chatbot.netlify.app)** — el chatbot con el modelo aplicado:
+  se le habla en maya yucateco, transcribe y responde en la conversación.
+- 🚀 **[Space de Gradio](https://huggingface.co/spaces/mau-cr/asr-maya-yucateco)** — la demo
+  de transcripción sola.
+- 🤗 **[`mau-cr/mayan_best_model`](https://huggingface.co/mau-cr/mayan_best_model)** — los
+  pesos (MMS-1b-all ajustado con adapters, 240 min + LM de 3 gramas).
+- 🎥 **[Video de la demostración](https://www.youtube.com/watch?v=3JNS1Rq7eg0)**
+- 💻 **[Repositorio de la tesis](https://github.com/Mauriciocr207/thesis-mayan-ai)**
+
 ## Composición
 
 El dataset agrega varias fuentes de habla en maya yucateco:
@@ -73,6 +93,8 @@ Cada ejemplo tiene los siguientes campos:
 Split disponible: `train` (2,535 ejemplos).
 
 ## Uso
+
+Requiere acceso concedido y sesión iniciada (ver [Acceso](#acceso)).
 
 ```python
 from datasets import load_dataset
@@ -172,5 +194,9 @@ A los hablantes nativos que prestaron su voz, a los creadores de los canales de 
 
 ## Contacto
 
+Para **solicitar acceso al corpus** o cualquier duda sobre el dataset:
+
 - Autor: Mauricio Carrillo Romero
 - Email: enrique.mauricio.carrillo.romero@gmail.com
+- Hugging Face: <https://huggingface.co/mau-cr>
+- Repositorio: <https://github.com/Mauriciocr207/thesis-mayan-ai>

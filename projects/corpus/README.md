@@ -5,6 +5,22 @@ Pipeline que va del audio crudo de tres fuentes al dataset publicado como
 utterances, 32 hablantes, ~4 h, mono 16 kHz. La ficha del dataset está en
 [DATASET_CARD.md](DATASET_CARD.md).
 
+> 🔒 El repositorio del Hub está **privado por el momento**. Para descargar el corpus hay
+> que **pedir los datos al autor** (contacto al final de [DATASET_CARD.md](DATASET_CARD.md))
+> y hacer `huggingface-cli login` una vez concedido el acceso: `load_dataset` falla con 401
+> sin token autorizado.
+
+## Qué se puede oír sin descargar nada
+
+El modelo entrenado con este corpus ya está aplicado en dos sitios públicos:
+
+| Dónde | Qué hace |
+| --- | --- |
+| 💬 **[Kinai](https://asr-maya-chatbot.netlify.app)** | el chatbot: se le habla en maya yucateco, transcribe con [`mau-cr/mayan_best_model`](https://huggingface.co/mau-cr/mayan_best_model) y responde en la conversación |
+| 🚀 **[Space de Gradio](https://huggingface.co/spaces/mau-cr/asr-maya-yucateco)** | el mismo modelo, solo transcripción: se sube o graba un audio y devuelve el texto |
+
+Hay además un [video de la demostración](https://www.youtube.com/watch?v=3JNS1Rq7eg0).
+
 ## Notebooks, en orden
 
 | Notebook | Qué hace |

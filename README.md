@@ -1,8 +1,10 @@
 # 🪶 thesis-mayan-ai
 
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-mau--cr%2Fmayan--voice-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/mau-cr/mayan-voice)
-[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-mayan__best__model-FFD21E?style=for-the-badge)](https://huggingface.co/mau-cr/mayan_best_model)
+[![Kinai — chatbot](https://img.shields.io/badge/💬%20Kinai-Chatbot%20con%20el%20modelo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://asr-maya-chatbot.netlify.app)
 [![Gradio Demo](https://img.shields.io/badge/🚀%20Demo-Gradio%20Space-FF7C00?style=for-the-badge&logo=gradio)](https://huggingface.co/spaces/mau-cr/asr-maya-yucateco)
+[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-mayan__best__model-FFD21E?style=for-the-badge)](https://huggingface.co/mau-cr/mayan_best_model)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-mayan--voice%20(privado)-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/mau-cr/mayan-voice)
+[![Video](https://img.shields.io/badge/🎥%20Video-Demostración-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3JNS1Rq7eg0)
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -29,11 +31,28 @@ yucateco para un ASR usable?
 
 | Recurso | Ubicación |
 | --- | --- |
-| 🎙️ **Corpus** | [`mau-cr/mayan-voice`](https://huggingface.co/datasets/mau-cr/mayan-voice) |
-| 📊 **Modelos por punto de curva** | `mau-cr/mms-maya-020min` … [`mau-cr/mms-maya-240min`](https://huggingface.co/mau-cr/mms-maya-240min) |
+| 💬 **Kinai — chatbot con el modelo aplicado** | [asr-maya-chatbot.netlify.app](https://asr-maya-chatbot.netlify.app) |
+| 🚀 **Demo (Space de Gradio)** | [`mau-cr/asr-maya-yucateco`](https://huggingface.co/spaces/mau-cr/asr-maya-yucateco) |
+| 🎙️ **Corpus** 🔒 *privado — hay que pedir acceso* | [`mau-cr/mayan-voice`](https://huggingface.co/datasets/mau-cr/mayan-voice) |
 | 🏆 **Mejor modelo (240 min + LM)** | [`mau-cr/mayan_best_model`](https://huggingface.co/mau-cr/mayan_best_model) |
+| 📊 **Modelos por punto de curva** | `mau-cr/mms-maya-020min` … [`mau-cr/mms-maya-240min`](https://huggingface.co/mau-cr/mms-maya-240min) |
 | 📈 **Resultados de scaling** | [`mau-cr/mms_yua_results`](https://huggingface.co/datasets/mau-cr/mms_yua_results) |
-| 📄 **Paper de referencia** | [Bartley & Ragni, 2025](https://arxiv.org/abs/2510.04832) |
+| 🎥 **Video de la demostración** | [youtube.com/watch?v=3JNS1Rq7eg0](https://www.youtube.com/watch?v=3JNS1Rq7eg0) |
+| 💻 **Repositorio** | [github.com/Mauriciocr207/thesis-mayan-ai](https://github.com/Mauriciocr207/thesis-mayan-ai) |
+
+> 🔒 **El corpus está privado por el momento.** Los modelos, los resultados, la demo y el
+> chatbot son públicos, pero para descargar [`mau-cr/mayan-voice`](https://huggingface.co/datasets/mau-cr/mayan-voice)
+> hay que **solicitar los datos al autor** (contacto al final de
+> [`projects/corpus/DATASET_CARD.md`](projects/corpus/DATASET_CARD.md)) y autenticarse con
+> `huggingface-cli login` una vez concedido el acceso.
+
+### 💬 Kinai
+
+[**Kinai**](https://asr-maya-chatbot.netlify.app) es el chatbot donde el modelo ya está
+aplicado: se le habla en maya yucateco, transcribe con `mau-cr/mayan_best_model` y responde
+en la conversación. Es la forma más rápida de escuchar qué hace la tesis sin instalar nada;
+la [demo en Gradio](https://huggingface.co/spaces/mau-cr/asr-maya-yucateco) expone el mismo
+modelo, pero solo la transcripción.
 
 ## 📂 Cómo está organizado
 
@@ -216,7 +235,7 @@ for name, param in model._get_adapters().items():
       dataset publicado
 - [ ] `spk_031_utt_0151` tiene un clic de una muestra en t=6,029 s en la versión publicada;
       el recorte regenerado no lo tiene
-- [ ] Publicar el Space de Gradio
+- [x] Publicar el Space de Gradio — [`mau-cr/asr-maya-yucateco`](https://huggingface.co/spaces/mau-cr/asr-maya-yucateco)
 - [ ] Completar `tools/install_kaldi.sh`
 - [ ] Análisis cualitativo de errores del modelo (sustituciones, inserciones, eliminaciones)
 
